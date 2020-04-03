@@ -44,16 +44,16 @@ We are going to use different tools to make our website. To develop our website 
   To guarantee that, we are making to-do list and breaking down our goals.
 
 ## Interactive Features
-# Surveys
+### Surveys
 On controversial topics we want to get our audience involved and ask them about their opinion with surveys. We want to present the result of the surveys as a graph.
 Maps
 Having a map with dotes to click on that opens up information or articles related to that region. The users decide what they want to see.
 
-# Click – On pictures
+### Click – On pictures
 Such as pictures of clothes when you click on them you get to the online shop. Similar to Maps.
 Or pictures that lead you to another article. 
 
-# Comments
+### Comments
 Including comments on every article, we want to give our users the opportunity to have a voice on our website.
 They will be at the bottom of the page with a like function and an answer function.
 
