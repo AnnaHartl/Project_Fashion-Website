@@ -42,6 +42,21 @@ We are going to use different tools to make our website. To develop our website 
 
 *	Finishing on time
   To guarantee that, we are making to-do list and breaking down our goals.
-  
+
+##Interactive Features
+#Surveys
+On controversial topics we want to get our audience involved and ask them about their opinion with surveys. We want to present the result of the surveys as a graph.
+Maps
+Having a map with dotes to click on that opens up information or articles related to that region. The users decide what they want to see.
+
+#Click – On pictures
+Such as pictures of clothes when you click on them you get to the online shop. Similar to Maps.
+Or pictures that lead you to another article. 
+
+#Comments
+Including comments on every article, we want to give our users the opportunity to have a voice on our website.
+They will be at the bottom of the page with a like function and an answer function.
+
+
 ## Conclusion
 I’m excited to be working on such a big project. It is the biggest project we’ve ever made. Last year we already made a project, but it was for just four weeks it is different to stay on a project for a whole year.  It is a great opportunity to learn how to plan and structure bigger projects such as this. I think it will help us tremendously in the future. I hope we are achieving our goals and at the end gaining even more passion for building websites.
