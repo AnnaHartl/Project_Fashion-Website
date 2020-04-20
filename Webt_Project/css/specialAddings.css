@@ -4,6 +4,23 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-full-width-pics/blob/master/LICENSE)
  */
 
+.p{
+	font-size: 20px;
+}
+
+.h1-big{
+	font-size: 55px;
+}
+
+.h3-big{
+	font-size: 40px;
+}
+
+
+.Information{
+	font-size: 25px;
+	font-weight: 550;
+}
 .gray{
 	color: #343a40;
 }
@@ -84,7 +101,7 @@
 }
 
 .bg-image-full {
- 
+
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
