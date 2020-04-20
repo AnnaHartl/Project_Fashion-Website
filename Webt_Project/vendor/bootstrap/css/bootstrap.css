@@ -487,7 +487,8 @@ mark,
   border-radius: 0.25rem;
   max-width: 40%;
   height: auto;
-  margin-right: 3.25rem;
+  margin-right: 2.25rem;
+  margin-left: :2.25rem;
 }
 
 .figure {
