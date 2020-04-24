@@ -4,6 +4,14 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-full-width-pics/blob/master/LICENSE)
  */
 
+.reference-link{
+	color: #0089ff;
+}
+
+.reference-link:hover{
+		color: #a00bc5;
+}
+
 .p{
 	font-size: 20px;
 }
@@ -20,6 +28,7 @@
 .Information{
 	font-size: 25px;
 	font-weight: 550;
+	color: #10a26c;
 }
 .gray{
 	color: #343a40;
