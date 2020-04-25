@@ -620,7 +620,6 @@ pre code {
 
 .col {
   -ms-flex-preferred-size: 0;
-  flex-basis: 0;
   -ms-flex-positive: 1;
   flex-grow: 1;
   max-width: 100%;
@@ -4576,7 +4575,8 @@ input[type="button"].btn-block {
 }
 
 .card-title {
-  margin-bottom: 0.75rem;
+  margin-bottom: 0;
+  margin-top: 0.5rem;
 }
 
 .card-subtitle {
