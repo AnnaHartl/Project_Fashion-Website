@@ -262,7 +262,7 @@
                     I think I incorporate some ideas in my wardrobe and I hope you can too.
                     If you have question or any suggestion my friend and I are always open for ideas. You can dm us on our instagram.
                     The contact you can find of the bottom of our page.
-                    
+
                     <h3 class="h3-big"><br />Comments</h3>
 
                     <form class="form-horizontal" action="add_comment.php">
@@ -291,11 +291,12 @@
 
                     </fieldset>
                     </form>
-                    <?php
-                    Include "show_comments.php";
-                    $mysqli->close();
-                    ?>
-                </p>
+                    <section class="text-left">
+                      <?php
+                      Include "show_comments.php";
+                      $mysqli->close();
+                      ?>
+                    </section>
               </div>
               </div>
               </div>

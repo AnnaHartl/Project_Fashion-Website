@@ -12,7 +12,7 @@
 
   <link href="vendor/bootstrap/css/bootstrap.css" rel="stylesheet">
 
-  <link href="css/specialAddings.css" rel="stylesheet">
+  <link href="specialAddings.css" rel="stylesheet">
 
 </head>
 
@@ -33,7 +33,7 @@
             </a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Articles</a>
+        <a class="nav-link" href="articles.php">Articles</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#">Surveys</a>
@@ -83,7 +83,7 @@
     <div class="col-lg-6 mb-4">
       <div class="card h-100">
         <a href="#"><img class="card-img-top" src="Pictures/psychology.jpg" alt=""></a>        <div class="card-body">
-          <a  class="h1 article-homepage" href="FashionPsychology.php">Fashion Psychology</a>
+          <a  class="h1 article-homepage" href="FashionPsychology/FashionPsychology.php">Fashion Psychology</a>
           <p class="lead">by Anna Hartl</p>
           <p class="card-text">	Psychology of fashion is the study of the impact of clothing in which way we perceive and judge others.</p>
         </div>
@@ -94,7 +94,7 @@
       <div class="card h-100">
         <a href="#"><img class="card-img-top" src="Pictures/summeroutfit.jpg" alt=""></a>
         <div class="card-body">
-          <a  class="h1 article-homepage" href="SummerOutfits.php">Perfect Summer Outfits</a>
+          <a  class="h1 article-homepage" href="SummerOutfits/SummerOutfits.php">Perfect Summer Outfits</a>
           <p class="lead">by Tamara Melcher</p>
           <p class="card-text">	If you have ever asked yourself, what you should wear in summer this is the perfect article for you.</p>
         </div>
@@ -111,7 +111,7 @@
               </a>
             </div>
             <div class="col-lg-6 mb-4">
-              <a  class="h1 article-homepage" href="FindYourStyle.php">How to find your style?</a>
+              <a  class="h1 article-homepage" href="FindYourStyle/FindYourStyle.php">How to find your style?</a>
               <p class="lead">by Anna Hartl</p>
               <p class="card-text">
                 In this article I want to explain how to find your style.
@@ -128,7 +128,7 @@
             <div class="card h-100">
               <a href="#"><img class="card-img-top" src="Pictures/so.jpg" alt=""></a>
               <div class="card-body">
-                <a  class="h1 article-homepage" href="FashionSocilogy.php">Socilogy Of Fashion</a>
+                <a  class="h1 article-homepage" href="FashionSocilogy/FashionSocilogy.php">Socilogy Of Fashion</a>
                 <p class="lead">by Tamara Melcher</p>
                 <p class="card-text">
                   And in this article I want to make you realise, how important it is for us to be able to wear what we want to.
@@ -160,7 +160,7 @@
             </a>
           </div>
           <div class="col-lg-6 mb-4">
-            <a  class="h1 article-homepage" href="SecondHandFashion.php">Second Hand Fashion</a>
+            <a  class="h1 article-homepage" href="SecondHandFashion/SecondHandFashion.php">Second Hand Fashion</a>
             <p class="lead">by Tamara Melcher</p>
             <p class="card-text">
               Second-Hand-Fashion is not a bad thing and just because you don't wear the newest fashion does not mean you're not cool or good enough.
@@ -175,7 +175,7 @@
       <div class="card h-100">
         <a href="#"><img class="card-img-top" src="Pictures/we.jpg" alt=""></a>
         <div class="card-body">
-            <a  class="h1 article-homepage" href="WardrobeEssentials.php">Wardrobe Essentials</a>
+            <a  class="h1 article-homepage" href="WardrobeEssentials/WardrobeEssentials.php">Wardrobe Essentials</a>
             <p class="lead">by Anna Hartl</p>
             <p class="card-text">
 	             These wardrobe essentials are the best way to building your own wardrobe and style.
@@ -188,7 +188,7 @@
       <div class="card h-100">
         <a href="#"><img class="card-img-top" src="Pictures/hairstyle2.jpg" alt=""></a>
         <div class="card-body">
-          <a  class="h1 article-homepage" href="Hairstyles.php">Hairstyles</a>
+          <a  class="h1 article-homepage" href="Hairstyles/Hairstyles.php">Hairstyles</a>
           <p class="lead">by Tamara Melcher</p>
           <p class="card-text">
             In this article I want to show you how the hairstyles changed through the years and how people, from
