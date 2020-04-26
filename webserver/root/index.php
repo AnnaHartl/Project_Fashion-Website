@@ -8,206 +8,210 @@
   <meta name="description" content="Fashion Website">
   <meta name="author" content="Anna Hartl & Tamara Melcher">
 
-  <title>TestArticle.com</title>
+  <title>Fashionistas.com</title>
+
+  <link href="vendor/bootstrap/css/bootstrap.css" rel="stylesheet">
+
+  <link href="css/specialAddings.css" rel="stylesheet">
+
 </head>
 
 <body>
-  <link href="vendor/bootstrap/css/bootstrap.css" rel="stylesheet">
-  <link href="css/specialAddings.css" rel="stylesheet">
 
 
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-<!---->
-	<?php
-	include "db_connect.php";
-  //include "redirect_form.php";
-//	include "search_all_jokes.php";
-?>
-
-<nav class="navbar navbar-expand-lg navbar-light bg-light static-top mb-5 shadow">
+  <nav class="navbar navbar-expand-lg navbar-light bg-light static-top mb-5 shadow">
 <div class="container">
-<section class="navbar-brand">Fashionistas</section>
-<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-<div class="collapse navbar-collapse" id="navbarResponsive">
-  <ul class="navbar-nav ml-auto">
-    <li class="nav-item active">
-      <a class="nav-link" href="homepage.html">Home
-            <span class="sr-only">(current)</span>
-          </a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link" href="#">Articles</a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link" href="#">Surveys</a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link" href="#">Contact</a>
-    </li>
-  </ul>
-</div>
+  <section class="navbar-brand">Fashionistas</section>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+  <div class="collapse navbar-collapse" id="navbarResponsive">
+    <ul class="navbar-nav ml-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="homepage.html">Home
+              <span class="sr-only">(current)</span>
+            </a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Articles</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Surveys</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Contact</a>
+      </li>
+    </ul>
+  </div>
 </div>
 </nav>
 
-  <!-- Article -->
-  <section>
-        <div class="container text-center">
-          <div class="card border-0 shadow my-5">
-            <div class="card-body p-5">
-              <div class="container">
+<!-- Page Content -->
+<div class="container">
+<div class="card border-0 shadow my-5">
+  <div class="card-body p-5">
+    <div class="container">
 
-              <h1 class="h1-big">Second Hand Fashion</h1>
-              <p class="lead">by Tamara Melcher</p>
-              <p>
-                  <h3 class="h3-big"><br />Why buy second-hand fashion?</h3>
-                  That is a simple question.
-                  First of all, second-hand fashion is cheaper than the fashion from the shop.
-                  It is also more climate-friendly, because there must not be produced more if you buy something that already has been produced instead of buying everything right from the shop.
-                  Just because you buy it second-hand does not mean that you cannot buy branded clothing.
-                  There are also a few shops who offer that.<br /><br />
+  <!-- Page Heading -->
 
 
+  <div class="row">
+    <div class="col mb-4 text-center">
+      <div class="card h-100">
+        <a href="#"><img class="card-img" src="Pictures/model.jpg" alt=""></a>        <div class="card-body">
+          <h1 class="h1 article-homepage">Welcome to our webpage!</h1>
+          <p class="lead">by Anna Hartl & Tamara Melcher</p>
+          <p>
+            Searching online for style inspiration, it's easy to  fall down the black hole of Instagram.
+            Then when you finally look up from your phone and you realise you have spent two whole days scrolling through your feed - and you're still in your dressing gown, with no idea what to wear (we've all been there).<br/><br/>
+            Well you won't ever have to fear that again. <br/><br/>
+            Because we have done all the hard research for you.
+          </p>
+          <h2>Information</h2>
+          <p>
+            To navigate properly through our website:<br/>
+            There are headers that have a blue-green-ish color <p style= "color: #10a26c; font-weight: 650;">(like so)</p>you can click on them to open further Information.
+          </p>
+        </div>
+      </div>
+    </div>
 
-                  <h3 class="h3-big"><br />Where can you buy it?</h3>
+    <div class="col">
+          <hr><br/>
+    </div>
 
-                  You can buy second-hand almost everywhere.
-                  If you like to buy your clothes in real stores, drive to the next city and ask where one is.
-                  I am sure that a second-hand fashion shop is in nearly every city.
-                  But if you are an online shopper, you just have to google “shop second-hand fashion” and you will get over thousand online shops where you can buy second-hand fashion.
-                  Of course, driving in a shop is more climate friendly, but it does not matter at all, if you know what you want and buy it regional.
-                  <br /><br />
+    <div class="col-lg-6 mb-4">
+      <div class="card h-100">
+        <a href="#"><img class="card-img-top" src="Pictures/psychology.jpg" alt=""></a>        <div class="card-body">
+          <a  class="h1 article-homepage" href="FashionPsychology.php">Fashion Psychology</a>
+          <p class="lead">by Anna Hartl</p>
+          <p class="card-text">	Psychology of fashion is the study of the impact of clothing in which way we perceive and judge others.</p>
+        </div>
+      </div>
+    </div>
 
-                  <h3 class="h3-big"><br />Last words</h3>
-                  I want to finish thisarticle with a reference to our friends and colleges.
-                  Sheila, Julia and Vivian made a website about our enviranmen and how we can be more eco-friendly.
-                  Their website is called GoGreen.com you should definetely check them out.
+    <div class="col-lg-6 mb-4">
+      <div class="card h-100">
+        <a href="#"><img class="card-img-top" src="Pictures/summeroutfit.jpg" alt=""></a>
+        <div class="card-body">
+          <a  class="h1 article-homepage" href="SummerOutfits.php">Perfect Summer Outfits</a>
+          <p class="lead">by Tamara Melcher</p>
+          <p class="card-text">	If you have ever asked yourself, what you should wear in summer this is the perfect article for you.</p>
+        </div>
+      </div>
+    </div>
 
+    <div class="col">
+          <hr><br/>
+    </div>
 
-                  <h3 class="h3-big"><br />Comments</h3>
-
-                  <form class="form-horizontal" action="add_comment.php">
-                  <fieldset>
-                  <legend>Add a comment</legend>
-
-                  <div class="form-group">
-                    <div class="col">
-                    <input id="new_name" name="new_name" type="text" placeholder="username" class="form-control input-md" required="">
-
-                    </div>
-                  </div>
-
-                  <div class="form-group">
-                    <div class="col">
-                    <input id="new_comment" name="new_comment" type="text" placeholder="Comment" class="form-control input-md" required="">
-
-                    </div>
-                  </div>
-
-                  <div class="form-group">
-                    <div class="col">
-                      <button id="submit" name="submit" class="btn btn-primary" style="padding-left: 12px;">Comment!</button>
-                    </div>
-                  </div>
-
-                  </fieldset>
-                  </form>
-                  <section class="text-left">
-                    <?php
-                    Include "show_comments.php";
-                    ?>
-                  </section>
-
+            <div class="col-lg-6 mb-4">
+              <a href="#">
+                <img class="img-fluid rounded mb-3 mb-md-0" src="Pictures/howto.jpg" alt="">
+              </a>
+            </div>
+            <div class="col-lg-6 mb-4">
+              <a  class="h1 article-homepage" href="FindYourStyle.php">How to find your style?</a>
+              <p class="lead">by Anna Hartl</p>
+              <p class="card-text">
+                In this article I want to explain how to find your style.
+                Let’s go together on this journey!
               </p>
+          </div>
+
+        <div class="col">
+              <hr><br/>
+        </div>
+
+
+          <div class="col-lg-6 mb-4">
+            <div class="card h-100">
+              <a href="#"><img class="card-img-top" src="Pictures/so.jpg" alt=""></a>
+              <div class="card-body">
+                <a  class="h1 article-homepage" href="FashionSocilogy.php">Socilogy Of Fashion</a>
+                <p class="lead">by Tamara Melcher</p>
+                <p class="card-text">
+                  And in this article I want to make you realise, how important it is for us to be able to wear what we want to.
+                </p>
+              </div>
             </div>
+          </div>
+
+          <div class="col-lg-6 mb-4">
+            <div class="card h-100">
+              <a href="#"><img class="card-img-top" src="Pictures/differentstyles.jpg" alt=""></a>
+              <div class="card-body">
+                <a  class="h1 article-homepage" href="DifferentStyles.php">Different styles</a>
+                <p class="lead">by Anna Hartl</p>
+                <p class="card-text">
+                  In this article I want to show you a variation of styles, it is a fashion lexicon for styles like the fashion bible.
+                </p>
+              </div>
             </div>
-            </div>
-            </div>
-  </section>
+          </div>
+
+          <div class="col">
+                <hr><br/>
+          </div>
+
+          <div class="col-lg-6 mb-4">
+            <a href="#">
+              <img class="img-fluid rounded mb-3 mb-md-0" src="Pictures/shf.jpg" alt="">
+            </a>
+          </div>
+          <div class="col-lg-6 mb-4">
+            <a  class="h1 article-homepage" href="SecondHandFashion.php">Second Hand Fashion</a>
+            <p class="lead">by Tamara Melcher</p>
+            <p class="card-text">
+              Second-Hand-Fashion is not a bad thing and just because you don't wear the newest fashion does not mean you're not cool or good enough.
+            </p>
+          </div>
+
+          <div class="col">
+                <hr><br/>
+          </div>
+
+    <div class="col-lg-6 mb-4">
+      <div class="card h-100">
+        <a href="#"><img class="card-img-top" src="Pictures/we.jpg" alt=""></a>
+        <div class="card-body">
+            <a  class="h1 article-homepage" href="WardrobeEssentials.php">Wardrobe Essentials</a>
+            <p class="lead">by Anna Hartl</p>
+            <p class="card-text">
+	             These wardrobe essentials are the best way to building your own wardrobe and style.
+             </p>
+           </div>
+      </div>
+    </div>
+
+    <div class="col-lg-6 mb-4">
+      <div class="card h-100">
+        <a href="#"><img class="card-img-top" src="Pictures/hairstyle2.jpg" alt=""></a>
+        <div class="card-body">
+          <a  class="h1 article-homepage" href="Hairstyles.php">Hairstyles</a>
+          <p class="lead">by Tamara Melcher</p>
+          <p class="card-text">
+            In this article I want to show you how the hairstyles changed through the years and how people, from
+            all around the world, wear their hair today.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- /.row -->
+
+  <!-- Pagination -->
 
 
-<!--
-<form class="form-horizontal" action="show_comments.php">
-<fieldset>
-
-<legend></legend>
-
-<div class="form-group">
-  <label class="col-md-4 control-label" for="submit">Show all comments</label>
-  <div class="col-md-4">
-    <button id="submit" name="submit" class="btn btn-default">Show</button>
+</div>
   </div>
 </div>
-
-</fieldset>
-</form>
-
-
-
-<form class="form-horizontal" action="search_keyword.php">
-<fieldset>
-
-<legend>Search for a comment</legend>
-
-<div class="form-group">
-  <label class="col-md-4 control-label" for="keyword">Search Input</label>
-  <div class="col-md-4">
-    <input id="keyword" name="keyword" type="search" placeholder="e. g. chicken" class="form-control input-md" required="">
-    <p class="help-block">Enter a word</p>
-  </div>
 </div>
 
-<div class="form-group">
-  <label class="col-md-4 control-label" for="submit"></label>
-  <div class="col-md-4">
-    <button id="submit" name="submit" class="btn btn-primary">Submit</button>
-  </div>
-</div>
-
-</fieldset>
-</form>
-
-
-<form class="form-horizontal" action="add_comment.php">
-<fieldset>
-
-<legend>Add a comment</legend>
-
-<div class="form-group">
-  <label class="col-md-4 control-label" for="new_name">Name</label>
-  <div class="col-md-4">
-  <input id="new_name" name="new_name" type="text" placeholder="username" class="form-control input-md" required="">
-
-  </div>
-</div>
-
-<div class="form-group">
-  <label class="col-md-4 control-label" for="new_comment">Comment</label>
-  <div class="col-md-4">
-  <input id="new_comment" name="new_comment" type="text" placeholder="e. g. Great!" class="form-control input-md" required="">
-
-  </div>
-</div>
-
-<div class="form-group">
-  <label class="col-md-4 control-label" for="submit"></label>
-  <div class="col-md-4">
-    <button id="submit" name="submit" class="btn btn-primary">Comment!</button>
-  </div>
-</div>
-
-</fieldset>
-</form>
--->
-
-<?php
-//	include "search_keyword.php";
-	$mysqli->close();
-
-	?>
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.js"></script>
+	<script src="vendor/bootstrap/js/bootstrap.js"></script>
 
 </body>
 
