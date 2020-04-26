@@ -667,3 +667,55 @@
 ::1 - - [26/Apr/2020:21:20:39 +0200] "GET /FashionPsychology/vendor/jquery/jquery.min.js HTTP/1.1" 404 243
 ::1 - - [26/Apr/2020:21:20:39 +0200] "GET /FashionPsychology/vendor/bootstrap/js/bootstrap.bundle.js HTTP/1.1" 404 255
 ::1 - - [26/Apr/2020:21:20:43 +0200] "GET /index.php HTTP/1.1" 200 8234
+::1 - - [26/Apr/2020:21:24:40 +0200] "GET /index.php HTTP/1.1" 200 8231
+::1 - - [26/Apr/2020:21:24:40 +0200] "GET /vendor/bootstrap/css/bootstrap.css HTTP/1.1" 304 -
+::1 - - [26/Apr/2020:21:24:40 +0200] "GET /Pictures/rainbow.png HTTP/1.1" 200 8617
+::1 - - [26/Apr/2020:21:25:47 +0200] "-" 408 -
+::1 - - [26/Apr/2020:21:26:41 +0200] "GET /index.php HTTP/1.1" 200 8231
+::1 - - [26/Apr/2020:21:26:41 +0200] "GET /Pictures/rainbow.png HTTP/1.1" 200 11902
+::1 - - [26/Apr/2020:21:27:41 +0200] "-" 408 -
+::1 - - [26/Apr/2020:21:29:03 +0200] "POST /phpmyadmin/index.php HTTP/1.1" 200 1422
+::1 - - [26/Apr/2020:21:29:08 +0200] "GET /index.php HTTP/1.1" 200 8231
+::1 - - [26/Apr/2020:21:29:08 +0200] "GET /specialAddings.css HTTP/1.1" 304 -
+::1 - - [26/Apr/2020:21:29:08 +0200] "GET /Pictures/rainbow.png HTTP/1.1" 200 8965
+::1 - - [26/Apr/2020:21:29:25 +0200] "GET /vendor/bootstrap/js/bootstrap.bundle.js.map HTTP/1.1" 200 402249
+::1 - - [26/Apr/2020:21:29:25 +0200] "GET /vendor/bootstrap/js/bootstrap.js.map HTTP/1.1" 200 250568
+::1 - - [26/Apr/2020:21:31:44 +0200] "POST /phpmyadmin/index.php HTTP/1.1" 200 1422
+::1 - - [26/Apr/2020:21:32:08 +0200] "GET /index.php HTTP/1.1" 200 8231
+::1 - - [26/Apr/2020:21:32:08 +0200] "GET /Pictures/rainbow.png HTTP/1.1" 200 8768
+::1 - - [26/Apr/2020:21:33:21 +0200] "GET /index.php HTTP/1.1" 200 8231
+::1 - - [26/Apr/2020:21:33:21 +0200] "GET /Pictures/rainbow.png HTTP/1.1" 304 -
+::1 - - [26/Apr/2020:21:33:25 +0200] "GET /index.php HTTP/1.1" 200 8231
+::1 - - [26/Apr/2020:21:34:21 +0200] "-" 408 -
+::1 - - [26/Apr/2020:21:36:05 +0200] "GET /index.php HTTP/1.1" 200 8233
+::1 - - [26/Apr/2020:21:36:05 +0200] "GET /Pictures/rainbow.png HTTP/1.1" 304 -
+::1 - - [26/Apr/2020:21:37:05 +0200] "-" 408 -
+::1 - - [26/Apr/2020:21:40:52 +0200] "GET /index.php HTTP/1.1" 200 8237
+::1 - - [26/Apr/2020:21:40:52 +0200] "GET /specialAddings.css HTTP/1.1" 304 -
+::1 - - [26/Apr/2020:21:40:52 +0200] "GET /Pictures/summeroutfit%20(1).jpg HTTP/1.1" 200 58191
+::1 - - [26/Apr/2020:21:40:52 +0200] "GET /Pictures/rainbow.png HTTP/1.1" 304 -
+::1 - - [26/Apr/2020:21:41:42 +0200] "GET /index.php HTTP/1.1" 200 8233
+::1 - - [26/Apr/2020:21:42:19 +0200] "POST /phpmyadmin/index.php HTTP/1.1" 200 73
+::1 - - [26/Apr/2020:21:42:19 +0200] "GET /phpmyadmin/tbl_operations.php?server=1&db=comment_db&table=comments_wardrobeessentials HTTP/1.1" 200 3421
+::1 - - [26/Apr/2020:21:42:34 +0200] "GET /index.php HTTP/1.1" 200 8233
+::1 - - [26/Apr/2020:21:42:34 +0200] "GET /Pictures/rainbow.png HTTP/1.1" 304 -
+::1 - - [26/Apr/2020:21:42:35 +0200] "GET /index.php HTTP/1.1" 200 8233
+::1 - - [26/Apr/2020:21:42:54 +0200] "GET /index.php HTTP/1.1" 200 8237
+::1 - - [26/Apr/2020:21:42:55 +0200] "GET /Pictures/summeroutfit%20(1).jpg HTTP/1.1" 304 -
+::1 - - [26/Apr/2020:21:46:49 +0200] "GET /index.php HTTP/1.1" 200 8237
+::1 - - [26/Apr/2020:21:46:49 +0200] "GET /Pictures/rainbow.jpg HTTP/1.1" 200 15029
+::1 - - [26/Apr/2020:21:46:49 +0200] "GET /Pictures/summeroutfit%20(1).jpg HTTP/1.1" 304 -
+::1 - - [26/Apr/2020:21:50:33 +0200] "GET /index.php HTTP/1.1" 200 8245
+::1 - - [26/Apr/2020:21:50:33 +0200] "GET /Pictures/homeimage%20(1).jpg HTTP/1.1" 200 170134
+::1 - - [26/Apr/2020:21:50:33 +0200] "GET /Pictures/rainbow.jpg HTTP/1.1" 304 -
+::1 - - [26/Apr/2020:21:50:33 +0200] "GET /Pictures/summeroutfit%20(1).jpg HTTP/1.1" 304 -
+::1 - - [26/Apr/2020:21:55:23 +0200] "GET /index.php HTTP/1.1" 200 8249
+::1 - - [26/Apr/2020:21:55:24 +0200] "GET /specialAddings.css HTTP/1.1" 304 -
+::1 - - [26/Apr/2020:21:55:24 +0200] "GET /Pictures/homeimage%20(1).jpg HTTP/1.1" 304 -
+::1 - - [26/Apr/2020:21:55:24 +0200] "GET /Pictures/style%20(1).jpg HTTP/1.1" 200 37873
+::1 - - [26/Apr/2020:21:55:24 +0200] "GET /Pictures/rainbow.jpg HTTP/1.1" 304 -
+::1 - - [26/Apr/2020:21:55:24 +0200] "GET /Pictures/summeroutfit%20(1).jpg HTTP/1.1" 304 -
+::1 - - [26/Apr/2020:21:56:43 +0200] "GET /index.php HTTP/1.1" 200 8249
+::1 - - [26/Apr/2020:21:56:43 +0200] "GET /Pictures/homeimage%20(1).jpg HTTP/1.1" 304 -
+::1 - - [26/Apr/2020:21:56:43 +0200] "GET /Pictures/rainbow.jpg HTTP/1.1" 304 -
+::1 - - [26/Apr/2020:21:56:43 +0200] "GET /Pictures/style%20(2).jpg HTTP/1.1" 200 52545
