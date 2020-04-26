@@ -141,7 +141,7 @@
             <div class="card h-100">
               <a href="#"><img class="card-img-top" src="Pictures/differentstyles.jpg" alt=""></a>
               <div class="card-body">
-                <a  class="h1 article-homepage" href="DifferentStyles.php">Different styles</a>
+                <a  class="h1 article-homepage" href="/Differentstyles/DifferentStyles.php">Different styles</a>
                 <p class="lead">by Anna Hartl</p>
                 <p class="card-text">
                   In this article I want to show you a variation of styles, it is a fashion lexicon for styles like the fashion bible.

@@ -22,9 +22,9 @@ if ($result->num_rows > 0) {
     for($i = $result->num_rows-1; $i>= 0;$i--){
       echo "<p>".$arr["$i"]."</p>";
     }
-    
+
 } else {
-    echo "0 results";
+    echo "0 comments";
 }
 
 ?>

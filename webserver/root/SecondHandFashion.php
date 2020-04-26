@@ -121,6 +121,7 @@
                   <section class="text-left">
                     <?php
                     Include "show_comments.php";
+                    $mysqli->close();
                     ?>
                   </section>
 
@@ -130,12 +131,6 @@
             </div>
             </div>
   </section>
-<?php
-//	include "search_keyword.php";
-	$mysqli->close();
-
-	?>
-
 </body>
 
 </html>
