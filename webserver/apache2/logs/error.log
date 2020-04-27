@@ -1,9 +1,9 @@
 PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/Users/annah/Documents/GitHub/Project_Fashion-Website/webserver\\php\\ext\\php_curl.dll' - Das angegebene Modul wurde nicht gefunden.\r\n in Unknown on line 0
 PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/Users/annah/Documents/GitHub/Project_Fashion-Website/webserver\\php\\ext\\php_pgsql.dll' - Das Betriebssystem kann %1 nicht ausf\xef\xbf\xbdhren.\r\n in Unknown on line 0
-[Sun Apr 26 21:59:33.820576 2020] [mpm_winnt:notice] [pid 12692:tid 788] AH00455: Apache/2.4.29 (Win32) PHP/5.6.32 configured -- resuming normal operations
-[Sun Apr 26 21:59:33.820576 2020] [mpm_winnt:notice] [pid 12692:tid 788] AH00456: Server built: Nov  3 2017 01:01:54
-[Sun Apr 26 21:59:33.820576 2020] [core:notice] [pid 12692:tid 788] AH00094: Command line: 'C:\\Users\\annah\\Documents\\GitHub\\Project_Fashion-Website\\webserver/apache2/bin/httpd_usbwv8.exe -d C:/Users/annah/Documents/GitHub/Project_Fashion-Website/webserver/apache2'
-[Sun Apr 26 21:59:33.820576 2020] [mpm_winnt:notice] [pid 12692:tid 788] AH00418: Parent: Created child process 8620
+[Sun Apr 26 22:03:43.465528 2020] [mpm_winnt:notice] [pid 12220:tid 684] AH00455: Apache/2.4.29 (Win32) PHP/5.6.32 configured -- resuming normal operations
+[Sun Apr 26 22:03:43.465528 2020] [mpm_winnt:notice] [pid 12220:tid 684] AH00456: Server built: Nov  3 2017 01:01:54
+[Sun Apr 26 22:03:43.466529 2020] [core:notice] [pid 12220:tid 684] AH00094: Command line: 'C:\\Users\\annah\\Documents\\GitHub\\Project_Fashion-Website\\webserver/apache2/bin/httpd_usbwv8.exe -d C:/Users/annah/Documents/GitHub/Project_Fashion-Website/webserver/apache2'
+[Sun Apr 26 22:03:43.474531 2020] [mpm_winnt:notice] [pid 12220:tid 684] AH00418: Parent: Created child process 16408
 PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/Users/annah/Documents/GitHub/Project_Fashion-Website/webserver\\php\\ext\\php_curl.dll' - Das angegebene Modul wurde nicht gefunden.\r\n in Unknown on line 0
 PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/Users/annah/Documents/GitHub/Project_Fashion-Website/webserver\\php\\ext\\php_pgsql.dll' - Das Betriebssystem kann %1 nicht ausf\xef\xbf\xbdhren.\r\n in Unknown on line 0
-[Sun Apr 26 21:59:34.962006 2020] [mpm_winnt:notice] [pid 8620:tid 836] AH00354: Child: Starting 64 worker threads.
+[Sun Apr 26 22:03:44.887168 2020] [mpm_winnt:notice] [pid 16408:tid 692] AH00354: Child: Starting 64 worker threads.
