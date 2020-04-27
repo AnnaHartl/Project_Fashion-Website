@@ -12,11 +12,13 @@
 
     <link href="vendor/bootstrap/css/bootstrap.css" rel="stylesheet">
 
-    <link href="specialAddings.css" rel="stylesheet">
+    <link href="css/specialAddings.css" rel="stylesheet">
 
 </head>
 
 <body>
+
+
     <nav class="navbar navbar-expand-lg navbar-light bg-light static-top mb-5 shadow">
         <div class="container">
             <section class="navbar-brand">Fashionistas</section>

@@ -3,10 +3,16 @@
  * Copyright 2013-2019 Start Bootstrap 			background: no-repeat center center scroll;
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-full-width-pics/blob/master/LICENSE)
  */
-
+ body {
+   background: url('../Pictures/background.png') no-repeat center center fixed;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   background-size: cover;
+   -o-background-size: cover;
+}
 
  a {
-     color: black;
+     color: #0089ff;
      text-decoration: none;
  }
 
