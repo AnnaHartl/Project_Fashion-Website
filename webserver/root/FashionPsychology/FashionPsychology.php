@@ -11,8 +11,8 @@
   <title>Fashion Psychology</title>
 
   <link href="../vendor/bootstrap/css/bootstrap.css" rel="stylesheet">
-
   <link href="../css/specialAddings.css" rel="stylesheet">
+
 
 </head>
 <body>
@@ -68,6 +68,7 @@
                     <img class="img-thumbnail" src="..\Pictures\red2.jpg" alt="Red outfit">
                     <!-- Bild -->
                     <br />
+
                     <div id="accordion">
                         <div class="card">
                             <div class="card-header" id="headingOneRed">
@@ -272,8 +273,8 @@
     </footer>
 
     <!-- Bootstrap core JavaScript -->
-    <script src="vendor/jquery/jquery.min.js"></script>
-    <script src="vendor/bootstrap/js/bootstrap.bundle.js"></script>
+    <script src="../vendor/jquery/jquery.min.js"></script>
+    <script src="../vendor/bootstrap/js/bootstrap.bundle.js"></script>
 
 </body>
 
