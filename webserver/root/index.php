@@ -13,9 +13,6 @@
 
   <link href="vendor/bootstrap/css/bootstrap.css" rel="stylesheet">
   <link href="css/specialAddings.css" rel="stylesheet">
-
-
-
 </head>
 
 <body>
@@ -84,7 +81,7 @@
 
     <div class="col-lg-6 mb-4">
       <div class="card h-100">
-        <a href="#"><img class="card-img-top" src="Pictures/rainbow.jpg" alt=""></a>
+        <a href="#"><img class="card-img-top rounded" src="Pictures/rainbow.jpg" alt=""></a>
         <div class="card-body">
           <a  class="h1 article-homepage" href="FashionPsychology/FashionPsychology.php">Fashion Psychology</a>
           <p class="lead">by Anna Hartl</p>
@@ -95,7 +92,7 @@
 
     <div class="col-lg-6 mb-4">
       <div class="card h-100">
-        <a href="#"><img class="card-img-top" src="Pictures/summeroutfit (1).jpg" alt=""></a>
+        <a href="#"><img class="card-img-top rounded" src="Pictures/summeroutfit (1).jpg" alt=""></a>
         <div class="card-body">
           <a  class="h1 article-homepage" href="SummerOutfits/SummerOutfits.php">Perfect Summer Outfits</a>
           <p class="lead">by Tamara Melcher</p>
@@ -129,7 +126,7 @@
 
           <div class="col-lg-6 mb-4">
             <div class="card h-100">
-              <a href="#"><img class="card-img-top" src="Pictures/so.jpg" alt=""></a>
+              <a href="#"><img class="card-img-top rounded" src="Pictures/so.jpg" alt=""></a>
               <div class="card-body">
                 <a  class="h1 article-homepage" href="FashionSocilogy/FashionSocilogy.php">Socilogy Of Fashion</a>
                 <p class="lead">by Tamara Melcher</p>
@@ -142,7 +139,7 @@
 
           <div class="col-lg-6 mb-4">
             <div class="card h-100">
-              <a href="#"><img class="card-img-top" src="Pictures/differentstyles.jpg" alt=""></a>
+              <a href="#"><img class="card-img-top rounded" src="Pictures/differentstyles.jpg" alt=""></a>
               <div class="card-body">
                 <a  class="h1 article-homepage" href="/Differentstyles/DifferentStyles.php">Different styles</a>
                 <p class="lead">by Anna Hartl</p>
@@ -176,7 +173,7 @@
 
     <div class="col-lg-6 mb-4">
       <div class="card h-100">
-        <a href="#"><img class="card-img-top" src="Pictures/we.jpg" alt=""></a>
+        <a href="#"><img class="card-img-top rounded" src="Pictures/we.jpg" alt=""></a>
         <div class="card-body">
             <a  class="h1 article-homepage" href="WardrobeEssentials/WardrobeEssentials.php">Wardrobe Essentials</a>
             <p class="lead">by Anna Hartl</p>
@@ -189,7 +186,7 @@
 
     <div class="col-lg-6 mb-4">
       <div class="card h-100">
-        <a href="#"><img class="card-img-top" src="Pictures/hairstyle2.jpg" alt=""></a>
+        <a href="#"><img class="card-img-top rounded" src="Pictures/hairstyle2.jpg" alt=""></a>
         <div class="card-body">
           <a  class="h1 article-homepage" href="Hairstyles/Hairstyles.php">Hairstyles</a>
           <p class="lead">by Tamara Melcher</p>

@@ -64,8 +64,8 @@
                   It is also more climate-friendly, because there must not be produced more if you buy something that already has been produced instead of buying everything right from the shop.
                   Just because you buy it second-hand does not mean that you cannot buy branded clothing.
                   There are also a few shops who offer that.<br /><br />
-                  <img class="img-thumbnail" src="..\Pictures\arrow.png">
-                  <img class="img-thumbnail" src="..\Pictures\nature.jpg"><br />
+                  <img class="img-thumbnail" src="..\Pictures\SecondHandFashion\arrow.jpg">
+                  <img class="img-thumbnail" src="..\Pictures\SecondHandFashion\nature.jpg"><br />
 
 
                   <h3 class="h3-big"><br />Where can you buy it?</h3>
@@ -76,8 +76,8 @@
                   But if you are an online shopper, you just have to google “shop second-hand fashion” and you will get over thousand online shops where you can buy second-hand fashion.
                   Of course, driving in a shop is more climate friendly, but it does not matter at all, if you know what you want and buy it regional.
                   <br /><br />
-                  <img class="img-thumbnail" src="..\Pictures\shopping2.jpg">
-                  <img class="img-thumbnail" src="..\Pictures\shopping3.jpg"><br />
+                  <img class="img-thumbnail" src="..\Pictures\SecondHandFashion\shopping2.jpg">
+                  <img class="img-thumbnail" src="..\Pictures\SecondHandFashion\shopping3.jpg"><br />
 
 
                   <h3 class="h3-big"><br />Last words</h3>
