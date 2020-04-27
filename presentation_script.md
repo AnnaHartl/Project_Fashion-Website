@@ -19,6 +19,7 @@
 ### Neuheiten
 *	Jeder Artikel hat ein Kommentarsystem (sortiert von neu nach alt)
 *	Pinterest Page von Tamara gestaltet
+* Artikel sind aufgelistet 
 
 ## Zukunftspläne
 *	Eine Contact Page erstellen wo wir etwas über uns erzählen (ersetzt den Footer)
