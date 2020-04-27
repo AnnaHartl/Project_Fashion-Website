@@ -46,7 +46,8 @@ We are going to use different tools to make our website. To develop our website 
 ## Interactive Features
 ### Surveys
 On controversial topics we want to get our audience involved and ask them about their opinion with surveys. We want to present the result of the surveys as a graph.
-Maps
+
+### Maps
 Having a map with dotes to click on that opens up information or articles related to that region. The users decide what they want to see.
 
 ### Click – On pictures
