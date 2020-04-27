@@ -54,7 +54,7 @@
                 <h3>Articles from Anna</h3>
                 <ul>
                     <li>
-                        <a  href="FashionPsychology/FashionPsychology.php">Fashion Psychology</a>
+                        <a  href="FashionPsychology/FashionPsychology.php" id="test">Fashion Psychology</a>
                     </li>
                     <li>
                         <a  href="FindYourStyle/FindYourStyle.php">How to find your style?</a>

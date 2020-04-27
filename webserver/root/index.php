@@ -10,8 +10,10 @@
 
   <title>Fashionistas.com</title>
 
-  <link href="css/specialAddings.css" rel="stylesheet">
+
   <link href="vendor/bootstrap/css/bootstrap.css" rel="stylesheet">
+  <link href="css/specialAddings.css" rel="stylesheet">
+
 
 
 </head>
