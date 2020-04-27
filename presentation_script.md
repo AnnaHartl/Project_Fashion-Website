@@ -27,3 +27,4 @@
 *	Umfragen in den Artikeln (z. B. Did you ever purchase any second hand fashion?)
 *	Kommentare Liken, Antworten
 *	Looks – Page with outfit ideas
+* Map zum Anklicken (z. B. Clothing arround the world)
