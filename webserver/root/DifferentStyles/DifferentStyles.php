@@ -25,13 +25,13 @@
       </button>
   <div class="collapse navbar-collapse" id="navbarResponsive">
     <ul class="navbar-nav ml-auto">
-      <li class="nav-item active">
+      <li class="nav-item">
         <a class="nav-link" href="../index.php">Home
-              <span class="sr-only">(current)</span>
             </a>
       </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Articles</a>
+      <li class="nav-item active">
+        <a class="nav-link" href="#">Articles
+        </a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#">Surveys</a>
@@ -262,7 +262,7 @@
                     I think I incorporate some ideas in my wardrobe and I hope you can too.
                     If you have question or any suggestion my friend and I are always open for ideas. You can dm us on our instagram.
                     The contact you can find of the bottom of our page.
-                    
+
                     <h3 class="h3-big"><br />Comments</h3>
 
                     <form class="form-horizontal" action="add_comment.php">
@@ -291,11 +291,12 @@
 
                     </fieldset>
                     </form>
-                    <?php
-                    Include "show_comments.php";
-                    $mysqli->close();
-                    ?>
-                </p>
+                    <section class="text-left">
+                      <?php
+                      Include "show_comments.php";
+                      $mysqli->close();
+                      ?>
+                    </section>
               </div>
               </div>
               </div>
@@ -345,8 +346,8 @@
     </footer>
 
     <!-- Bootstrap core JavaScript -->
-    <script src="vendor/jquery/jquery.min.js"></script>
-    <script src="vendor/bootstrap/js/bootstrap.bundle.js"></script>
+    <script src="../vendor/jquery/jquery.min.js"></script>
+    <script src="../vendor/bootstrap/js/bootstrap.bundle.js"></script>
 
 </body>
 

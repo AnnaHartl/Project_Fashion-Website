@@ -2,7 +2,22 @@
  * Start Bootstrap - Full Width Pics (https://startbootstrap.com/template-overviews/full-width-pics)
  * Copyright 2013-2019 Start Bootstrap 			background: no-repeat center center scroll;
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-full-width-pics/blob/master/LICENSE)
+  <link href="css/specialAddings.css" rel="stylesheet">
+
  */
+
+ body {
+   background: url('../Pictures/background.png') no-repeat center center fixed;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   background-size: cover;
+   -o-background-size: cover;
+}
+
+ a {
+     color: black;
+     text-decoration: none;
+ }
 
 .reference-link{
 	color: #0089ff;

@@ -6,7 +6,7 @@ if ($mysqli->connect_errno) {
 }
 //echo $mysqli->host_info . "<br>";
 
-$sql = "SELECT comment_name, comment_text FROM comments_differentStyles";
+$sql = "SELECT comment_name, comment_text FROM comments_differentstyles";
 $result = $mysqli->query($sql);
 
 $arr = array();
