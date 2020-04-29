@@ -64,8 +64,8 @@
                     It affect the way others see you and how YOU behave.
 
                     <h3 class="h3-big" style="color: #e60808;"><br />Red</h3>
-                    <img class="img-thumbnail" src="..\Pictures\red1.jpg" alt="Red outfit">
-                    <img class="img-thumbnail" src="..\Pictures\red2.jpg" alt="Red outfit">
+                    <img class="img-thumbnail" src="..\Pictures\Psychology\red1.jpg" alt="Red outfit">
+                    <img class="img-thumbnail" src="..\Pictures\Psychology\red2.jpg" alt="Red outfit">
                     <!-- Bild -->
                     <br />
 
@@ -94,8 +94,8 @@
 
 
                     <h3 class="h3-big" style="color: #f77404;"><br />Orange</h3>
-                    <img class="img-thumbnail" src="..\Pictures\orange1.jpg">
-                    <img class="img-thumbnail" src="..\Pictures\orange2.jpg">
+                    <img class="img-thumbnail" src="..\Pictures\Psychology\orange1.jpg">
+                    <img class="img-thumbnail" src="..\Pictures\Psychology\orange2.jpg">
                     <div id="accordion">
                         <div class="card">
                             <div class="card-header" id="headingTwo">
@@ -118,8 +118,8 @@
                     </div>
 
                     <h3 class="h3-big" style="color:#ffdb6e;"><br />Yellow</h3>
-                    <img class="img-thumbnail" src="..\Pictures\yellow1.jpg">
-                    <img class="img-thumbnail" src="..\Pictures\yellow2.jpg">
+                    <img class="img-thumbnail" src="..\Pictures\Psychology\yellow1.jpg">
+                    <img class="img-thumbnail" src="..\Pictures\Psychology\yellow2.jpg">
 
                     <div id="accordion">
                         <div class="card">
@@ -142,8 +142,8 @@
                     </div>
 
                     <h3 class="h3-big" style="color: #28a745;"><br />Green</h3>
-                    <img class="img-thumbnail" src="..\Pictures\green1.jpg">
-                    <img class="img-thumbnail" src="..\Pictures\green2.jpg">
+                    <img class="img-thumbnail" src="..\Pictures\Psychology\green1.jpg">
+                    <img class="img-thumbnail" src="..\Pictures\Psychology\green2.jpg">
 
                     <div id="accordion">
                         <div class="card">
@@ -164,8 +164,8 @@
                         </div>
                     </div>
                     <h3 class="h3-big" style="color: #026bcc;"><br />Blue</h3>
-                    <img class="img-thumbnail" src="..\Pictures\blue1.jpg">
-                    <img class="img-thumbnail" src="..\Pictures\blue2.jpg">
+                    <img class="img-thumbnail" src="..\Pictures\Psychology\blue1.jpg">
+                    <img class="img-thumbnail" src="..\Pictures\Psychology\blue2.jpg">
 
                     <div id="accordion">
                         <div class="card">

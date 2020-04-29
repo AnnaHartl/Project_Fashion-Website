@@ -60,8 +60,8 @@
 
                     <h3 class="h3-big"><br />Decade Styles</h3>
 
-                    <img class="img-thumbnail" src="../Pictures\decade1.png">
-                    <img class="img-thumbnail" src="../Pictures\decade2.jpg">
+                    <img class="img-thumbnail" src="..\Pictures\DifferentStyles\decade1.png">
+                    <img class="img-thumbnail" src="..\Pictures\DifferentStyles\decade2.jpg">
                     <div id="accordion">
                         <div class="card">
                             <div class="card-header" id="heading1">
@@ -80,8 +80,8 @@
                         </div>
                     </div><br />
                     <h3 class="h3-big">Sporty</h3>
-                    <img class="img-thumbnail" src="../Pictures\sporty1.jpg">
-                    <img class="img-thumbnail" src="../Pictures\sporty2.jpg">
+                    <img class="img-thumbnail" src="../Pictures\DifferentStyles\sporty1.jpg">
+                    <img class="img-thumbnail" src="../Pictures\DifferentStyles\sporty2.jpg">
                     <div id="accordion">
                         <div class="card">
                             <div class="card-header" id="heading2">
@@ -105,8 +105,8 @@
                     </div><br />
 
                     <h3 class="h3-big">Boho</h3>
-                    <img class="img-thumbnail" src="../Pictures\boho1.jpg">
-                    <img class="img-thumbnail" src="../Pictures\boho2.jpg">
+                    <img class="img-thumbnail" src="../Pictures\DifferentStyles\boho1.jpg">
+                    <img class="img-thumbnail" src="../Pictures\DifferentStyles\boho2.jpg">
                     <div id="accordion">
                         <div class="card">
                             <div class="card-header" id="heading3">
@@ -128,8 +128,8 @@
                         </div>
                     </div><br />
                     <h3 class="h3-big">Classic feminine</h3>
-                    <img class="img-thumbnail" src="../Pictures\classicfem1.jpg">
-                    <img class="img-thumbnail" src="../Pictures\classicfem2.jpg">
+                    <img class="img-thumbnail" src="../Pictures\DifferentStyles\classicfem1.jpg">
+                    <img class="img-thumbnail" src="../Pictures\DifferentStyles\classicfem2.jpg">
                     <div id="accordion">
                         <div class="card">
                             <div class="card-header" id="heading4">
@@ -152,8 +152,8 @@
                     </div><br />
 
                     <h3 class="h3-big">Artsy</h3>
-                    <img class="img-thumbnail" src="../Pictures\artsy1.jpg">
-                    <img class="img-thumbnail" src="../Pictures\artsy2.jpg">
+                    <img class="img-thumbnail" src="../Pictures\DifferentStyles\artsy1.jpg">
+                    <img class="img-thumbnail" src="../Pictures\DifferentStyles\artsy2.jpg">
                     <div id="accordion">
                         <div class="card">
                             <div class="card-header" id="heading5">
@@ -176,8 +176,8 @@
                     </div><br />
 
                     <h3 class="h3-big">Sophisticated</h3>
-                    <img class="img-thumbnail" src="../Pictures\sophisticated1.jpg">
-                    <img class="img-thumbnail" src="../Pictures\sophisticated2.jpg">
+                    <img class="img-thumbnail" src="../Pictures\DifferentStyles\sophisticated1.jpg">
+                    <img class="img-thumbnail" src="../Pictures\DifferentStyles\sophisticated2.jpg">
 
                       <div id="accordion">
                         <div class="card">
@@ -202,8 +202,8 @@
                     </div><br />
 
                     <h3 class="h3-big">Sexy</h3>
-                    <img class="img-thumbnail" src="../Pictures\sexy1.jpg">
-                    <img class="img-thumbnail" src="../Pictures\sexy2.jpg">
+                    <img class="img-thumbnail" src="../Pictures\DifferentStyles\sexy1.jpg">
+                    <img class="img-thumbnail" src="../Pictures\DifferentStyles\sexy2.jpg">
 
                   <div id="accordion">
                         <div class="card">
@@ -227,8 +227,8 @@
                     </div><br />
 
                     <h3 class="h3-big">Girly</h3>
-                        <img class="img-thumbnail" src="../Pictures\girly1.jpg">
-                        <img class="img-thumbnail" src="../Pictures\girly2.jpg">
+                        <img class="img-thumbnail" src="../Pictures\DifferentStyles\girly1.jpg">
+                        <img class="img-thumbnail" src="../Pictures\DifferentStyles\girly2.jpg">
               			<div id="accordion">
                         <div class="card">
                             <div class="card-header" id="heading8">
