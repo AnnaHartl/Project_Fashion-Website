@@ -60,7 +60,7 @@
                     Let’s go together on this journey!
 
                     <h3 class="h3-big"><br />Inspiration</h3>
-                    <img class="img-thumbnail" src="..\Pictures\pinterest.png"><br /><br />
+                    <img class="img-thumbnail" src="..\Pictures\FindYourStyle\pinterest.png"><br /><br />
                     First you should get a feeling of what you like. A good source for inspiration is Pinterest.
                     On our website we have a list of styles in an article also written by me.
                     Choose whatever style you like the best and I want to say you can mix styles how you desire. It is your life do what you want.<br />
@@ -69,24 +69,24 @@
                         </a>
 
                     <h3 class="h3-big"><br />Analyse your wardrobe</h3>
-                    <img class="img-thumbnail" src="..\Pictures\closet1.jpg">
-                    <img class="img-thumbnail" src="..\Pictures\closet2.jpg"><br /><br />
+                    <img class="img-thumbnail" src="..\Pictures\FindYourStyle\closet1.jpg">
+                    <img class="img-thumbnail" src="..\Pictures\FindYourStyle\closet2.jpg"><br /><br />
                     Look at what you wear for 2 weeks and try to ask you why I wanted to wear that particular clothing today and how does it make me feel.
                     Go to your closet and analyse what you have in your wardrobe, do you have favourite clothes and what are they, do you notice anything similar between them.
 
                     <h3 class="h3-big"><br />Shopping</h3>
-                    <img class="img-thumbnail" src="..\Pictures\shopping.jpg"><br /><br />
+                    <img class="img-thumbnail" src="..\Pictures\FindYourStyle\shopping.jpg"><br /><br />
                     Now to the best part shopping! It is not our mission to built a new wardrobe with on visit to the mall so don’t buy everything you see, try to not lose focus helpful is to have a list of items you want to buy today it should not be more than 5 pieces. On our website we have an article about the essential clothing items to have in your wardrobe, you can start with that.
                     <br /><a class="reference-link" href="../WardrobeEssentials/WardrobeEssentials.php">
                         Click on the link to get there!
                         </a>
                     <h3 class="h3-big"><br />Declutter</h3>
-                    <img class="img-thumbnail" src="..\Pictures\declutter1.jpg">
-                    <img class="img-thumbnail" src="..\Pictures\declutter2.jpg"><br /><br />
+                    <img class="img-thumbnail" src="..\Pictures\FindYourStyle\declutter1.jpg">
+                    <img class="img-thumbnail" src="..\Pictures\FindYourStyle\declutter2.jpg"><br /><br />
                     Take this opportunity to declutter, get rid of the things you don’t like to wear or if you can’t throw them away put them in a box and store them somewhere if you don’t miss the clothing in 6 months you have to donate them. It is also a symbolic act of getting rid of the things that are dragging you down.
 
                     <h3 class="h3-big"><br />Confidence</h3>
-                    <img class="img-thumbnail" src="..\Pictures\confidence.jpg"><br /><br />
+                    <img class="img-thumbnail" src="..\Pictures\FindYourStyle\confidence.jpg"><br /><br />
                     Fashion can work both ways it can give you confidence and you also have to have the courage and confidence to wear certain clothing. Working on your body image and how you see yourself is not only beneficial for your mental health but can give you the courage to wear what you like. A recent trend is to make a video of the parts of your body you dont like but film them in a beautiful way.
 
                     <h3 class="h3-big"><br />Last words</h3>

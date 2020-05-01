@@ -57,7 +57,7 @@
   <div class="row">
     <div class="col mb-4 text-center">
       <div class="card h-100">
-        <a href="#"><img class="card-img" src="Pictures/homeimage (1).jpg" alt=""></a>        <div class="card-body">
+        <a href="#"><img class="card-img" src="Pictures/head_hp.jpg" alt=""></a>        <div class="card-body">
           <h1 class="h1 article-homepage">Welcome to our webpage!</h1>
           <p class="lead">by Anna Hartl & Tamara Melcher</p>
           <p>
@@ -81,7 +81,7 @@
 
     <div class="col-lg-6 mb-4">
       <div class="card h-100">
-        <a href="#"><img class="card-img-top rounded" src="Pictures/rainbow.jpg" alt=""></a>
+        <a href="#"><img class="card-img-top rounded" src="Pictures/psychology_hp.jpg" alt=""></a>
         <div class="card-body">
           <a  class="h1 article-homepage" href="FashionPsychology/FashionPsychology.php">Fashion Psychology</a>
           <p class="lead">by Anna Hartl</p>
@@ -92,7 +92,7 @@
 
     <div class="col-lg-6 mb-4">
       <div class="card h-100">
-        <a href="#"><img class="card-img-top rounded" src="Pictures/summeroutfit (1).jpg" alt=""></a>
+        <a href="#"><img class="card-img-top rounded" src="Pictures/summeroutfit_hp.jpg" alt=""></a>
         <div class="card-body">
           <a  class="h1 article-homepage" href="SummerOutfits/SummerOutfits.php">Perfect Summer Outfits</a>
           <p class="lead">by Tamara Melcher</p>
@@ -107,7 +107,7 @@
 
             <div class="col-lg-6 mb-4">
               <a href="#">
-                <img class="img-fluid rounded mb-3 mb-md-0" src="Pictures/style (2).jpg" alt="">
+                <img class="img-fluid rounded mb-3 mb-md-0" src="Pictures/findYourStyle_hp.jpg" alt="">
               </a>
             </div>
             <div class="col-lg-6 mb-4">
@@ -126,7 +126,7 @@
 
           <div class="col-lg-6 mb-4">
             <div class="card h-100">
-              <a href="#"><img class="card-img-top rounded" src="Pictures/so.jpg" alt=""></a>
+              <a href="#"><img class="card-img-top rounded" src="Pictures/socilogy_hp.jpg" alt=""></a>
               <div class="card-body">
                 <a  class="h1 article-homepage" href="FashionSocilogy/FashionSocilogy.php">Socilogy Of Fashion</a>
                 <p class="lead">by Tamara Melcher</p>
@@ -139,7 +139,7 @@
 
           <div class="col-lg-6 mb-4">
             <div class="card h-100">
-              <a href="#"><img class="card-img-top rounded" src="Pictures/differentstyles.jpg" alt=""></a>
+              <a href="#"><img class="card-img-top rounded" src="Pictures/differentstyles_hp.jpg" alt=""></a>
               <div class="card-body">
                 <a  class="h1 article-homepage" href="/Differentstyles/DifferentStyles.php">Different styles</a>
                 <p class="lead">by Anna Hartl</p>
@@ -156,7 +156,7 @@
 
           <div class="col-lg-6 mb-4">
             <a href="#">
-              <img class="img-fluid rounded mb-3 mb-md-0" src="Pictures/shf.jpg" alt="">
+              <img class="img-fluid rounded mb-3 mb-md-0" src="Pictures/secondHandFashion_hp.jpg" alt="">
             </a>
           </div>
           <div class="col-lg-6 mb-4">
@@ -173,7 +173,7 @@
 
     <div class="col-lg-6 mb-4">
       <div class="card h-100">
-        <a href="#"><img class="card-img-top rounded" src="Pictures/we.jpg" alt=""></a>
+        <a href="#"><img class="card-img-top rounded" src="Pictures/WardrobeEssentials_hp.jpg" alt=""></a>
         <div class="card-body">
             <a  class="h1 article-homepage" href="WardrobeEssentials/WardrobeEssentials.php">Wardrobe Essentials</a>
             <p class="lead">by Anna Hartl</p>
@@ -186,7 +186,7 @@
 
     <div class="col-lg-6 mb-4">
       <div class="card h-100">
-        <a href="#"><img class="card-img-top rounded" src="Pictures/hairstyle2.jpg" alt=""></a>
+        <a href="#"><img class="card-img-top rounded" src="Pictures/hairstyle_hp.jpg" alt=""></a>
         <div class="card-body">
           <a  class="h1 article-homepage" href="Hairstyles/Hairstyles.php">Hairstyles</a>
           <p class="lead">by Tamara Melcher</p>

@@ -88,16 +88,16 @@
                     <h4>Long Dress</h4>
                     Firstly, a long dress is always a good tip.
                     Just keep in mind, the points above.<br />
-                    <img class="img-thumbnail" src="..\Pictures\maxiDress1.jpg">
-                    <img class="img-thumbnail" src="..\Pictures\maxiDress2.jpg">
+                    <img class="img-thumbnail" src="..\Pictures\SummerOutfits\maxiDress1.jpg">
+                    <img class="img-thumbnail" src="..\Pictures\SummerOutfits\maxiDress2.jpg">
                     <br />
 
 
                     <h4><br />Maxi Skirt</h4>
                     A maxi skirt and a simple t-shirt or shirt are still in trend and they also make you look serious.<br /><br />
 
-                    <img class="img-thumbnail" src="..\Pictures\maxiSkirt1.jpg">
-                    <img class="img-thumbnail" src="..\Pictures\maxiSkirt2.jpg">
+                    <img class="img-thumbnail" src="..\Pictures\SummerOutfits\maxiSkirt1.jpg">
+                    <img class="img-thumbnail" src="..\Pictures\SummerOutfits\maxiSkirt2.jpg">
 
 
                     <h3 class="h3-big"><br />Summer outfits for school</h3>
@@ -127,8 +127,8 @@
                     <h4>Shorts</h4>
                     Shorts are easy, comfortable and they make you look cool.<br />
                     You can them combine with almost everything. It does not matter if you wear a pullover or a normal t-shirt with it.<br />
-                    <img class="img-thumbnail" src="..\Pictures\hotpants1.jpg">
-                    <img class="img-thumbnail" src="..\Pictures\hotpants2.jpg">
+                    <img class="img-thumbnail" src="..\Pictures\SummerOutfits\hotpants1.jpg">
+                    <img class="img-thumbnail" src="..\Pictures\SummerOutfits\hotpants2.jpg">
 
                     <br /><br />If you want to wear a dress or skirt make sure they are comfortable, because you have to wear them all the time and it might get really uncomfortable. <br />
                     A jeans skirt still looks way better than a normal one.

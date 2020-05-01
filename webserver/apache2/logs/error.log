@@ -1,9 +1,13 @@
 PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/Users/annah/Documents/GitHub/Project_Fashion-Website/webserver\\php\\ext\\php_curl.dll' - Das angegebene Modul wurde nicht gefunden.\r\n in Unknown on line 0
 PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/Users/annah/Documents/GitHub/Project_Fashion-Website/webserver\\php\\ext\\php_pgsql.dll' - Das Betriebssystem kann %1 nicht ausf\xef\xbf\xbdhren.\r\n in Unknown on line 0
-[Wed Apr 29 11:59:55.952497 2020] [mpm_winnt:notice] [pid 11800:tid 612] AH00455: Apache/2.4.29 (Win32) PHP/5.6.32 configured -- resuming normal operations
-[Wed Apr 29 11:59:55.953497 2020] [mpm_winnt:notice] [pid 11800:tid 612] AH00456: Server built: Nov  3 2017 01:01:54
-[Wed Apr 29 11:59:55.953497 2020] [core:notice] [pid 11800:tid 612] AH00094: Command line: 'C:\\Users\\annah\\Documents\\GitHub\\Project_Fashion-Website\\webserver/apache2/bin/httpd_usbwv8.exe -d C:/Users/annah/Documents/GitHub/Project_Fashion-Website/webserver/apache2'
-[Wed Apr 29 11:59:55.959499 2020] [mpm_winnt:notice] [pid 11800:tid 612] AH00418: Parent: Created child process 15584
+[Fri May 01 10:47:38.682936 2020] [mpm_winnt:notice] [pid 10968:tid 828] AH00455: Apache/2.4.29 (Win32) PHP/5.6.32 configured -- resuming normal operations
+[Fri May 01 10:47:38.682936 2020] [mpm_winnt:notice] [pid 10968:tid 828] AH00456: Server built: Nov  3 2017 01:01:54
+[Fri May 01 10:47:38.682936 2020] [core:notice] [pid 10968:tid 828] AH00094: Command line: 'C:\\Users\\annah\\Documents\\GitHub\\Project_Fashion-Website\\webserver/apache2/bin/httpd_usbwv8.exe -d C:/Users/annah/Documents/GitHub/Project_Fashion-Website/webserver/apache2'
+[Fri May 01 10:47:38.682936 2020] [mpm_winnt:notice] [pid 10968:tid 828] AH00418: Parent: Created child process 11776
 PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/Users/annah/Documents/GitHub/Project_Fashion-Website/webserver\\php\\ext\\php_curl.dll' - Das angegebene Modul wurde nicht gefunden.\r\n in Unknown on line 0
 PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/Users/annah/Documents/GitHub/Project_Fashion-Website/webserver\\php\\ext\\php_pgsql.dll' - Das Betriebssystem kann %1 nicht ausf\xef\xbf\xbdhren.\r\n in Unknown on line 0
-[Wed Apr 29 11:59:57.175880 2020] [mpm_winnt:notice] [pid 15584:tid 808] AH00354: Child: Starting 64 worker threads.
+[Fri May 01 10:47:39.944455 2020] [mpm_winnt:notice] [pid 11776:tid 632] AH00354: Child: Starting 64 worker threads.
+[Fri May 01 10:52:48.227455 2020] [:error] [pid 11776:tid 1296] [client ::1:50433] PHP Notice:  Trying to get property of non-object in C:\\Users\\annah\\Documents\\GitHub\\Project_Fashion-Website\\webserver\\root\\FindYourStyle\\show_comments.php on line 14, referer: http://localhost/
+[Fri May 01 10:53:11.531783 2020] [:error] [pid 11776:tid 1292] [client ::1:50441] PHP Notice:  Trying to get property of non-object in C:\\Users\\annah\\Documents\\GitHub\\Project_Fashion-Website\\webserver\\root\\FindYourStyle\\show_comments.php on line 14, referer: http://localhost/
+[Fri May 01 10:55:21.801371 2020] [:error] [pid 11776:tid 1296] [client ::1:50459] PHP Notice:  Trying to get property of non-object in C:\\Users\\annah\\Documents\\GitHub\\Project_Fashion-Website\\webserver\\root\\FindYourStyle\\show_comments.php on line 14, referer: http://localhost/
+[Fri May 01 10:55:33.273862 2020] [:error] [pid 11776:tid 1296] [client ::1:50463] PHP Notice:  Trying to get property of non-object in C:\\Users\\annah\\Documents\\GitHub\\Project_Fashion-Website\\webserver\\root\\SummerOutfits\\show_comments.php on line 14, referer: http://localhost/index.php
