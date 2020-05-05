@@ -9,7 +9,7 @@ $comment = addslashes($comment);
 
 
 //seach for the word chicken
-	 $sql = "INSERT INTO comments_fashionpsychology (CommentID, comment_name, comment_text) VALUES (NULL, '$name', '$comment')";
+	 $sql = "INSERT INTO comments_fashionpsychology (id, name, text, likes) VALUES (NULL, '$name', '$comment', 0)";
 	 $result = $mysqli->query($sql) or die(mysqli_error($mysqli));
 
 

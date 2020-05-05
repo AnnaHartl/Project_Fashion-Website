@@ -1,3 +1,7 @@
+<?php
+include "../db_connect.php";
+include "likes.php";
+ ?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -220,7 +224,6 @@
                 </form>
                 <section class="text-left">
                   <?php
-                  include "../db_connect.php";
                   Include "show_comments.php";
                   ?>
                 </section>
@@ -239,7 +242,7 @@
 			    $post = $(this);
 
 			$.ajax({
-				url: 'index.php',
+				url: 'FashionPsychology.php',
 				type: 'post',
 				data: {
 					'liked': 1,
@@ -257,7 +260,7 @@
 		    $post = $(this);
 
 			$.ajax({
-				url: 'index.php',
+				url: 'FashionPsychology.php',
 				type: 'post',
 				data: {
 					'unliked': 1,
