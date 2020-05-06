@@ -535,3 +535,114 @@ InnoDB: for more information.
 2020-05-05 06:19:47 3552 [Note] IPv6 is available.
 2020-05-05 06:19:47 3552 [Note]   - '::' resolves to '::';
 2020-05-05 06:19:47 3552 [Note] Server socket created on IP: '::'.
+2020-05-05 12:04:56 14588 [Note] Plugin 'FEDERATED' is disabled.
+2020-05-05 12:04:56 14588 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2020-05-05 12:04:56 14588 [Note] InnoDB: The InnoDB memory heap is disabled
+2020-05-05 12:04:56 14588 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-05-05 12:04:56 14588 [Note] InnoDB: Memory barrier is not used
+2020-05-05 12:04:56 14588 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2020-05-05 12:04:56 14588 [Note] InnoDB: Not using CPU crc32 instructions
+2020-05-05 12:04:56 14588 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2020-05-05 12:04:56 14588 [Note] InnoDB: Completed initialization of buffer pool
+2020-05-05 12:04:56 14588 [Note] InnoDB: Highest supported file format is Barracuda.
+2020-05-05 12:04:56 14588 [Note] InnoDB: The log sequence numbers 1626134 and 1626134 in ibdata files do not match the log sequence number 1821267 in the ib_logfiles!
+2020-05-05 12:04:56 14588 [Note] InnoDB: Database was not shutdown normally!
+2020-05-05 12:04:56 14588 [Note] InnoDB: Starting crash recovery.
+2020-05-05 12:04:56 14588 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2020-05-05 12:04:56 14588 [Note] InnoDB: Restoring possible half-written data pages 
+2020-05-05 12:04:56 14588 [Note] InnoDB: from the doublewrite buffer...
+2020-05-05 12:04:56 14588 [Note] InnoDB: 128 rollback segment(s) are active.
+2020-05-05 12:04:56 14588 [Note] InnoDB: Waiting for purge to start
+2020-05-05 12:04:56 14588 [Note] InnoDB: 5.6.34 started; log sequence number 1821267
+2020-05-05 12:04:56 14588 [Note] Server hostname (bind-address): '*'; port: 3306
+2020-05-05 12:04:56 14588 [Note] IPv6 is available.
+2020-05-05 12:04:56 14588 [Note]   - '::' resolves to '::';
+2020-05-05 12:04:56 14588 [Note] Server socket created on IP: '::'.
+2020-05-05 12:04:57 14588 [Note] Event Scheduler: Loaded 0 events
+2020-05-05 12:04:57 14588 [Note] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.6.34'  socket: ''  port: 3306  MySQL Community Server (GPL)
+2020-05-05 12:05:12 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-05 12:05:12 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-05 12:05:12 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-05 12:05:12 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-05 12:05:12 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-05 12:05:12 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-05 12:05:12 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-05 12:05:12 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-05 12:05:12 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-05 12:05:12 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-05 12:05:12 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-05 12:05:12 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-05 12:19:10 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-05 12:19:10 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-05 12:19:10 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-05 12:19:10 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-05 12:19:10 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-05 12:19:10 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-05 12:19:10 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-05 12:19:10 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-05 12:19:10 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-05 12:19:10 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-05 12:19:21 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-05 12:19:21 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-05 12:19:21 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-05 12:19:21 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-05 12:19:21 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-05 12:19:21 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-05 12:19:21 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-05 12:19:21 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-05 12:19:21 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-05 12:19:21 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-05 12:33:01 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-05 12:33:01 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-05 12:33:01 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-05 12:33:01 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-05 12:33:01 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-05 12:33:01 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-05 12:33:01 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-05 12:33:01 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-05 12:33:01 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-05 12:33:01 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-05 12:33:14 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-05 12:33:14 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-05 12:33:14 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-05 12:33:14 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-05 12:33:14 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-05 12:33:14 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-05 12:33:14 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-05 12:33:14 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-05 12:33:14 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-05 12:33:14 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-05 12:33:22 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-05 12:33:22 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-05 12:33:22 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-05 12:33:22 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-05 12:33:22 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-05 12:33:22 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-05 12:33:22 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-05 12:33:22 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-05 12:33:22 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-05 12:33:22 14588 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:06:39 21120 [Note] Plugin 'FEDERATED' is disabled.
+2020-05-06 21:06:39 21120 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2020-05-06 21:06:39 21120 [Note] InnoDB: The InnoDB memory heap is disabled
+2020-05-06 21:06:39 21120 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-05-06 21:06:39 21120 [Note] InnoDB: Memory barrier is not used
+2020-05-06 21:06:39 21120 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2020-05-06 21:06:39 21120 [Note] InnoDB: Not using CPU crc32 instructions
+2020-05-06 21:06:39 21120 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2020-05-06 21:06:39 21120 [Note] InnoDB: Completed initialization of buffer pool
+2020-05-06 21:06:39 21120 [Note] InnoDB: Highest supported file format is Barracuda.
+2020-05-06 21:06:39 21120 [Note] InnoDB: The log sequence numbers 1626134 and 1626134 in ibdata files do not match the log sequence number 1842366 in the ib_logfiles!
+2020-05-06 21:06:39 21120 [Note] InnoDB: Database was not shutdown normally!
+2020-05-06 21:06:39 21120 [Note] InnoDB: Starting crash recovery.
+2020-05-06 21:06:39 21120 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2020-05-06 21:06:39 21120 [Note] InnoDB: Restoring possible half-written data pages 
+2020-05-06 21:06:39 21120 [Note] InnoDB: from the doublewrite buffer...
+2020-05-06 21:06:39 21120 [Note] InnoDB: 128 rollback segment(s) are active.
+2020-05-06 21:06:39 21120 [Note] InnoDB: Waiting for purge to start
+2020-05-06 21:06:40 21120 [Note] InnoDB: 5.6.34 started; log sequence number 1842366
+2020-05-06 21:06:40 21120 [Note] Server hostname (bind-address): '*'; port: 3306
+2020-05-06 21:06:40 21120 [Note] IPv6 is available.
+2020-05-06 21:06:40 21120 [Note]   - '::' resolves to '::';
+2020-05-06 21:06:40 21120 [Note] Server socket created on IP: '::'.

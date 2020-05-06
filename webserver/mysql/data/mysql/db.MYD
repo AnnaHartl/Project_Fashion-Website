@@ -1,3 +1,309 @@
 ÿ%                                                                                                                                                                                   test                                                                                                                                                                                                                                            ÿ%                                                                                                                                                                                   test\_%                                                                                                                                                                                                                                         2020-04-25 18:47:01 9540 [Note] Event Scheduler: Loaded 0 events
 2020-04-25 18:47:01 9540 [Note] C:\Users\annah\Desktop\web server\usbwebserver/mysql/bin/mysqld_usbwv8.exe: ready for connections.
 Version: '5.6.34'  socket: ''  port: 3306  MySQL Community Server (GPL)
+2020-05-06 21:06:40 21120 [Note] Event Scheduler: Loaded 0 events
+2020-05-06 21:06:40 21120 [Note] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.6.34'  socket: ''  port: 3306  MySQL Community Server (GPL)
+2020-05-06 21:06:56 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:06:56 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:06:56 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:06:56 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:06:56 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:06:56 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:06:56 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:06:56 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:06:56 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:06:56 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:06:56 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:06:56 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:07:33 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:08:15 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:08:15 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:08:22 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:08:35 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:08:42 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:08:56 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:08:58 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:08:58 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:08:58 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:08:58 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:08:58 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:08:58 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:08:58 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:08:58 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:08:58 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:08:58 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:08:58 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:08:58 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:11 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:11 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:11 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:11 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:11 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:11 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:11 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:11 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:11 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:16 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:18 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:18 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:18 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:18 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:18 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:18 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:21 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:21 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:21 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:21 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:21 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:21 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:21 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:22 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:30 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:30 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:30 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:31 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:31 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:31 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:31 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:31 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:32 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:32 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:32 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:32 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:32 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:32 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:34 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:34 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:34 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:34 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:34 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:34 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:34 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:34 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:34 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:34 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:34 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:34 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:40 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:40 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:40 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:40 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:40 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:40 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:40 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:45 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:45 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:45 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:45 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:46 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:46 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:47 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:47 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:47 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:47 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:47 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:47 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:47 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:47 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:48 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:48 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:48 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:09:48 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:10:01 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:10:01 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:10:01 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:10:01 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:10:01 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:10:01 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:10:01 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:10:21 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:10:21 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:10:21 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:10:21 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:10:21 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:10:23 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:10:23 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:10:24 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:10:24 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:10:30 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:10:30 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:10:30 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:10:30 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:11:22 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:11:54 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:11:55 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:11:55 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:11:55 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:11:55 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:11:55 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:11:55 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:11:55 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:11:57 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:11:57 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:12:15 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:12:51 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:12:53 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:13:06 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:13:06 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:13:06 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:13:06 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:13:08 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:13:08 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:13:14 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:13:14 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:13:43 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:13:43 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:13:46 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:16:19 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:16:19 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:16:19 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:16:19 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:16:19 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:16:19 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:16:19 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:16:19 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:16:20 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:16:20 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:16:20 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:16:20 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:16:27 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:16:27 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:16:27 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:16:27 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:16:27 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:16:28 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:16:28 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:16:28 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:16:28 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:16:31 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:16:31 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:16:31 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:16:31 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:16:31 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:16:31 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:16:31 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:16:31 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:16:50 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:16:50 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:16:50 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:16:50 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:16:50 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:16:50 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:16:58 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:17:01 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:17:01 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:17:01 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:17:01 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:17:01 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:17:01 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:17:01 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:17:01 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:17:01 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:17:01 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:17:01 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:17:01 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:17:02 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:17:02 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:17:02 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:17:02 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:17:02 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:17:02 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:17:02 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:17:02 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:17:46 4944  InnoDB: Operating system error number 80 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.6/en/operating-system-error-codes.html
+2020-05-06 21:17:46 21120 [ERROR] InnoDB: Cannot create file '.\comment_db\comments_summeroutfits.ibd'
+
+2020-05-06 21:17:46 21120 [ERROR] InnoDB: The file '.\comment_db\comments_summeroutfits.ibd' already exists though the corresponding table did not exist in the InnoDB data dictionary. Have you moved InnoDB .ibd files around without using the SQL commands DISCARD TABLESPACE and IMPORT TABLESPACE, or did mysqld crash in the middle of CREATE TABLE? You can resolve the problem by removing the file '.\comment_db\comments_summeroutfits.ibd' under the 'datadir' of MySQL.
+2020-05-06 21:19:56 4944  InnoDB: Operating system error number 80 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.6/en/operating-system-error-codes.html
+2020-05-06 21:19:56 21120 [ERROR] InnoDB: Cannot create file '.\comment_db\comments_findyourstyle.ibd'
+
+2020-05-06 21:19:56 21120 [ERROR] InnoDB: The file '.\comment_db\comments_findyourstyle.ibd' already exists though the corresponding table did not exist in the InnoDB data dictionary. Have you moved InnoDB .ibd files around without using the SQL commands DISCARD TABLESPACE and IMPORT TABLESPACE, or did mysqld crash in the middle of CREATE TABLE? You can resolve the problem by removing the file '.\comment_db\comments_findyourstyle.ibd' under the 'datadir' of MySQL.
+2020-05-06 21:25:28 4944  InnoDB: Error; possible reasons:
+InnoDB: 1) Table rename would cause two FOREIGN KEY constraints
+InnoDB: to have the same internal name in case-insensitive comparison.
+InnoDB: 2) table `comment_db`.`comments_summeroutfits` exists in the InnoDB internal data
+InnoDB: dictionary though MySQL is trying to rename table `comment_db`.`comments_summeroutfits2` to it.
+InnoDB: Have you deleted the .frm file and not used DROP TABLE?
+InnoDB: You can look for further help from
+InnoDB: http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+InnoDB: If table `comment_db`.`comments_summeroutfits` is a temporary table #sql..., then it can be that
+InnoDB: there are still queries running on the table, and it will be
+InnoDB: dropped automatically when the queries end.
+InnoDB: You can drop the orphaned table inside InnoDB by
+InnoDB: creating an InnoDB table with the same name in another
+InnoDB: database and copying the .frm file to the current database.
+InnoDB: Then MySQL thinks the table exists, and DROP TABLE will
+InnoDB: succeed.
+2020-05-06 21:26:22 4944  InnoDB: Error; possible reasons:
+InnoDB: 1) Table rename would cause two FOREIGN KEY constraints
+InnoDB: to have the same internal name in case-insensitive comparison.
+InnoDB: 2) table `comment_db`.`comments_summeroutfits` exists in the InnoDB internal data
+InnoDB: dictionary though MySQL is trying to rename table `comment_db`.`comments_summeroutfits2` to it.
+InnoDB: Have you deleted the .frm file and not used DROP TABLE?
+InnoDB: You can look for further help from
+InnoDB: http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+InnoDB: If table `comment_db`.`comments_summeroutfits` is a temporary table #sql..., then it can be that
+InnoDB: there are still queries running on the table, and it will be
+InnoDB: dropped automatically when the queries end.
+InnoDB: You can drop the orphaned table inside InnoDB by
+InnoDB: creating an InnoDB table with the same name in another
+InnoDB: database and copying the .frm file to the current database.
+InnoDB: Then MySQL thinks the table exists, and DROP TABLE will
+InnoDB: succeed.
+2020-05-06 21:27:39 4a58  InnoDB: Error; possible reasons:
+InnoDB: 1) Table rename would cause two FOREIGN KEY constraints
+InnoDB: to have the same internal name in case-insensitive comparison.
+InnoDB: 2) table `comment_db`.`comments_findyourstyle` exists in the InnoDB internal data
+InnoDB: dictionary though MySQL is trying to rename table `comment_db`.`comments_findyourstyle2` to it.
+InnoDB: Have you deleted the .frm file and not used DROP TABLE?
+InnoDB: You can look for further help from
+InnoDB: http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+InnoDB: If table `comment_db`.`comments_findyourstyle` is a temporary table #sql..., then it can be that
+InnoDB: there are still queries running on the table, and it will be
+InnoDB: dropped automatically when the queries end.
+InnoDB: You can drop the orphaned table inside InnoDB by
+InnoDB: creating an InnoDB table with the same name in another
+InnoDB: database and copying the .frm file to the current database.
+InnoDB: Then MySQL thinks the table exists, and DROP TABLE will
+InnoDB: succeed.
+2020-05-06 21:31:02 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:31:02 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:31:02 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:31:02 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:31:02 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:31:02 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:31:02 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:31:02 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:31:02 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:31:02 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:31:02 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:31:02 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:32:14 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:32:14 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:32:15 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:32:15 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:32:15 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:32:15 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:32:15 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:32:15 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:32:15 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:32:15 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:32:15 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:32:15 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:36:05 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:36:05 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:36:06 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:36:06 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:36:06 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:36:06 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:36:06 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:36:06 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:36:06 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:36:06 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'
+2020-05-06 21:36:06 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_findyourstyle.frm'
+2020-05-06 21:36:06 21120 [ERROR] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Incorrect information in file: '.\comment_db\comments_summeroutfits.frm'

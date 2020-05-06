@@ -253,26 +253,6 @@ include "likes.php";
 				}
 			});
 		});
-
-		// when the user clicks on unlike
-		$('.unlike').on('click', function(){
-			var postid = $(this).data('id');
-		    $post = $(this);
-
-			$.ajax({
-				url: 'FashionPsychology.php',
-				type: 'post',
-				data: {
-					'unliked': 1,
-					'postid': postid
-				},
-				success: function(response){
-					$post.parent().find('span.likes_count').text(response + " likes");
-					$post.addClass('hide');
-					$post.siblings().removeClass('hide');
-				}
-			});
-		});
 	});
 </script>
 
