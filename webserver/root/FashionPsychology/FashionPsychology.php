@@ -1,6 +1,7 @@
 <?php
 include "../db_connect.php";
-include "likes.php";
+$id_article = 2;
+include "../likes.php";
  ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -224,7 +225,7 @@ include "likes.php";
                 </form>
                 <section class="text-left">
                   <?php
-                  Include "show_comments.php";
+                  Include "../show_comments.php";
                   ?>
                 </section>
               </div>

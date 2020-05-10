@@ -1,3 +1,8 @@
+<?php
+include "../db_connect.php";
+$id_article = 8;
+include "../likes.php";
+ ?>
 ﻿<!DOCTYPE html>
 <html lang="en">
 
@@ -251,8 +256,7 @@
                 </form>
                 <section class="text-left">
                   <?php
-                  Include "show_comments.php";
-                  $mysqli->close();
+                  Include "../show_comments.php";
                   ?>
                 </section>
               </div>
@@ -260,53 +264,30 @@
               </div>
               </div>
     </section>
-
-
-
-
-    <!-- Footer -->
-    <footer class="page-footer font-small teal pt-4">
-
-        <!-- Footer Text -->
-        <div class="container-fluid text-center text-md-left">
-
-            <!-- Grid row -->
-            <div class="row">
-
-                <!-- Grid column -->
-                <div class="col-md-6 mt-md-0 mt-3">
-
-                    <h5 class="blue-color-text">Contact</h5>
-                    <h7>Anna Hartl</h7>
-                    <a href="mailto:anna.sofie.hartl@gmail.com?subject=Feedback for our website"><br />anna.sofie.hartl@gmail.com</a>
-                    <a href="https://www.instagram.com/hey._.anna/"><br />@hey._.anna</a>
-                </div>
-                <!-- Grid column -->
-
-                <hr class="clearfix w-100 d-md-none pb-3">
-
-                <!-- Grid column -->
-                <div class="col-md-6 mb-md-0 mb-3">
-                    <h7><br />Tamara Melcher</h7>
-                    <a href="mailto:t.melcher.htlleonding@gmail.com?subject=Feedback for our website"><br />t.melcher.htlleonding@gmail.com</a>
-                    <a href="https://www.instagram.com/tami.melcher/"><br />@tami.melcher</a>
-
-                </div>
-                <!-- Grid column -->
-
-            </div>
-            <!-- Grid row -->
-
-        </div>
-
-        <div class="py-3" id="bottomColor"></div>
-
-    </footer>
-
     <!-- Bootstrap core JavaScript -->
     <script src="../vendor/jquery/jquery.min.js"></script>
     <script src="../vendor/bootstrap/js/bootstrap.bundle.js"></script>
+    <script>
+    $(document).ready(function(){
+    // when the user clicks on like
+    $('.like').on('click', function(){
+      var postid = $(this).data('id');
+          $post = $(this);
 
+      $.ajax({
+        url: 'WardrobeEssentials.php',
+        type: 'post',
+        data: {
+          'liked': 1,
+          'postid': postid
+        },
+        success: function(response){
+          $post.parent().find('span.likes_count').text(response + " likes");
+        }
+      });
+    });
+    });
+    </script>
 </body>
 
 </html>
