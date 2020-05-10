@@ -197,11 +197,28 @@
         </div>
       </div>
     </div>
+
+  <div class="col">
+        <hr><br/>
   </div>
-  <!-- /.row -->
 
+  <div class="col-lg-6 mb-4">
+    <a href="#">
+      <img class="img-fluid rounded mb-3 mb-md-0" src="https://torontoglobal.ca/TorontoGlobal/media/tg_medialibrary/global-map/MAP-(1).png?v=1.0" alt="">
+    </a>
+  </div>
+  <div class="col-lg-6 mb-4">
+    <a  class="h1 article-homepage" href="FashionWorld/FashionWorld.php">Fashion around the world</a>
+    <p class="lead">by Anna Hartl</p>
+    <p class="card-text">
+Inteactive global map
+      </p>
+  </div>
+  <div class="col">
+        <hr><br/>
+  </div>
 
-
+        </div>
       </div>
     </div>
   </div>

@@ -256,7 +256,7 @@ include "../likes.php";
                     </div>
 
                     <h3 class="h3-big"><br />Summer/Vacation</h3>
-                    <img class="img-thumbnail" src="../Pictures\summer.jpg"><br />
+                    <img class="img-thumbnail" src="../Pictures/DifferentStyles/summer.jpg"><br />
                     The last style is Summer and Vacation.
                     On this note i want you to look at the article my beloved colleague wrote.
                     She explains this style in depth and better than i ever could in a few sentences.<br />

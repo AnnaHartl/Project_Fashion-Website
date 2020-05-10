@@ -255,3 +255,159 @@
 ::1 - - [10/May/2020:10:44:36 +0200] "GET /phpmyadmin/favicon.ico HTTP/1.1" 200 22486
 ::1 - - [10/May/2020:10:44:36 +0200] "POST /phpmyadmin/navigation.php?ajax_request=1 HTTP/1.1" 200 2100
 ::1 - - [10/May/2020:10:44:36 +0200] "GET /phpmyadmin/index.php?ajax_request=1&recent_table=1&no_debug=true&_nocache=1589100276762178011 HTTP/1.1" 200 1417
+::1 - - [10/May/2020:10:47:08 +0200] "GET /DifferentStyles/DifferentStyles.php HTTP/1.1" 200 18982
+::1 - - [10/May/2020:10:47:08 +0200] "GET /Pictures/DifferentStyles/summer.jpg HTTP/1.1" 200 62128
+::1 - - [10/May/2020:10:51:33 +0200] "GET /index.php HTTP/1.1" 200 8338
+::1 - - [10/May/2020:10:51:39 +0200] "GET /Hairstyles/Hairstyles.php HTTP/1.1" 200 9600
+::1 - - [10/May/2020:10:52:39 +0200] "-" 408 -
+::1 - - [10/May/2020:10:55:43 +0200] "GET /index.php HTTP/1.1" 200 8785
+::1 - - [10/May/2020:10:56:43 +0200] "-" 408 -
+::1 - - [10/May/2020:10:56:45 +0200] "GET /index.php HTTP/1.1" 200 9327
+::1 - - [10/May/2020:10:57:39 +0200] "GET /index.php HTTP/1.1" 200 9325
+::1 - - [10/May/2020:10:59:34 +0200] "GET /index.php HTTP/1.1" 200 8847
+::1 - - [10/May/2020:11:00:11 +0200] "GET /index.php HTTP/1.1" 200 8895
+::1 - - [10/May/2020:11:01:11 +0200] "-" 408 -
+::1 - - [10/May/2020:11:01:12 +0200] "GET /index.php HTTP/1.1" 200 8895
+::1 - - [10/May/2020:11:01:13 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 4015
+::1 - - [10/May/2020:11:01:58 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 4011
+::1 - - [10/May/2020:11:02:40 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 4011
+::1 - - [10/May/2020:11:04:08 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 4137
+::1 - - [10/May/2020:11:04:49 +0200] "GET /WardrobeEssentials/WardrobeEssentials.php HTTP/1.1" 200 14206
+::1 - - [10/May/2020:11:04:54 +0200] "GET /vendor/bootstrap/js/bootstrap.bundle.js.map HTTP/1.1" 200 402249
+::1 - - [10/May/2020:11:04:54 +0200] "GET /vendor/bootstrap/css/bootstrap.css.map HTTP/1.1" 200 492048
+::1 - - [10/May/2020:11:06:00 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 4165
+::1 - - [10/May/2020:11:06:58 +0200] "-" 408 -
+::1 - - [10/May/2020:11:07:14 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 4155
+::1 - - [10/May/2020:11:07:23 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 4155
+::1 - - [10/May/2020:11:07:24 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 4155
+::1 - - [10/May/2020:11:07:49 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 4155
+::1 - - [10/May/2020:11:08:32 +0200] "POST /phpmyadmin/index.php HTTP/1.1" 200 1421
+::1 - - [10/May/2020:11:08:46 +0200] "POST /phpmyadmin/index.php HTTP/1.1" 200 1421
+::1 - - [10/May/2020:11:08:48 +0200] "POST /phpmyadmin/index.php HTTP/1.1" 200 73
+::1 - - [10/May/2020:11:08:48 +0200] "GET /phpmyadmin/sql.php?server=1&db=comment_db&table=comments_table&pos=0 HTTP/1.1" 200 3400
+::1 - - [10/May/2020:11:08:56 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 4155
+::1 - - [10/May/2020:11:08:56 +0200] "GET /css/specialAddings.css HTTP/1.1" 200 3032
+::1 - - [10/May/2020:11:08:56 +0200] "GET /vendor/bootstrap/css/bootstrap.css HTTP/1.1" 200 202813
+::1 - - [10/May/2020:11:08:57 +0200] "GET /vendor/jquery/jquery.min.js HTTP/1.1" 200 88147
+::1 - - [10/May/2020:11:08:57 +0200] "GET /vendor/bootstrap/js/bootstrap.bundle.js HTTP/1.1" 200 230380
+::1 - - [10/May/2020:11:08:57 +0200] "GET /Pictures/Psychology/heart.jpg HTTP/1.1" 200 27735
+::1 - - [10/May/2020:11:08:57 +0200] "GET /Pictures/background.png HTTP/1.1" 200 746
+::1 - - [10/May/2020:11:09:09 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 4155
+::1 - - [10/May/2020:11:09:09 +0200] "GET /css/specialAddings.css HTTP/1.1" 200 3032
+::1 - - [10/May/2020:11:09:20 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 4155
+::1 - - [10/May/2020:11:09:20 +0200] "GET /css/specialAddings.css HTTP/1.1" 200 3032
+::1 - - [10/May/2020:11:09:31 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 4155
+::1 - - [10/May/2020:11:09:31 +0200] "GET /css/specialAddings.css HTTP/1.1" 200 3033
+::1 - - [10/May/2020:11:09:42 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 4155
+::1 - - [10/May/2020:11:09:42 +0200] "GET /css/specialAddings.css HTTP/1.1" 200 3033
+::1 - - [10/May/2020:11:09:52 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 4155
+::1 - - [10/May/2020:11:09:52 +0200] "GET /css/specialAddings.css HTTP/1.1" 200 3033
+::1 - - [10/May/2020:11:10:04 +0200] "GET /css/specialAddings.css HTTP/1.1" 200 3035
+::1 - - [10/May/2020:11:10:04 +0200] "GET /vendor/bootstrap/js/bootstrap.bundle.js.map HTTP/1.1" 200 402249
+::1 - - [10/May/2020:11:10:04 +0200] "GET /vendor/bootstrap/css/bootstrap.css.map HTTP/1.1" 200 492048
+::1 - - [10/May/2020:11:11:09 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 4155
+::1 - - [10/May/2020:11:11:09 +0200] "GET /css/specialAddings.css HTTP/1.1" 200 2985
+::1 - - [10/May/2020:11:14:35 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 2500
+::1 - - [10/May/2020:11:14:35 +0200] "GET /css/specialAddings.css HTTP/1.1" 304 -
+::1 - - [10/May/2020:11:14:42 +0200] "GET /FashionWorld/computer.htm HTTP/1.1" 404 223
+::1 - - [10/May/2020:11:14:57 +0200] "GET /FashionWorld/coffee.htm HTTP/1.1" 404 221
+::1 - - [10/May/2020:11:15:01 +0200] "GET /FashionWorld/computer.htm HTTP/1.1" 404 223
+::1 - - [10/May/2020:11:22:37 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 2512
+::1 - - [10/May/2020:11:22:37 +0200] "GET /css/specialAddings.css HTTP/1.1" 304 -
+::1 - - [10/May/2020:11:22:47 +0200] "GET /FashionWorld/coffee.htm HTTP/1.1" 404 221
+::1 - - [10/May/2020:11:23:00 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 2494
+::1 - - [10/May/2020:11:30:55 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 2424
+::1 - - [10/May/2020:11:30:55 +0200] "GET /css/specialAddings.css HTTP/1.1" 304 -
+::1 - - [10/May/2020:11:30:55 +0200] "GET /Pictures/map.png HTTP/1.1" 200 88002
+::1 - - [10/May/2020:11:32:13 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 2424
+::1 - - [10/May/2020:11:32:13 +0200] "GET /Pictures/map.png HTTP/1.1" 304 -
+::1 - - [10/May/2020:11:33:09 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 2424
+::1 - - [10/May/2020:11:33:09 +0200] "GET /vendor/bootstrap/css/bootstrap.css HTTP/1.1" 200 202813
+::1 - - [10/May/2020:11:33:09 +0200] "GET /css/specialAddings.css HTTP/1.1" 200 2958
+::1 - - [10/May/2020:11:33:10 +0200] "GET /vendor/jquery/jquery.min.js HTTP/1.1" 200 88147
+::1 - - [10/May/2020:11:33:10 +0200] "GET /vendor/bootstrap/js/bootstrap.bundle.js HTTP/1.1" 200 230380
+::1 - - [10/May/2020:11:33:10 +0200] "GET /Pictures/map.png HTTP/1.1" 200 88002
+::1 - - [10/May/2020:11:33:10 +0200] "GET /vendor/bootstrap/css/bootstrap.css.map HTTP/1.1" 200 492048
+::1 - - [10/May/2020:11:33:10 +0200] "GET /Pictures/background.png HTTP/1.1" 200 746
+::1 - - [10/May/2020:11:33:10 +0200] "GET /vendor/bootstrap/js/bootstrap.bundle.js.map HTTP/1.1" 200 402249
+::1 - - [10/May/2020:11:34:38 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 2480
+::1 - - [10/May/2020:11:34:38 +0200] "GET /css/specialAddings.css HTTP/1.1" 304 -
+::1 - - [10/May/2020:11:35:41 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 2474
+::1 - - [10/May/2020:11:35:41 +0200] "GET /css/specialAddings.css HTTP/1.1" 304 -
+::1 - - [10/May/2020:11:36:23 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 2483
+::1 - - [10/May/2020:11:36:24 +0200] "GET /css/specialAddings.css HTTP/1.1" 304 -
+::1 - - [10/May/2020:11:38:12 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 2498
+::1 - - [10/May/2020:11:38:12 +0200] "GET /css/specialAddings.css HTTP/1.1" 200 2984
+::1 - - [10/May/2020:17:24:30 +0200] "-" 408 -
+::1 - - [10/May/2020:17:24:30 +0200] "-" 408 -
+::1 - - [10/May/2020:17:24:53 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 2498
+::1 - - [10/May/2020:17:24:54 +0200] "GET /css/specialAddings.css HTTP/1.1" 304 -
+::1 - - [10/May/2020:17:25:53 +0200] "-" 408 -
+::1 - - [10/May/2020:20:23:30 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 2774
+::1 - - [10/May/2020:20:23:31 +0200] "GET /css/specialAddings.css HTTP/1.1" 304 -
+::1 - - [10/May/2020:20:23:31 +0200] "GET /highlightmap.js HTTP/1.1" 200 13912
+::1 - - [10/May/2020:20:24:30 +0200] "-" 408 -
+::1 - - [10/May/2020:20:24:59 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 2779
+::1 - - [10/May/2020:20:24:59 +0200] "GET /highlightmap.js HTTP/1.1" 304 -
+::1 - - [10/May/2020:20:25:01 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 2779
+::1 - - [10/May/2020:20:25:59 +0200] "-" 408 -
+::1 - - [10/May/2020:20:27:06 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 2779
+::1 - - [10/May/2020:20:27:06 +0200] "GET /highlightmap.js HTTP/1.1" 200 13913
+::1 - - [10/May/2020:20:27:07 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 2779
+::1 - - [10/May/2020:20:27:07 +0200] "GET /highlightmap.js HTTP/1.1" 304 -
+::1 - - [10/May/2020:20:28:06 +0200] "-" 408 -
+::1 - - [10/May/2020:20:28:30 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 2786
+::1 - - [10/May/2020:20:28:30 +0200] "GET /highlightmap.js HTTP/1.1" 304 -
+::1 - - [10/May/2020:20:29:30 +0200] "-" 408 -
+::1 - - [10/May/2020:20:32:21 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 2774
+::1 - - [10/May/2020:20:32:22 +0200] "GET /highlightmap.js HTTP/1.1" 304 -
+::1 - - [10/May/2020:20:39:01 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 2776
+::1 - - [10/May/2020:20:39:01 +0200] "GET /highlightmap.js HTTP/1.1" 304 -
+::1 - - [10/May/2020:20:54:08 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 3055
+::1 - - [10/May/2020:20:54:09 +0200] "GET /highlightmap.js HTTP/1.1" 304 -
+::1 - - [10/May/2020:20:55:08 +0200] "-" 408 -
+::1 - - [10/May/2020:21:04:26 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 4076
+::1 - - [10/May/2020:21:04:27 +0200] "GET /jquery.maphilight.js HTTP/1.1" 200 13507
+::1 - - [10/May/2020:21:04:58 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 4042
+::1 - - [10/May/2020:21:05:49 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 3731
+::1 - - [10/May/2020:21:05:49 +0200] "GET /jquery.maphilight.js HTTP/1.1" 304 -
+::1 - - [10/May/2020:21:06:28 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 3735
+::1 - - [10/May/2020:21:07:28 +0200] "-" 408 -
+::1 - - [10/May/2020:21:07:54 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 3548
+::1 - - [10/May/2020:21:07:54 +0200] "GET /jquery.maphilight.js HTTP/1.1" 304 -
+::1 - - [10/May/2020:21:08:54 +0200] "-" 408 -
+::1 - - [10/May/2020:21:09:03 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 3195
+::1 - - [10/May/2020:21:09:03 +0200] "GET /jquery.maphilight.js HTTP/1.1" 304 -
+::1 - - [10/May/2020:21:09:14 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 2992
+::1 - - [10/May/2020:21:09:51 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 2765
+::1 - - [10/May/2020:21:10:34 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 2775
+::1 - - [10/May/2020:21:10:34 +0200] "GET /jquery.maphilight.js HTTP/1.1" 304 -
+::1 - - [10/May/2020:21:11:07 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 2788
+::1 - - [10/May/2020:21:11:40 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 2786
+::1 - - [10/May/2020:21:12:25 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 2785
+::1 - - [10/May/2020:21:12:25 +0200] "GET /jquery.maphilight.js HTTP/1.1" 304 -
+::1 - - [10/May/2020:21:12:46 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 2787
+::1 - - [10/May/2020:21:13:46 +0200] "-" 408 -
+::1 - - [10/May/2020:21:14:08 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 2789
+::1 - - [10/May/2020:21:14:08 +0200] "GET /jquery.maphilight.js HTTP/1.1" 304 -
+::1 - - [10/May/2020:21:15:08 +0200] "-" 408 -
+::1 - - [10/May/2020:21:15:31 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 2780
+::1 - - [10/May/2020:21:15:42 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 2779
+::1 - - [10/May/2020:21:16:42 +0200] "-" 408 -
+::1 - - [10/May/2020:21:24:23 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 3056
+::1 - - [10/May/2020:21:24:23 +0200] "GET /css/specialAddings.css HTTP/1.1" 304 -
+::1 - - [10/May/2020:21:24:23 +0200] "GET /jquery.maphilight.js HTTP/1.1" 304 -
+::1 - - [10/May/2020:21:24:23 +0200] "GET /FashionWorld/burj-khalifa.jpg HTTP/1.1" 404 227
+::1 - - [10/May/2020:21:28:12 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 3151
+::1 - - [10/May/2020:21:28:12 +0200] "GET /jquery.maphilight.js HTTP/1.1" 304 -
+::1 - - [10/May/2020:21:28:59 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 3248
+::1 - - [10/May/2020:21:29:00 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 3248
+::1 - - [10/May/2020:21:29:41 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 3336
+::1 - - [10/May/2020:21:30:41 +0200] "-" 408 -
+::1 - - [10/May/2020:21:32:36 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 3435
+::1 - - [10/May/2020:21:32:36 +0200] "GET /jquery.maphilight.js HTTP/1.1" 304 -
+::1 - - [10/May/2020:21:33:07 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 3420
+::1 - - [10/May/2020:21:33:40 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 3422
+::1 - - [10/May/2020:21:34:00 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 3422
+::1 - - [10/May/2020:21:34:28 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 3380
+::1 - - [10/May/2020:21:34:47 +0200] "GET /FashionWorld/FashionWorld.php HTTP/1.1" 200 3382

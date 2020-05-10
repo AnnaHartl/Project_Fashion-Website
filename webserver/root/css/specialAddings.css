@@ -5,6 +5,32 @@
   <link href="css/specialAddings.css" rel="stylesheet">
 
  */
+ #burj {
+ 	position: relative;
+ 	width: 100%;
+ 	padding-bottom: 77%;
+ 	vertical-align: middle;
+ 	margin: 0;
+ 	overflow: hidden;
+ }
+ #burj svg {
+ 	display: inline-block;
+ 	position: absolute;
+ 	top: 0; left: 0;
+ }
+
+
+.change{
+  color: red;
+}
+
+.map{
+    border: 1px solid #dee2e6;
+    border-radius: 0.25rem;
+    max-width: 100%;
+    height: auto;
+}
+
 
  body {
    background: url('../Pictures/background.png') no-repeat center center fixed;
