@@ -59,23 +59,16 @@ include "../likes.php";
                 <h1 class="h1-big">Fashion around the world</h1>
                 <p class="lead">by Anna Hartl</p>
 
-
-                <img src="https://cdn.pixabay.com/photo/2014/04/02/16/26/map-307294_960_720.png" class="map change" usemap="#worldmap">
-                <map name="worldmap">
-                <area onclick="myFunction()" href="#" shape="circle" coords="500,290,10" data-maphilight='{"stroke":false,"fillColor":"000000","fillOpacity":0.5,"alwaysOn":true}' title="Metadata'd up a bit">
-                </map>
-
-                <figure id=burj>
-                	<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 808" preserveAspectRatio="xMinYMin meet" >
+                <figure>
+                	<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 808" preserveAspectRatio="xMinYMin meet" >
                 	<image width="1200" height="808" xlink:href="https://cdn.pixabay.com/photo/2014/04/02/16/26/map-307294_960_720.png">
                 	</image>
-                	<a xlink:href="//burjkhalifa.ae/en/">
-                		<rect x="535" y="28" fill="#FF0000" opacity="0.5" width="150" height="750" />
-                		</a>
+                    <circle id="idea" onclick="indiaText()" cx="830" cy="400" r="15" fill="#202fb1" opacity="0.7"><title>India</title></circle>
+                    <circle cx="680" cy="470" r="15" fill="#202fb1" opacity="0.7"><title>Kenia</title></circle>
                 	</svg>
                 </figure>
 
-                <p id="test">Hello</p>
+                <p id="text"></p>
               </div>
               </div>
               </div>
@@ -89,9 +82,9 @@ include "../likes.php";
     });
     </script>
 
-      <script>
-      function myFunction() {
-          document.getElementById("test").innerHTML = "clicked";
+    <script>
+      function indiaText() {
+          document.getElementById("text").innerHTML = "India Text";
       }
     </script>
 </body>
