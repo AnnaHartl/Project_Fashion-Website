@@ -61,10 +61,10 @@ include "../likes.php";
 
                 <figure>
                 	<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 808" preserveAspectRatio="xMinYMin meet" >
-                	<image width="1200" height="808" xlink:href="https://cdn.pixabay.com/photo/2014/04/02/16/26/map-307294_960_720.png">
+                	<image width="1200" height="608" xlink:href="https://cdn.pixabay.com/photo/2014/04/02/16/26/map-307294_960_720.png">
                 	</image>
-                    <circle id="idea" onclick="indiaText()" cx="830" cy="400" r="15" fill="#202fb1" opacity="0.7"><title>India</title></circle>
-                    <circle cx="680" cy="470" r="15" fill="#202fb1" opacity="0.7"><title>Kenia</title></circle>
+                    <circle id="idea" onclick="indiaText()" cx="830" cy="300" r="15" fill="#202fb1" opacity="0.7"><title>India</title></circle>
+                    <circle cx="680" cy="370" r="15" fill="#202fb1" opacity="0.7"><title>Kenia</title></circle>
                 	</svg>
                 </figure>
 
