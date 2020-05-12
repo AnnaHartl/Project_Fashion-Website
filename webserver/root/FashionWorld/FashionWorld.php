@@ -68,7 +68,9 @@ include "../likes.php";
                 	</svg>
                 </figure>
 
-                <p id="text"></p>
+                <h1 id="text"></h1>
+                <img id="pic" width="1000" height="auto" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACoCAMAAABt9SM9AAAAA1BMVEX///+nxBvIAAAAR0lEQVR4nO3BAQEAAACCIP+vbkhAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GxYgAAb0jQ/cAAAAASUVORK5CYII=">
+                <p></p>
               </div>
               </div>
               </div>
@@ -84,7 +86,8 @@ include "../likes.php";
 
     <script>
       function indiaText() {
-          document.getElementById("text").innerHTML = "India Text";
+          document.getElementById("text").innerHTML = "India";
+          document.getElementById("pic").src = "../Pictures/india.jpg";
       }
     </script>
 </body>
