@@ -69,7 +69,7 @@ include "../likes.php";
                 </figure>
 
                 <h1 id="text"></h1>
-                <img id="pic" width="1000" height="auto" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACoCAMAAABt9SM9AAAAA1BMVEX///+nxBvIAAAAR0lEQVR4nO3BAQEAAACCIP+vbkhAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GxYgAAb0jQ/cAAAAASUVORK5CYII=">
+                <img id="pic" width="10" height="auto" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACoCAMAAABt9SM9AAAAA1BMVEX///+nxBvIAAAAR0lEQVR4nO3BAQEAAACCIP+vbkhAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GxYgAAb0jQ/cAAAAASUVORK5CYII=">
                 <p></p>
               </div>
               </div>
@@ -87,7 +87,9 @@ include "../likes.php";
     <script>
       function indiaText() {
           document.getElementById("text").innerHTML = "India";
-          document.getElementById("pic").src = "../Pictures/india.jpg";
+          var x = document.getElementById("pic");
+          x.src = "../Pictures/india.jpg";
+          x.width = "1000";
       }
     </script>
 </body>
