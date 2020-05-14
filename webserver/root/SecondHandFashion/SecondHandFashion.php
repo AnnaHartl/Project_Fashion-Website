@@ -248,6 +248,7 @@ include "vote.php";
           display: false,
           text: 'Chart'
         },
+        events: [],
         animation: false,
       }
       });
