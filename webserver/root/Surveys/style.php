@@ -57,7 +57,7 @@ include "../likes.php";
 
                 <h1 class="h1-big">What style matches your personality?</h1>
                 <p class="lead">by Anna Hartl</p>
-
+                
               </div>
               </div>
               </div>
