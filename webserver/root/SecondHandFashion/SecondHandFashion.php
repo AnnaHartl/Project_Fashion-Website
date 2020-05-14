@@ -91,12 +91,7 @@ include "vote.php";
                   ?>
                   </div>
                   <h4><br />Result Chart<br /></h4>
-                  <?php
-                  $sql = mysqli_query($mysqli, "SELECT * FROM vote_table");
-                  $row = $sql->fetch_assoc();
-                  $res = $row["vote1"] +$row["vote2"]+$row["vote3"];
-                  echo "<p id=\"total\">Total Votes: ".$res."</p>";
-                   ?>
+                  <span id="total"></span>
                   <canvas id="myChart" height="1" width="10"></canvas>
                   <span id="error_text"></span>
                   <h3 class="h3-big"><br />Where can you buy it?</h3>
@@ -174,6 +169,7 @@ include "vote.php";
       success: function(response){
         $post.parent().find('span.vote11').text(response);
         drawChart();
+        updateCount();
       }
     });
   });
@@ -190,6 +186,7 @@ include "vote.php";
       success: function(response){
           $post.parent().find('span.vote22').text(response);
           drawChart();
+          updateCount();
       }
     });
   });
@@ -205,9 +202,20 @@ include "vote.php";
       success: function(response){
         $post.parent().find('span.vote33').text(response);
         drawChart();
+        updateCount();
       }
     });
   });
+  </script>
+  <script>
+  updateCount();
+  function updateCount() {
+    var vote1 = document.getElementById("1").innerHTML;
+    var vote2 = document.getElementById("2").innerHTML;
+    var vote3 = document.getElementById("3").innerHTML;
+    var res = parseInt(vote1,10)+parseInt(vote2,10)+parseInt(vote3,10);
+    document.getElementById("total").innerHTML= "<br />Total Votes: "+res;
+  }
   </script>
   <script>
   drawChart();
