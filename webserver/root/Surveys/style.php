@@ -57,7 +57,18 @@ include "../likes.php";
 
                 <h1 class="h1-big">What style matches your personality?</h1>
                 <p class="lead">by Anna Hartl</p>
-                
+
+                <form action="/action_page.php">
+                <img src="../Pictures/Survey/style/beach1.jpg" width="200" height="auto">
+                <input type="radio" id="beach1" name="beach1" value="1">
+                <img src="../Pictures/Survey/style/beach2.jpg" width="200" height="auto">
+                <input type="radio" id="beach1" name="beach1" value="1">
+                <img src="../Pictures/Survey/style/beach3.jpg" width="200" height="auto">
+                <input type="radio" id="beach1" name="beach1" value="1">
+                <img src="../Pictures/Survey/style/beach4.jpg" width="200" height="auto">
+                <input type="radio" id="beach1" name="beach1" value="1">
+                </form>
+
               </div>
               </div>
               </div>
