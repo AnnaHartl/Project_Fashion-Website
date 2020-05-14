@@ -16,7 +16,6 @@ include "../likes.php";
   <title>FashionWorld.com</title>
 
   <link href="../vendor/bootstrap/css/bootstrap.css" rel="stylesheet">
-
   <link href="../css/specialAddings.css" rel="stylesheet">
 
 </head>
