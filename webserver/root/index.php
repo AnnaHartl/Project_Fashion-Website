@@ -35,7 +35,7 @@
         <a class="nav-link" href="articles.php">Articles</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Surveys</a>
+        <a class="nav-link" href="/Surveys/style.php">Surveys</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#">Contact</a>

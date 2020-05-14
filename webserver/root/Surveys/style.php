@@ -55,21 +55,9 @@ include "../likes.php";
               <div class="card-body p-5">
                 <div class="container">
 
-                <h1 class="h1-big">Fashion around the world</h1>
+                <h1 class="h1-big">What style matches your personality?</h1>
                 <p class="lead">by Anna Hartl</p>
 
-                <figure>
-                	<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 608" preserveAspectRatio="xMinYMin meet" >
-                	<image width="1200" height="608" xlink:href="../Pictures/map.webp">
-                	</image>
-                    <circle id="idea" onclick="indiaText()" cx="830" cy="300" r="15" fill="#202fb1" opacity="0.7"><title>India</title></circle>
-                    <circle cx="680" cy="370" r="15" fill="#202fb1" opacity="0.7"><title>Kenia</title></circle>
-                	</svg>
-                </figure>
-
-                <h1 id="text"></h1>
-                <img id="pic" width="10" height="auto" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACoCAMAAABt9SM9AAAAA1BMVEX///+nxBvIAAAAR0lEQVR4nO3BAQEAAACCIP+vbkhAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GxYgAAb0jQ/cAAAAASUVORK5CYII=">
-                <p></p>
               </div>
               </div>
               </div>
@@ -77,15 +65,6 @@ include "../likes.php";
     </section>
     <script src="../vendor/jquery/jquery.min.js"></script>
     <script src="../vendor/bootstrap/js/bootstrap.bundle.js"></script>
-    <script type="text/javascript" src="../jquery.maphilight.js"></script>
-    <script>
-      function indiaText() {
-          document.getElementById("text").innerHTML = "India";
-          var x = document.getElementById("pic");
-          x.src = "../Pictures/india.jpg";
-          x.width = "1000";
-      }
-    </script>
 </body>
 
 </html>
