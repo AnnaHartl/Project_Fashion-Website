@@ -1036,3 +1036,26 @@ Version: '5.6.34'  socket: ''  port: 3306  MySQL Community Server (GPL)
 2020-05-15 06:34:05 11380 [Note] IPv6 is available.
 2020-05-15 06:34:05 11380 [Note]   - '::' resolves to '::';
 2020-05-15 06:34:05 11380 [Note] Server socket created on IP: '::'.
+2020-05-15 11:17:00 16556 [Note] Plugin 'FEDERATED' is disabled.
+2020-05-15 11:17:00 16556 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2020-05-15 11:17:00 16556 [Note] InnoDB: The InnoDB memory heap is disabled
+2020-05-15 11:17:00 16556 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-05-15 11:17:00 16556 [Note] InnoDB: Memory barrier is not used
+2020-05-15 11:17:00 16556 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2020-05-15 11:17:00 16556 [Note] InnoDB: Not using CPU crc32 instructions
+2020-05-15 11:17:00 16556 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2020-05-15 11:17:01 16556 [Note] InnoDB: Completed initialization of buffer pool
+2020-05-15 11:17:01 16556 [Note] InnoDB: Highest supported file format is Barracuda.
+2020-05-15 11:17:01 16556 [Note] InnoDB: The log sequence numbers 1626134 and 1626134 in ibdata files do not match the log sequence number 2114231 in the ib_logfiles!
+2020-05-15 11:17:01 16556 [Note] InnoDB: Database was not shutdown normally!
+2020-05-15 11:17:01 16556 [Note] InnoDB: Starting crash recovery.
+2020-05-15 11:17:01 16556 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2020-05-15 11:17:01 16556 [Note] InnoDB: Restoring possible half-written data pages 
+2020-05-15 11:17:01 16556 [Note] InnoDB: from the doublewrite buffer...
+2020-05-15 11:17:01 16556 [Note] InnoDB: 128 rollback segment(s) are active.
+2020-05-15 11:17:01 16556 [Note] InnoDB: Waiting for purge to start
+2020-05-15 11:17:01 16556 [Note] InnoDB: 5.6.34 started; log sequence number 2114231
+2020-05-15 11:17:01 16556 [Note] Server hostname (bind-address): '*'; port: 3306
+2020-05-15 11:17:01 16556 [Note] IPv6 is available.
+2020-05-15 11:17:01 16556 [Note]   - '::' resolves to '::';
+2020-05-15 11:17:01 16556 [Note] Server socket created on IP: '::'.
