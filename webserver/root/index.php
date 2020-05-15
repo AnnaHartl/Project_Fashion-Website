@@ -57,7 +57,8 @@
   <div class="row">
     <div class="col mb-4 text-center">
       <div class="card h-100">
-        <a href="#"><img class="card-img" src="Pictures/head_hp.jpg" alt=""></a>        <div class="card-body">
+        <img class="card-img" src="Pictures/head_hp.jpg" alt="">
+          <div class="card-body">
           <h1 class="h1 article-homepage">Welcome to our webpage!</h1>
           <p class="lead">by Anna Hartl & Tamara Melcher</p>
           <p>

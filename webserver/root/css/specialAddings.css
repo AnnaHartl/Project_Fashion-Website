@@ -5,8 +5,15 @@
   <link href="css/specialAddings.css" rel="stylesheet">
 
  */
+.radio-btn-survey{
+  margin-right: 22.5%;
+  margin-left: 22.5%
+}
 
-
+.survey-img{
+  width: 45%;
+  height: auto;
+}
 
 .change{
   color: red;

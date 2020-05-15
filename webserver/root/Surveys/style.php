@@ -58,15 +58,26 @@ include "../likes.php";
                 <h1 class="h1-big">What style matches your personality?</h1>
                 <p class="lead">by Anna Hartl</p>
 
-                <form action="/action_page.php">
-                <img src="../Pictures/Survey/style/beach1.jpg" width="200" height="auto">
-                <input type="radio" id="beach1" name="beach1" value="1">
-                <img src="../Pictures/Survey/style/beach2.jpg" width="200" height="auto">
-                <input type="radio" id="beach1" name="beach1" value="1">
-                <img src="../Pictures/Survey/style/beach3.jpg" width="200" height="auto">
-                <input type="radio" id="beach1" name="beach1" value="1">
-                <img src="../Pictures/Survey/style/beach4.jpg" width="200" height="auto">
-                <input type="radio" id="beach1" name="beach1" value="1">
+                <form action="result.php">
+                <img class="survey-img" src="../Pictures/Survey/style/beach1.jpg">
+                <img class="survey-img" src="../Pictures/Survey/style/beach2.jpg"><br>
+                <input class="radio-btn-survey" type="radio" id="beach1" name="beach" value="1" checked="checked">
+                <input class="radio-btn-survey" type="radio" id="beach1" name="beach" value="2"><br>
+                <img class="survey-img" src="../Pictures/Survey/style/beach3.jpg">
+                <img class="survey-img" src="../Pictures/Survey/style/beach4.jpg">
+                <input class="radio-btn-survey" type="radio" id="beach1" name="beach" value="3">
+                <input class="radio-btn-survey" type="radio" id="beach1" name="beach" value="4">
+                <br>
+                <img src="../Pictures/Survey/style/clubbing1.jpg" width="200" height="auto">
+                <input type="radio" id="clubbing" name="clubbing" value="1">
+                <img src="../Pictures/Survey/style/clubbing2.jpg" width="200" height="auto">
+                <input type="radio" id="clubbing" name="clubbing" value="2">
+                <img src="../Pictures/Survey/style/clubbing3.jpg" width="200" height="auto">
+                <input type="radio" id="clubbing" name="clubbing" value="3">
+                <img src="../Pictures/Survey/style/clubbing4.jpg" width="200" height="auto">
+                <input type="radio" id="clubbing" name="clubbing" value="4">
+
+                <button id="submit" name="submit" class="btn btn-primary" style="padding-left: 12px;">Result</button>
                 </form>
 
               </div>
