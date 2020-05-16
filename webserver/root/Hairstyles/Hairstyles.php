@@ -34,15 +34,15 @@ include "../likes.php";
         <a class="nav-link" href="../index.php">Home
             </a>
       </li>
-      <li class="nav-item">
-        <a class="nav-link active" href="#">Articles
+      <li class="nav-item active">
+        <a class="nav-link" href="../articles.php">Articles
 </a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#">Surveys</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Contact</a>
+        <a class="nav-link" href="../contact.php">Contact</a>
       </li>
     </ul>
   </div>

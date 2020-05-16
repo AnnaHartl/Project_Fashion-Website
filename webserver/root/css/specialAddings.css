@@ -5,6 +5,40 @@
   <link href="css/specialAddings.css" rel="stylesheet">
 
  */
+div.gallery {
+    margin: 90px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 220px;
+}
+
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+
+figure {
+    position: relative;
+    margin: 0;
+    padding: .5em;
+    width: 100%;
+    border: thin solid gainsboro;
+    background: white;
+    width: 100%;
+}
+
+figcaption {
+    padding: .8em;
+    text-align: center;
+}
+
 .radio-btn-survey{
   margin-right: 22.5%;
   margin-left: 22.5%
@@ -187,3 +221,5 @@
     margin-left: auto;
     margin-right:auto;
 }
+
+

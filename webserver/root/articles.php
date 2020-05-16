@@ -31,7 +31,7 @@
                         <a class="nav-link" href="index.php">Home</a>
                     </li>
                     <li class="nav-item active">
-                        <a class="nav-link" href="#">Articles
+                        <a class="nav-link" href="articles.php">Articles
                             <span class="sr-only">(current)</span>
                         </a>
                     </li>

@@ -40,14 +40,14 @@ include "vote.php";
           </a>
     </li>
     <li class="nav-item active">
-      <a class="nav-link" href="#">Articles
+      <a class="nav-link" href="../articles.php">Articles
 </a>
     </li>
     <li class="nav-item">
       <a class="nav-link" href="#">Surveys</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="#">Contact</a>
+      <a class="nav-link" href="../contact.php">Contact</a>
     </li>
   </ul>
 </div>
