@@ -47,6 +47,16 @@ figcaption {
 .survey-img{
   width: 45%;
   height: auto;
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+
+.survey-img-left{
+  margin-right: 2%;
+}
+
+.horizontalLine hr{
+  border: 1.5px solid #329983;
 }
 
 .change{
