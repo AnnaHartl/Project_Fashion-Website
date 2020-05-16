@@ -5,39 +5,55 @@
   <link href="css/specialAddings.css" rel="stylesheet">
 
  */
-div.gallery {
-    margin: 90px;
-    border: 1px solid #ccc;
-    float: left;
-    width: 220px;
+.column {
+    float: inside;
+    width: 50.0%;
+    margin-bottom: 16px;
+    padding: 0 8px;
 }
 
-
-div.gallery img {
-    width: 100%;
-    height: auto;
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin: 45px;
 }
 
-div.desc {
-    padding: 15px;
+.about-section {
+    padding: 50px;
     text-align: center;
+    background-color: #474e5d;
+    color: white;
 }
 
-
-figure {
-    position: relative;
-    margin: 0;
-    padding: .5em;
-    width: 100%;
-    border: thin solid gainsboro;
-    background: white;
-    width: 100%;
+.container {
+    padding: 0 16px;
 }
 
-figcaption {
-    padding: .8em;
+.container::after, .row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.title {
+    color: grey;
+}
+
+.button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #000;
     text-align: center;
+    cursor: pointer;
+    width: 100%;
 }
+
+.button:hover {
+    background-color: #555;
+}
+
 
 .radio-btn-survey{
   margin-right: 22.5%;
