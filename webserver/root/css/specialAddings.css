@@ -5,6 +5,8 @@
   <link href="css/specialAddings.css" rel="stylesheet">
 
  */
+ 
+ /*
 .column {
     float: inside;
     width: 50.0%;
@@ -53,7 +55,7 @@
 .button:hover {
     background-color: #555;
 }
-
+*/
 
 .radio-btn-survey{
   margin-right: 22.5%;
@@ -247,5 +249,3 @@
     margin-left: auto;
     margin-right:auto;
 }
-
-
