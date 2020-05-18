@@ -43,7 +43,7 @@ for($i = 0; $i < 6;$i++){
    <meta name="description" content="">
    <meta name="author" content="">
 
-   <title>FashionWorld.com</title>
+   <title>YourResult.com</title>
 
    <link href="../vendor/bootstrap/css/bootstrap.css" rel="stylesheet">
    <link href="../css/specialAddings.css" rel="stylesheet">
@@ -63,11 +63,11 @@ for($i = 0; $i < 6;$i++){
          <a class="nav-link" href="../index.php">Home
              </a>
        </li>
-       <li class="nav-item active">
+       <li class="nav-item ">
          <a class="nav-link" href="../articles.php">Articles
          </a>
        </li>
-       <li class="nav-item">
+       <li class="nav-item active">
          <a class="nav-link" href="#">Surveys</a>
        </li>
        <li class="nav-item">
@@ -83,12 +83,11 @@ for($i = 0; $i < 6;$i++){
            <div class="container text-center">
              <div class="card border-0 shadow my-5">
                <div class="card-body p-5">
-                 <div class="container" id="t">
+                 <div class="container">
 
                  <h1 class="h1-big">Your Result</h1>
                  <p class="lead">by Anna Hartl</p>
 
-                 <h2>Cool</h2>
                  <?php
                     echo "";
                   ?>
@@ -100,7 +99,7 @@ for($i = 0; $i < 6;$i++){
                   <?php
                   $xpos = ($p1-$p3)*6 +625;
                   $ypos = ($p4 -$p2)*5.5 +400;
-                      echo "<circle id=\"india\"  cx=\"".$xpos."\" cy=\"".$ypos."\" r=\"20\" fill=\"#202fb1\" opacity=\"0.7\"><title>India</title></circle>";
+                      echo "<circle id=\"india\"  cx=\"".$xpos."\" cy=\"".$ypos."\" r=\"20\" fill=\"#202fb1\" opacity=\"0.7\"></circle>";
                    ?>
                    </svg>
                  </figure>

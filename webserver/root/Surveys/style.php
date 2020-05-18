@@ -13,7 +13,7 @@ include "../likes.php";
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>FashionWorld.com</title>
+  <title>StyleTest.com</title>
 
   <link href="../vendor/bootstrap/css/bootstrap.css" rel="stylesheet">
   <link href="../css/specialAddings.css" rel="stylesheet">
@@ -96,7 +96,7 @@ include "../likes.php";
                 <input class="radio-btn-survey" type="radio" id="shoes" name="shoes" value="1" checked="checked">
                 <input class="radio-btn-survey" type="radio" id="shoes" name="shoes" value="2"><br>
                 <img class="survey-img survey-img-left" src="../Pictures/Survey/style/shoes3.jpg">
-                <img class="survey-img" src="../Pictures/Survey/style/shoes3.jpg">
+                <img class="survey-img" src="../Pictures/Survey/style/shoes4.jpg">
                 <input class="radio-btn-survey" type="radio" id="shoes" name="shoes" value="3">
                 <input class="radio-btn-survey" type="radio" id="shoes" name="shoes" value="4">
                 <br> <br> <hr> <br>
