@@ -71,13 +71,13 @@ include "../likes.php";
                 <input class="radio-btn-survey" type="radio" id="beach" name="beach" value="4">
                 <br> <br> <hr> <br>
                 <h3>How would your friend describe you?<br><br></h3>
-                <input type="radio" id="1" name="personality" value="1">
+                <input type="radio" id="personality" name="personality" value="1" checked="checked">
                 <label for="1">Cool, laidback, having an attitude</label><br>
-                <input type="radio" id="2" name="personality" value="2">
+                <input type="radio" id="personality" name="personality" value="2">
                 <label for="2">Girly, playful, happy, likes attention</label><br>
-                <input type="radio" id="3" name="personality" value="3">
+                <input type="radio" id="personality" name="personality" value="3">
                 <label for="3">Mature, thinks about her actions, confident</label><br>
-                <input type="radio" id="4" name="personality" value="4">
+                <input type="radio" id="personality" name="personality" value="4">
                 <label for="4">Fun, energetic, extroverted</label><br>
                 <br> <br> <hr> <br>
                 <h3>Your bestfriend gets you a necklace for your birthday <br>How would it look? <br><br></h3>
