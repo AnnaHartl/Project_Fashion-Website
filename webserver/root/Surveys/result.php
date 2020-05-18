@@ -85,8 +85,13 @@ for($i = 0; $i < 6;$i++){
                <div class="card-body p-5">
                  <div class="container" id="t">
 
-                 <h1 class="h1-big">Fashion around the world</h1>
+                 <h1 class="h1-big">Your Result</h1>
                  <p class="lead">by Anna Hartl</p>
+
+                 <h2>Cool</h2>
+                 <?php
+                    echo "";
+                  ?>
 
                  <figure>
                  	<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1250 800" preserveAspectRatio="xMinYMin meet" >

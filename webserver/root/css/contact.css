@@ -1,34 +1,32 @@
+.ig-button{
+  background: url(https://www.trace.agency/wp-content/uploads/2018/10/new-instagram-color-background-latest.jpg);
+  background-size: 450px 50px;
+}
+
+.bottom-margin{
+  margin-bottom: 15px;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .column {
-    float: inside;
-    width: 50.0%;
-    margin-bottom: 16px;
-    padding: 0 8px;
+    width: 45%;
 }
 
 .card {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-    margin: 45px;
+    margin: 25px;
 }
 
 .about-section {
-    padding: 50px;
+    padding: 25px;
     text-align: center;
-    background-color: #474e5d;
+    background-color: #a0a0a0;
     color: white;
-}
-
-.container {
-    padding: 0 16px;
-}
-
-.container::after, .row::after {
-    content: "";
-    clear: both;
-    display: table;
-}
-
-.title {
-    color: grey;
 }
 
 .button {

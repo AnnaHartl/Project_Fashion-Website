@@ -11,7 +11,6 @@
      <title>Fashionistas.com</title>
 
      <link href="vendor/bootstrap/css/bootstrap.css" rel="stylesheet">
-
      <link href="css/contact.css" rel="stylesheet">
 
  </head>
@@ -47,22 +46,23 @@
               <div class="container text-center">
                   <div class="card border-0 shadow my-5">
                       <div class="about-section">
-                          <h1>About Us Page</h1>
-                          <p>We did this fashion website as a project for our school.</p>
-                          <p>We thought it would be a great idea to do this because we want to give women and men an insight into fashion.</p>
-                          <p>In our society, most people think that fashion is only something for women, therefore we want to change this biased attitude a bit.</p>
+                          <h1>Our Team</h1>
                       </div>
 
-                      <h2 style="text-align:center">Our Team</h2>
                       <div class="row">
+
                           <div class="column">
                               <div class="card">
                                   <img src="Pictures\Anna.jpg" alt="Anna" style="width:100%">
                                   <div class="container">
                                       <h2>Anna Hartl</h2>
-                                      <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-                                      <p>jane@example.com</p>
-                                      <p><button class="button">Contact</button></p>
+                                      <p>Age: 16 years <br>
+                                        School: HTL Leonding <br>
+                                        Field: IT
+                                      </p>
+
+                                      <p><button class="button ig-button" onclick="window.location.href = 'https://www.instagram.com/hey._.anna/';">Instagram</button></p>
+                                      <p><button class="button" onclick="window.location.href = 'mailto:t.anna.sofie.hartl@gmail.com?subject=Feedback&body=Message';">Mail</button></p>
                                   </div>
                               </div>
                           </div>
@@ -74,16 +74,24 @@
                                   <img src="Pictures/Tamara.jpg" alt="Tamara" style="width:100%">
                                   <div class="container">
                                       <h2>Tamara Melcher</h2>
-                                      <p>My name is Tamara Melcher. I am 16 years old and I visit the HTL Leonding for IT.</p>
-                                      <a href="https://www.instagram.com/tami.melcher/"><br /><br />tami.melcher</a>
-                                      <a href="mailto:t.melcher.htlleonding@gmail.com?subject=Feedback&body=Message">
-                                          <br />t.melcher.htlleonding@gmail.com
-                                      </a>
+                                      <p>Age: 16 years <br>
+                                          School: HTL Leonding <br>
+                                          Field: IT
+                                      </p>
+                                      <p><button class="button ig-button" onclick="window.location.href = 'https://www.instagram.com/tami.melcher/';">Instagram</button></p>
+                                      <p><button class="button" onclick="window.location.href = 'mailto:t.melcher.htlleonding@gmail.com?subject=Feedback&body=Message';">Mail</button></p>
                                   </div>
                               </div>
                           </div>
                       </div>
 
+                      <div class="bottom-margin">
+                        <h2>Our Philosophy</h2>
+
+                        <p>We did this fashion website as a project for our school. <br>
+                        We thought it would be a great idea to do this because we want to give women and men an insight into fashion. <br>
+                        In our society, most people think that fashion is only something for women, therefore we want to change this biased attitude a bit.</p>
+                      </div>
                   </div>
               </div>
           </section>
