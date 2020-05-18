@@ -67,9 +67,9 @@ include "../likes.php";
                 	</svg>
                 </figure>
 
-                <h1 id="text"></h1>
-                <img id="pic" width="10" height="auto" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACoCAMAAABt9SM9AAAAA1BMVEX///+nxBvIAAAAR0lEQVR4nO3BAQEAAACCIP+vbkhAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GxYgAAb0jQ/cAAAAASUVORK5CYII=">
-                <p></p>
+                <div id="cont">
+                </div>
+
               </div>
               </div>
               </div>
@@ -80,10 +80,14 @@ include "../likes.php";
     <script type="text/javascript" src="../jquery.maphilight.js"></script>
     <script>
       function indiaText() {
-          document.getElementById("text").innerHTML = "India";
-          var x = document.getElementById("pic");
-          x.src = "../Pictures/india.jpg";
-          x.width = "1000";
+          var head = document.createElement("h1");
+          head.innerHTML = "India";
+          var img1 = document.createElement("img");
+          img1.classList.add("world-img");
+          img1.width = "1000";
+          img1.src = "../Pictures/World/india.jpg";
+          document.getElementById("cont").appendChild(head);
+          document.getElementById("cont").appendChild(img1);
       }
     </script>
 </body>

@@ -5,7 +5,16 @@
   <link href="css/specialAddings.css" rel="stylesheet">
 
  */
- 
+
+ .world-img{
+ padding: 1.25rem;
+ background-color: #fff;
+ border: 1px solid #dee2e6;
+ border-radius: 0.25rem;
+ height: auto;
+ margin-right: 2.25rem;
+ margin-left: :2.25rem;
+}
  /*
 .column {
     float: inside;
