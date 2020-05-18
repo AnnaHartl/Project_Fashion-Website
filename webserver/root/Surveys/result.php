@@ -33,12 +33,6 @@ for($i = 0; $i < 6;$i++){
 //echo "1: ".$p1." 2: ".$p2. " 3: ".$p3."  4: ".$p4;
 
  ?>
-
- <?php
- //include "../db_connect.php";
- //$id_article = 1;
- //include "../likes.php";
-  ?>
  <!DOCTYPE html>
  <html lang="en">
 
