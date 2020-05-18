@@ -7,13 +7,13 @@
  */
 
  .world-img{
- padding: 1.25rem;
- background-color: #fff;
- border: 1px solid #dee2e6;
- border-radius: 0.25rem;
- height: auto;
- margin-right: 2.25rem;
- margin-left: :2.25rem;
+   padding: 1.25rem;
+   background-color: #fff;
+   border: 1px solid #dee2e6;
+   border-radius: 0.25rem;
+   height: auto;
+    margin-left: 10px;
+    margin-right: 10px;
 }
  /*
 

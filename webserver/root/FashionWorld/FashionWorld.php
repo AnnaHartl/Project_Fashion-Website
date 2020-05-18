@@ -53,7 +53,7 @@ include "../likes.php";
           <div class="container text-center">
             <div class="card border-0 shadow my-5">
               <div class="card-body p-5">
-                <div class="container">
+                <div class="container" id="t">
 
                 <h1 class="h1-big">Fashion around the world</h1>
                 <p class="lead">by Anna Hartl</p>
@@ -62,12 +62,14 @@ include "../likes.php";
                 	<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 608" preserveAspectRatio="xMinYMin meet" >
                 	<image width="1200" height="608" xlink:href="../Pictures/map.webp">
                 	</image>
-                    <circle id="idea" onclick="indiaText()" cx="830" cy="300" r="15" fill="#202fb1" opacity="0.7"><title>India</title></circle>
-                    <circle cx="680" cy="370" r="15" fill="#202fb1" opacity="0.7"><title>Kenia</title></circle>
-                	</svg>
+                    <circle id="india" onclick="indiaText()" cx="830" cy="300" r="20" fill="#202fb1" opacity="0.7"><title>India</title></circle>
+                    <circle id="Kenya" onclick="kenyaText()" cx="680" cy="370" r="20" fill="#202fb1" opacity="0.7"><title>Kenya</title></circle>
+                    <circle id="America" onclick="americaText()" cx="220" cy="250" r="30" fill="#202fb1" opacity="0.7"><title>America</title></circle>
+                  </svg>
                 </figure>
 
                 <div id="cont">
+                  <hr>
                 </div>
 
               </div>
@@ -77,17 +79,98 @@ include "../likes.php";
     </section>
     <script src="../vendor/jquery/jquery.min.js"></script>
     <script src="../vendor/bootstrap/js/bootstrap.bundle.js"></script>
-    <script type="text/javascript" src="../jquery.maphilight.js"></script>
     <script>
+      function clear(){
+        var element = document.getElementById("cont");
+        element.parentNode.removeChild(element);
+
+         var parent = document.getElementById("t");
+         var content = document.createElement("div");
+        content.setAttribute('id', "cont");
+
+        var ruler = document.createElement("hr");
+        var br = document.createElement("br");
+
+        parent.appendChild(content);
+        document.getElementById("cont").appendChild(ruler);
+      }
+
+
       function indiaText() {
+        clear();
+
           var head = document.createElement("h1");
           head.innerHTML = "India";
+          document.getElementById("cont").appendChild(head);
           var img1 = document.createElement("img");
           img1.classList.add("world-img");
-          img1.width = "1000";
+          img1.style.width = '100%';
           img1.src = "../Pictures/World/india.jpg";
+
+          var img2 = document.createElement("img");
+          img2.classList.add("world-img");
+          img2.style.width = '45%';
+          img2.src = "../Pictures/World/india2.jpg";
+
+          var img3 = document.createElement("img");
+          img3.classList.add("world-img");
+          img3.style.width = '45%';
+          img3.src = "../Pictures/World/india3.jpg";
+
           document.getElementById("cont").appendChild(head);
           document.getElementById("cont").appendChild(img1);
+          document.getElementById("cont").appendChild(img2);
+          document.getElementById("cont").appendChild(img3);
+
+      }
+      function kenyaText() {
+        clear();
+          var head = document.createElement("h1");
+          head.innerHTML = "Kenya";
+          var img1 = document.createElement("img");
+          img1.classList.add("world-img");
+          img1.style.width = '100%';
+          img1.src = "../Pictures/World/kenya.jpg";
+
+          var img2 = document.createElement("img");
+          img2.classList.add("world-img");
+          img2.style.width = '45%';
+          img2.src = "../Pictures/World/kenya1.jpg";
+
+          var img3 = document.createElement("img");
+          img3.classList.add("world-img");
+          img3.style.width = '45%';
+          img3.src = "../Pictures/World/kenya2.jpg";
+
+          document.getElementById("cont").appendChild(head);
+          document.getElementById("cont").appendChild(img1);
+          document.getElementById("cont").appendChild(img2);
+          document.getElementById("cont").appendChild(img3);
+      }
+
+      function americaText() {
+        clear();
+          var head = document.createElement("h1");
+          head.innerHTML = "America";
+          var img1 = document.createElement("img");
+          img1.classList.add("world-img");
+          img1.style.width = '100%';
+          img1.src = "../Pictures/World/america.jpg";
+
+          var img2 = document.createElement("img");
+          img2.classList.add("world-img");
+          img2.style.width = '45%';
+          img2.src = "../Pictures/World/america1.jpg";
+
+          var img3 = document.createElement("img");
+          img3.classList.add("world-img");
+          img3.style.width = '45%';
+          img3.src = "../Pictures/World/america2.jpg";
+
+          document.getElementById("cont").appendChild(head);
+          document.getElementById("cont").appendChild(img1);
+          document.getElementById("cont").appendChild(img2);
+          document.getElementById("cont").appendChild(img3);
       }
     </script>
 </body>
