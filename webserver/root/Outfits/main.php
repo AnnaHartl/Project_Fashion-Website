@@ -50,12 +50,15 @@
          <div class="card border-0 shadow my-5">
            <div class="card-body p-5">
              <div class="container">
+               <h1>Outfits</h1>
+               <p>Click on the pictures to get a detailed description of the look.</p>
                <a href="jeans.php">
-                 <img class="img-thumbnail" src="https://cdn2.stylecraze.com/wp-content/uploads/2017/08/4.-Skinny-Black-Jeans-And-A-Trench-Coat.jpg">
+                 <img class="img-thumbnail" src="..\Pictures\Outfits\jeans.jpg">
                </a>
-               <a href="sophisticated.php">
+
+               <!-- <a href="sophisticated.php">
                  <img class="img-thumbnail" src="https://www.thedarlingdetail.com/wp-content/uploads/2016/01/TDD-Monday-5707.jpg">
-               </a>
+               </a> -->
             </div>
           </div>
         </div>
