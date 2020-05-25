@@ -5,5 +5,6 @@
 * Umfrage bei Second Hand Fashion
 * Persönlichkeitstest über Styles
 * Interaktive Weltkarte mit 3 Orten und erstellt mit Vektoren
-* Contact Page 
+* Contact Page
 * Outfits Page mit einem Look
+* added links to the survey (different styles und find your style)
