@@ -7,4 +7,9 @@
 * Interaktive Weltkarte mit 3 Orten und erstellt mit Vektoren
 * Contact Page
 * Outfits Page mit einem Look
-* added links to the survey (different styles und find your style)
+* Referenzen zu Style Test(different styles und find your style)
+
+## Ziele für das nächste Grading
+* noch 2 Orte auf der Weltkarte
+* erklärungen bei der auflösung
+* Referenzen überall hinzufügen
