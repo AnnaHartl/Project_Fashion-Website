@@ -38,6 +38,9 @@
         <a class="nav-link" href="/Surveys/style.php">Surveys</a>
       </li>
       <li class="nav-item">
+        <a class="nav-link" href="Outfits/main.php">Outfits</a>
+      </li>
+      <li class="nav-item">
         <a class="nav-link" href="contact.php">Contact</a>
       </li>
     </ul>
@@ -82,7 +85,7 @@
 
     <div class="col-lg-6 mb-4">
       <div class="card h-100">
-        <a href="#"><img class="card-img-top rounded" src="Pictures/psychology_hp.jpg" alt=""></a>
+        <img class="card-img-top rounded" src="Pictures/psychology_hp.jpg" alt="">
         <div class="card-body">
           <a  class="h1 article-homepage" href="FashionPsychology/FashionPsychology.php">Fashion Psychology</a>
           <p class="lead">by Anna Hartl</p>
@@ -93,7 +96,7 @@
 
     <div class="col-lg-6 mb-4">
       <div class="card h-100">
-        <a href="#"><img class="card-img-top rounded" src="Pictures/summeroutfit_hp.jpg" alt=""></a>
+        <img class="card-img-top rounded" src="Pictures/summeroutfit_hp.jpg" alt="">
         <div class="card-body">
           <a  class="h1 article-homepage" href="SummerOutfits/SummerOutfits.php">Perfect Summer Outfits</a>
           <p class="lead">by Tamara Melcher</p>
@@ -107,9 +110,7 @@
     </div>
 
             <div class="col-lg-6 mb-4">
-              <a href="#">
                 <img class="img-fluid rounded mb-3 mb-md-0" src="Pictures/findYourStyle_hp.jpg" alt="">
-              </a>
             </div>
             <div class="col-lg-6 mb-4">
               <a  class="h1 article-homepage" href="FindYourStyle/FindYourStyle.php">How to find your style?</a>
@@ -127,7 +128,7 @@
 
           <div class="col-lg-6 mb-4">
             <div class="card h-100">
-              <a href="#"><img class="card-img-top rounded" src="Pictures/socilogy_hp.jpg" alt=""></a>
+              <img class="card-img-top rounded" src="Pictures/socilogy_hp.jpg" alt="">
               <div class="card-body">
                 <a  class="h1 article-homepage" href="FashionSocilogy/FashionSocilogy.php">Socilogy Of Fashion</a>
                 <p class="lead">by Tamara Melcher</p>
@@ -140,7 +141,7 @@
 
           <div class="col-lg-6 mb-4">
             <div class="card h-100">
-              <a href="#"><img class="card-img-top rounded" src="Pictures/differentstyles_hp.jpg" alt=""></a>
+              <img class="card-img-top rounded" src="Pictures/differentstyles_hp.jpg" alt="">
               <div class="card-body">
                 <a  class="h1 article-homepage" href="/Differentstyles/DifferentStyles.php">Different styles</a>
                 <p class="lead">by Anna Hartl</p>
@@ -156,9 +157,7 @@
           </div>
 
           <div class="col-lg-6 mb-4">
-            <a href="#">
               <img class="img-fluid rounded mb-3 mb-md-0" src="Pictures/secondHandFashion_hp.jpg" alt="">
-            </a>
           </div>
           <div class="col-lg-6 mb-4">
             <a  class="h1 article-homepage" href="SecondHandFashion/SecondHandFashion.php">Second Hand Fashion</a>
@@ -174,7 +173,7 @@
 
     <div class="col-lg-6 mb-4">
       <div class="card h-100">
-        <a href="#"><img class="card-img-top rounded" src="Pictures/WardrobeEssentials_hp.jpg" alt=""></a>
+        <img class="card-img-top rounded" src="Pictures/WardrobeEssentials_hp.jpg" alt="">
         <div class="card-body">
             <a  class="h1 article-homepage" href="WardrobeEssentials/WardrobeEssentials.php">Wardrobe Essentials</a>
             <p class="lead">by Anna Hartl</p>
@@ -187,7 +186,7 @@
 
     <div class="col-lg-6 mb-4">
       <div class="card h-100">
-        <a href="#"><img class="card-img-top rounded" src="Pictures/hairstyle_hp.jpg" alt=""></a>
+        <img class="card-img-top rounded" src="Pictures/hairstyle_hp.jpg" alt="">
         <div class="card-body">
           <a  class="h1 article-homepage" href="Hairstyles/Hairstyles.php">Hairstyles</a>
           <p class="lead">by Tamara Melcher</p>
@@ -204,9 +203,7 @@
   </div>
 
   <div class="col-lg-6 mb-4">
-    <a href="#">
-      <img class="img-fluid rounded mb-3 mb-md-0" src="https://torontoglobal.ca/TorontoGlobal/media/tg_medialibrary/global-map/MAP-(1).png?v=1.0" alt="">
-    </a>
+      <img class="img-fluid rounded mb-3 mb-md-0" src="Pictures/map_hp.jpg" alt="">
   </div>
   <div class="col-lg-6 mb-4">
     <a  class="h1 article-homepage" href="FashionWorld/FashionWorld.php">Fashion around the world</a>

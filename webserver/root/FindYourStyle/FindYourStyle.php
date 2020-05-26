@@ -42,6 +42,9 @@ include "../likes.php";
         <a class="nav-link" href="../Surveys/style.php">Surveys</a>
       </li>
       <li class="nav-item">
+        <a class="nav-link" href="../outfits/main.php">Outfits</a>
+      </li>
+      <li class="nav-item">
         <a class="nav-link" href="../contact.php">Contact</a>
       </li>
     </ul>
@@ -65,6 +68,7 @@ include "../likes.php";
                     Let’s go together on this journey!
 
                     <h3 class="h3-big"><br />Inspiration</h3>
+                    <p>
                     <img class="img-thumbnail" src="..\Pictures\FindYourStyle\pinterest.png"><br /><br />
                     First you should get a feeling of what you like. A good source for inspiration is Pinterest.
                     On our website we have a list of styles in an article also written by me.
@@ -72,7 +76,16 @@ include "../likes.php";
                     <a class="reference-link" href="https://www.pinterest.at/melcher_tamara/">
                         Check out our Pinterest-page with inspiration!
                         </a>
-
+                        <br> <br>
+                    </p>
+                      <img  src="..\Pictures\FindYourStyle\blue2.jpg" height="30px" width="100%">
+                    <h3 class="h3-big">Take our quiz</h3>
+                    <p>
+                      On our website we have a personality test on styles. Maybe it can give you an idea and take you in the right direction. <br></p>
+                      <button class="btn btn-style" type="button" name="button" onclick="location.href = '../Surveys/style.php';">To the quiz!</button>
+                      <br>
+                      <br>
+                      <img  src="..\Pictures\FindYourStyle\blue2.jpg" height="30px" width="100%">
                     <h3 class="h3-big"><br />Analyse your wardrobe</h3>
                     <img class="img-thumbnail" src="..\Pictures\FindYourStyle\closet1.jpg">
                     <img class="img-thumbnail" src="..\Pictures\FindYourStyle\closet2.jpg"><br /><br />

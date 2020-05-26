@@ -42,6 +42,9 @@ include "../likes.php";
         <a class="nav-link" href="../Surveys/style.php">Surveys</a>
       </li>
       <li class="nav-item">
+        <a class="nav-link" href="../outfits/main.php">Outfits</a>
+      </li>
+      <li class="nav-item">
         <a class="nav-link" href="../contact.php">Contact</a>
       </li>
     </ul>
@@ -263,10 +266,18 @@ include "../likes.php";
                     <a  class="reference-link" href="../SummerOutfits/SummerOutfits.php">Click here for the article!</a>
 
                     <h3 class="h3-big"><br />Last words</h3>
+                    <p>
                     I wanted to make this article because I needed inspiration for my own style to discover new and different styles.
                     I think I incorporate some ideas in my wardrobe and I hope you can too.
                     If you have question or any suggestion my friend and I are always open for ideas. You can dm us on our instagram.
-                    The contact you can find of the bottom of our page.
+                    The contact you can find of the bottom of our page.<br>
+                    <br>
+                  </p>
+                    <img  src="..\Pictures\DifferentStyles\lilac.png" height="10px" width="100%">
+                  <h3 class="h3-big">Take our quiz</h3>
+                    <button class="btn btn-style" type="button" name="button" onclick="location.href = '../Surveys/style.php';">To the quiz!</button>
+                    <br>
+                    <img  src="..\Pictures\DifferentStyles\lilac.png" height="10px" width="100%">
 
                     <h3 class="h3-big"><br />Comments</h3>
 

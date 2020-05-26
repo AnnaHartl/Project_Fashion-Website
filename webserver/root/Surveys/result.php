@@ -71,6 +71,9 @@ for($i = 0; $i < 6;$i++){
          <a class="nav-link" href="#">Surveys</a>
        </li>
        <li class="nav-item">
+         <a class="nav-link" href="../outfits/main.php">Outfits</a>
+       </li>
+       <li class="nav-item">
          <a class="nav-link" href="../contact.php">Contact</a>
        </li>
      </ul>

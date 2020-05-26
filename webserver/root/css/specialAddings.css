@@ -5,6 +5,33 @@
   <link href="css/specialAddings.css" rel="stylesheet">
 
  */
+.btn-back{
+    color: #fff;
+    background-color: #8f79f3;
+    border-color: #8f79f3;
+}
+
+.btn-style{
+    color: #fff;
+    background-color: #a382dc;
+    border-color: #a382dc;
+}
+
+.btn-style:hover{
+  color: #fff;
+  background-color:#8f68d4;
+  border-color: #8f68d4;
+}
+
+.btn-back:hover{
+  color: #fff;
+  background-color:#6a58bb;
+  border-color: #6a58bb;
+}
+
+#list{
+  font-size: 20px;
+}
 
  .world-img{
    padding: 1.25rem;
