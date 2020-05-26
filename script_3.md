@@ -11,5 +11,6 @@
 
 ## Ziele für das nächste Grading
 * noch 2 Orte auf der Weltkarte
+* noch 3 Looks für die Outfit Page
 * erklärungen bei der auflösung
 * Referenzen überall hinzufügen
