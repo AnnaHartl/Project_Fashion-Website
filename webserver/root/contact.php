@@ -89,13 +89,7 @@
                       </div>
 
                       <div class="bottom-margin">
-
                         <p><br>We did this fashion website as a project for our school. <br>
-
-                        <hr>
-                        <h2>Our Philosophy</h2>
-
-                        <p>We did this fashion website as a project for our school. <br>
                         We thought it would be a great idea to do this because we want to give women and men an insight into fashion. <br>
                         In our society, most people think that fashion is only something for women, therefore we want to change this biased attitude a bit.</p>
                          <hr>
