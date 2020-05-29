@@ -5,6 +5,17 @@
   <link href="css/specialAddings.css" rel="stylesheet">
 
  */
+ .checkmark {
+   /* position: absolute;
+   top: 0;
+   left: 0; */
+   height: 20px;
+   width: 20px;
+   background-color: #eee;
+   color: red
+   border-radius: 50%;
+ }
+
 .btn-back{
     color: #fff;
     background-color: #8f79f3;
