@@ -12,6 +12,7 @@
 
      <link href="vendor/bootstrap/css/bootstrap.css" rel="stylesheet">
      <link href="css/contact.css" rel="stylesheet">
+     <link href="css/specialAddings.css" rel="stylesheet">
 
  </head>
 
@@ -48,15 +49,14 @@
      <section>
               <div class="container text-center">
                   <div class="card border-0 shadow my-5">
-                      <div class="about-section">
-                          <h1>Our Team</h1>
-                      </div>
-
+                    <div class="card-body p-5">
+                      <div class="container">
+                          <h1 class="h1-big">Our Team</h1>
                       <div class="row">
 
                           <div class="column">
                               <div class="card">
-                                  <img src="Pictures\Anna.jpg" alt="Anna" style="width:100%">
+                                  <img src="Pictures/Contact/Anna.jpg" alt="Anna" style="width:100%">
                                   <div class="container">
                                       <h2>Anna Hartl</h2>
                                       <p>Age: 16 years <br>
@@ -75,7 +75,7 @@
 
                           <div class="column">
                               <div class="card">
-                                  <img src="Pictures/Tamara.jpg" alt="Tamara" style="width:100%">
+                                  <img src="Pictures/Contact/Tamara.jpg" alt="Tamara" style="width:100%">
                                   <div class="container">
                                       <h2>Tamara Melcher</h2>
                                       <p>Age: 16 years <br>
@@ -98,5 +98,7 @@
                       </div>
                   </div>
               </div>
+            </div>
+        </div>
           </section>
  </body>
