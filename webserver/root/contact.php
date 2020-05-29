@@ -64,7 +64,8 @@
                                         Field: IT
                                       </p>
 
-                                      <p><button class="button ig-button" onclick="window.location.href = 'https://www.instagram.com/hey._.anna/';"target="_blank">Instagram</button></p>
+                                      <p><a href="https://www.instagram.com/hey._.anna/" target="_blank">
+                                        <button class="button ig-button" >Instagram</button></a></p>
                                       <p><button class="button" onclick="window.location.href = 'mailto:t.anna.sofie.hartl@gmail.com?subject=Feedback&body=Message';">Mail</button></p>
                                   </div>
                               </div>
@@ -81,15 +82,16 @@
                                           School: HTL Leonding <br>
                                           Field: IT
                                       </p>
-                                      <p><button class="button ig-button" onclick="window.location.href = 'https://www.instagram.com/tami.melcher/';"target="_blank">Instagram</button></p>
+                                      <p><a href="https://www.instagram.com/tami.melcher/" target="_blank"><button class="button ig-button">Instagram</button></a></p>
                                       <p><button class="button" onclick="window.location.href = 'mailto:t.melcher.htlleonding@gmail.com?subject=Feedback&body=Message';">Mail</button></p>
                                   </div>
                               </div>
                           </div>
                       </div>
-
+                      <hr>
                       <div class="bottom-margin">
-                        <p><br>We did this fashion website as a project for our school. <br>
+                        <h2>Our Philosophy</h2>
+                        <p>We did this fashion website as a project for our school. <br>
                         We thought it would be a great idea to do this because we want to give women and men an insight into fashion. <br>
                         In our society, most people think that fashion is only something for women, therefore we want to change this biased attitude a bit.</p>
                          <hr>
