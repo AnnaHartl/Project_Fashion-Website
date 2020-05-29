@@ -1539,3 +1539,319 @@ Version: '5.6.34'  socket: ''  port: 3306  MySQL Community Server (GPL)
 2020-05-26 07:52:51 3992 [Note] IPv6 is available.
 2020-05-26 07:52:51 3992 [Note]   - '::' resolves to '::';
 2020-05-26 07:52:51 3992 [Note] Server socket created on IP: '::'.
+2020-05-27 13:10:49 24696 [Note] Plugin 'FEDERATED' is disabled.
+2020-05-27 13:10:49 24696 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2020-05-27 13:10:49 24696 [Note] InnoDB: The InnoDB memory heap is disabled
+2020-05-27 13:10:49 24696 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-05-27 13:10:49 24696 [Note] InnoDB: Memory barrier is not used
+2020-05-27 13:10:49 24696 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2020-05-27 13:10:49 24696 [Note] InnoDB: Not using CPU crc32 instructions
+2020-05-27 13:10:49 24696 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2020-05-27 13:10:50 24696 [Note] InnoDB: Completed initialization of buffer pool
+2020-05-27 13:10:50 24696 [ERROR] InnoDB: C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver\mysql\data\ibdata1 can't be opened in read-write mode
+2020-05-27 13:10:50 24696 [ERROR] InnoDB: The system tablespace must be writable!
+2020-05-27 13:10:50 24696 [ERROR] Plugin 'InnoDB' init function returned error.
+2020-05-27 13:10:50 24696 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+2020-05-27 13:10:50 24696 [ERROR] Unknown/unsupported storage engine: InnoDB
+2020-05-27 13:10:50 24696 [ERROR] Aborting
+
+2020-05-27 13:10:50 24696 [Note] Binlog end
+2020-05-27 13:10:50 24696 [Note] Shutting down plugin 'partition'
+2020-05-27 13:10:50 24696 [Note] Shutting down plugin 'PERFORMANCE_SCHEMA'
+2020-05-27 13:10:50 24696 [Note] Shutting down plugin 'INNODB_SYS_DATAFILES'
+2020-05-27 13:10:50 24696 [Note] Shutting down plugin 'INNODB_SYS_TABLESPACES'
+2020-05-27 13:10:50 24696 [Note] Shutting down plugin 'INNODB_SYS_FOREIGN_COLS'
+2020-05-27 13:10:50 24696 [Note] Shutting down plugin 'INNODB_SYS_FOREIGN'
+2020-05-27 13:10:50 24696 [Note] Shutting down plugin 'INNODB_SYS_FIELDS'
+2020-05-27 13:10:50 24696 [Note] Shutting down plugin 'INNODB_SYS_COLUMNS'
+2020-05-27 13:10:50 24696 [Note] Shutting down plugin 'INNODB_SYS_INDEXES'
+2020-05-27 13:10:50 24696 [Note] Shutting down plugin 'INNODB_SYS_TABLESTATS'
+2020-05-27 13:10:50 24696 [Note] Shutting down plugin 'INNODB_SYS_TABLES'
+2020-05-27 13:10:50 24696 [Note] Shutting down plugin 'INNODB_FT_INDEX_TABLE'
+2020-05-27 13:10:50 24696 [Note] Shutting down plugin 'INNODB_FT_INDEX_CACHE'
+2020-05-27 13:10:50 24696 [Note] Shutting down plugin 'INNODB_FT_CONFIG'
+2020-05-27 13:10:50 24696 [Note] Shutting down plugin 'INNODB_FT_BEING_DELETED'
+2020-05-27 13:10:50 24696 [Note] Shutting down plugin 'INNODB_FT_DELETED'
+2020-05-27 13:10:50 24696 [Note] Shutting down plugin 'INNODB_FT_DEFAULT_STOPWORD'
+2020-05-27 13:10:50 24696 [Note] Shutting down plugin 'INNODB_METRICS'
+2020-05-27 13:10:50 24696 [Note] Shutting down plugin 'INNODB_BUFFER_POOL_STATS'
+2020-05-27 13:10:50 24696 [Note] Shutting down plugin 'INNODB_BUFFER_PAGE_LRU'
+2020-05-27 13:10:50 24696 [Note] Shutting down plugin 'INNODB_BUFFER_PAGE'
+2020-05-27 13:10:50 24696 [Note] Shutting down plugin 'INNODB_CMP_PER_INDEX_RESET'
+2020-05-27 13:10:50 24696 [Note] Shutting down plugin 'INNODB_CMP_PER_INDEX'
+2020-05-27 13:10:50 24696 [Note] Shutting down plugin 'INNODB_CMPMEM_RESET'
+2020-05-27 13:10:50 24696 [Note] Shutting down plugin 'INNODB_CMPMEM'
+2020-05-27 13:10:50 24696 [Note] Shutting down plugin 'INNODB_CMP_RESET'
+2020-05-27 13:10:50 24696 [Note] Shutting down plugin 'INNODB_CMP'
+2020-05-27 13:10:50 24696 [Note] Shutting down plugin 'INNODB_LOCK_WAITS'
+2020-05-27 13:10:50 24696 [Note] Shutting down plugin 'INNODB_LOCKS'
+2020-05-27 13:10:50 24696 [Note] Shutting down plugin 'INNODB_TRX'
+2020-05-27 13:10:50 24696 [Note] Shutting down plugin 'BLACKHOLE'
+2020-05-27 13:10:50 24696 [Note] Shutting down plugin 'ARCHIVE'
+2020-05-27 13:10:50 24696 [Note] Shutting down plugin 'MRG_MYISAM'
+2020-05-27 13:10:50 24696 [Note] Shutting down plugin 'MyISAM'
+2020-05-27 13:10:50 24696 [Note] Shutting down plugin 'MEMORY'
+2020-05-27 13:10:50 24696 [Note] Shutting down plugin 'CSV'
+2020-05-27 13:10:50 24696 [Note] Shutting down plugin 'sha256_password'
+2020-05-27 13:10:50 24696 [Note] Shutting down plugin 'mysql_old_password'
+2020-05-27 13:10:50 24696 [Note] Shutting down plugin 'mysql_native_password'
+2020-05-27 13:10:50 24696 [Note] Shutting down plugin 'binlog'
+2020-05-27 13:10:50 24696 [Note] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Shutdown complete
+
+2020-05-27 13:11:01 1468 [Note] Plugin 'FEDERATED' is disabled.
+2020-05-27 13:11:01 1468 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2020-05-27 13:11:01 1468 [Note] InnoDB: The InnoDB memory heap is disabled
+2020-05-27 13:11:01 1468 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-05-27 13:11:01 1468 [Note] InnoDB: Memory barrier is not used
+2020-05-27 13:11:01 1468 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2020-05-27 13:11:01 1468 [Note] InnoDB: Not using CPU crc32 instructions
+2020-05-27 13:11:01 1468 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2020-05-27 13:11:01 1468 [Note] InnoDB: Completed initialization of buffer pool
+2020-05-27 13:11:01 1468 [Note] InnoDB: Highest supported file format is Barracuda.
+2020-05-27 13:11:01 1468 [Note] InnoDB: The log sequence numbers 1626134 and 1626134 in ibdata files do not match the log sequence number 2134599 in the ib_logfiles!
+2020-05-27 13:11:01 1468 [Note] InnoDB: Database was not shutdown normally!
+2020-05-27 13:11:01 1468 [Note] InnoDB: Starting crash recovery.
+2020-05-27 13:11:01 1468 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2020-05-27 13:11:01 1468 [Note] InnoDB: Restoring possible half-written data pages 
+2020-05-27 13:11:01 1468 [Note] InnoDB: from the doublewrite buffer...
+2020-05-27 13:11:01 1468 [Note] InnoDB: 128 rollback segment(s) are active.
+2020-05-27 13:11:01 1468 [Note] InnoDB: Waiting for purge to start
+2020-05-27 13:11:01 1468 [Note] InnoDB: 5.6.34 started; log sequence number 2134599
+2020-05-27 13:11:01 1468 [Note] Server hostname (bind-address): '*'; port: 3306
+2020-05-27 13:11:01 1468 [Note] IPv6 is available.
+2020-05-27 13:11:01 1468 [Note]   - '::' resolves to '::';
+2020-05-27 13:11:01 1468 [Note] Server socket created on IP: '::'.
+2020-05-27 13:18:19 19380 [Note] Plugin 'FEDERATED' is disabled.
+2020-05-27 13:18:19 19380 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2020-05-27 13:18:19 19380 [Note] InnoDB: The InnoDB memory heap is disabled
+2020-05-27 13:18:19 19380 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-05-27 13:18:19 19380 [Note] InnoDB: Memory barrier is not used
+2020-05-27 13:18:19 19380 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2020-05-27 13:18:19 19380 [Note] InnoDB: Not using CPU crc32 instructions
+2020-05-27 13:18:19 19380 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2020-05-27 13:18:19 19380 [Note] InnoDB: Completed initialization of buffer pool
+2020-05-27 13:18:19 19380 [ERROR] InnoDB: C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver\mysql\data\ibdata1 can't be opened in read-write mode
+2020-05-27 13:18:19 19380 [ERROR] InnoDB: The system tablespace must be writable!
+2020-05-27 13:18:19 19380 [ERROR] Plugin 'InnoDB' init function returned error.
+2020-05-27 13:18:19 19380 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+2020-05-27 13:18:19 19380 [ERROR] Unknown/unsupported storage engine: InnoDB
+2020-05-27 13:18:19 19380 [ERROR] Aborting
+
+2020-05-27 13:18:19 19380 [Note] Binlog end
+2020-05-27 13:18:19 19380 [Note] Shutting down plugin 'partition'
+2020-05-27 13:18:19 19380 [Note] Shutting down plugin 'PERFORMANCE_SCHEMA'
+2020-05-27 13:18:19 19380 [Note] Shutting down plugin 'INNODB_SYS_DATAFILES'
+2020-05-27 13:18:19 19380 [Note] Shutting down plugin 'INNODB_SYS_TABLESPACES'
+2020-05-27 13:18:19 19380 [Note] Shutting down plugin 'INNODB_SYS_FOREIGN_COLS'
+2020-05-27 13:18:19 19380 [Note] Shutting down plugin 'INNODB_SYS_FOREIGN'
+2020-05-27 13:18:19 19380 [Note] Shutting down plugin 'INNODB_SYS_FIELDS'
+2020-05-27 13:18:19 19380 [Note] Shutting down plugin 'INNODB_SYS_COLUMNS'
+2020-05-27 13:18:19 19380 [Note] Shutting down plugin 'INNODB_SYS_INDEXES'
+2020-05-27 13:18:19 19380 [Note] Shutting down plugin 'INNODB_SYS_TABLESTATS'
+2020-05-27 13:18:19 19380 [Note] Shutting down plugin 'INNODB_SYS_TABLES'
+2020-05-27 13:18:19 19380 [Note] Shutting down plugin 'INNODB_FT_INDEX_TABLE'
+2020-05-27 13:18:19 19380 [Note] Shutting down plugin 'INNODB_FT_INDEX_CACHE'
+2020-05-27 13:18:19 19380 [Note] Shutting down plugin 'INNODB_FT_CONFIG'
+2020-05-27 13:18:19 19380 [Note] Shutting down plugin 'INNODB_FT_BEING_DELETED'
+2020-05-27 13:18:19 19380 [Note] Shutting down plugin 'INNODB_FT_DELETED'
+2020-05-27 13:18:19 19380 [Note] Shutting down plugin 'INNODB_FT_DEFAULT_STOPWORD'
+2020-05-27 13:18:19 19380 [Note] Shutting down plugin 'INNODB_METRICS'
+2020-05-27 13:18:19 19380 [Note] Shutting down plugin 'INNODB_BUFFER_POOL_STATS'
+2020-05-27 13:18:19 19380 [Note] Shutting down plugin 'INNODB_BUFFER_PAGE_LRU'
+2020-05-27 13:18:19 19380 [Note] Shutting down plugin 'INNODB_BUFFER_PAGE'
+2020-05-27 13:18:19 19380 [Note] Shutting down plugin 'INNODB_CMP_PER_INDEX_RESET'
+2020-05-27 13:18:19 19380 [Note] Shutting down plugin 'INNODB_CMP_PER_INDEX'
+2020-05-27 13:18:19 19380 [Note] Shutting down plugin 'INNODB_CMPMEM_RESET'
+2020-05-27 13:18:19 19380 [Note] Shutting down plugin 'INNODB_CMPMEM'
+2020-05-27 13:18:19 19380 [Note] Shutting down plugin 'INNODB_CMP_RESET'
+2020-05-27 13:18:19 19380 [Note] Shutting down plugin 'INNODB_CMP'
+2020-05-27 13:18:19 19380 [Note] Shutting down plugin 'INNODB_LOCK_WAITS'
+2020-05-27 13:18:19 19380 [Note] Shutting down plugin 'INNODB_LOCKS'
+2020-05-27 13:18:19 19380 [Note] Shutting down plugin 'INNODB_TRX'
+2020-05-27 13:18:19 19380 [Note] Shutting down plugin 'BLACKHOLE'
+2020-05-27 13:18:19 19380 [Note] Shutting down plugin 'ARCHIVE'
+2020-05-27 13:18:19 19380 [Note] Shutting down plugin 'MRG_MYISAM'
+2020-05-27 13:18:19 19380 [Note] Shutting down plugin 'MyISAM'
+2020-05-27 13:18:19 19380 [Note] Shutting down plugin 'MEMORY'
+2020-05-27 13:18:19 19380 [Note] Shutting down plugin 'CSV'
+2020-05-27 13:18:19 19380 [Note] Shutting down plugin 'sha256_password'
+2020-05-27 13:18:19 19380 [Note] Shutting down plugin 'mysql_old_password'
+2020-05-27 13:18:19 19380 [Note] Shutting down plugin 'mysql_native_password'
+2020-05-27 13:18:19 19380 [Note] Shutting down plugin 'binlog'
+2020-05-27 13:18:19 19380 [Note] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Shutdown complete
+
+2020-05-29 09:33:53 3532 [Note] Plugin 'FEDERATED' is disabled.
+2020-05-29 09:33:53 3532 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2020-05-29 09:33:53 3532 [Note] InnoDB: The InnoDB memory heap is disabled
+2020-05-29 09:33:53 3532 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-05-29 09:33:53 3532 [Note] InnoDB: Memory barrier is not used
+2020-05-29 09:33:53 3532 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2020-05-29 09:33:53 3532 [Note] InnoDB: Not using CPU crc32 instructions
+2020-05-29 09:33:53 3532 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2020-05-29 09:33:53 3532 [Note] InnoDB: Completed initialization of buffer pool
+2020-05-29 09:33:53 3532 [ERROR] InnoDB: C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver\mysql\data\ibdata1 can't be opened in read-write mode
+2020-05-29 09:33:53 3532 [ERROR] InnoDB: The system tablespace must be writable!
+2020-05-29 09:33:53 3532 [ERROR] Plugin 'InnoDB' init function returned error.
+2020-05-29 09:33:53 3532 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+2020-05-29 09:33:53 3532 [ERROR] Unknown/unsupported storage engine: InnoDB
+2020-05-29 09:33:53 3532 [ERROR] Aborting
+
+2020-05-29 09:33:53 3532 [Note] Binlog end
+2020-05-29 09:33:53 3532 [Note] Shutting down plugin 'partition'
+2020-05-29 09:33:53 3532 [Note] Shutting down plugin 'PERFORMANCE_SCHEMA'
+2020-05-29 09:33:53 3532 [Note] Shutting down plugin 'INNODB_SYS_DATAFILES'
+2020-05-29 09:33:53 3532 [Note] Shutting down plugin 'INNODB_SYS_TABLESPACES'
+2020-05-29 09:33:53 3532 [Note] Shutting down plugin 'INNODB_SYS_FOREIGN_COLS'
+2020-05-29 09:33:53 3532 [Note] Shutting down plugin 'INNODB_SYS_FOREIGN'
+2020-05-29 09:33:53 3532 [Note] Shutting down plugin 'INNODB_SYS_FIELDS'
+2020-05-29 09:33:53 3532 [Note] Shutting down plugin 'INNODB_SYS_COLUMNS'
+2020-05-29 09:33:53 3532 [Note] Shutting down plugin 'INNODB_SYS_INDEXES'
+2020-05-29 09:33:53 3532 [Note] Shutting down plugin 'INNODB_SYS_TABLESTATS'
+2020-05-29 09:33:53 3532 [Note] Shutting down plugin 'INNODB_SYS_TABLES'
+2020-05-29 09:33:53 3532 [Note] Shutting down plugin 'INNODB_FT_INDEX_TABLE'
+2020-05-29 09:33:53 3532 [Note] Shutting down plugin 'INNODB_FT_INDEX_CACHE'
+2020-05-29 09:33:53 3532 [Note] Shutting down plugin 'INNODB_FT_CONFIG'
+2020-05-29 09:33:53 3532 [Note] Shutting down plugin 'INNODB_FT_BEING_DELETED'
+2020-05-29 09:33:53 3532 [Note] Shutting down plugin 'INNODB_FT_DELETED'
+2020-05-29 09:33:53 3532 [Note] Shutting down plugin 'INNODB_FT_DEFAULT_STOPWORD'
+2020-05-29 09:33:53 3532 [Note] Shutting down plugin 'INNODB_METRICS'
+2020-05-29 09:33:53 3532 [Note] Shutting down plugin 'INNODB_BUFFER_POOL_STATS'
+2020-05-29 09:33:53 3532 [Note] Shutting down plugin 'INNODB_BUFFER_PAGE_LRU'
+2020-05-29 09:33:53 3532 [Note] Shutting down plugin 'INNODB_BUFFER_PAGE'
+2020-05-29 09:33:53 3532 [Note] Shutting down plugin 'INNODB_CMP_PER_INDEX_RESET'
+2020-05-29 09:33:53 3532 [Note] Shutting down plugin 'INNODB_CMP_PER_INDEX'
+2020-05-29 09:33:53 3532 [Note] Shutting down plugin 'INNODB_CMPMEM_RESET'
+2020-05-29 09:33:53 3532 [Note] Shutting down plugin 'INNODB_CMPMEM'
+2020-05-29 09:33:53 3532 [Note] Shutting down plugin 'INNODB_CMP_RESET'
+2020-05-29 09:33:53 3532 [Note] Shutting down plugin 'INNODB_CMP'
+2020-05-29 09:33:53 3532 [Note] Shutting down plugin 'INNODB_LOCK_WAITS'
+2020-05-29 09:33:53 3532 [Note] Shutting down plugin 'INNODB_LOCKS'
+2020-05-29 09:33:53 3532 [Note] Shutting down plugin 'INNODB_TRX'
+2020-05-29 09:33:53 3532 [Note] Shutting down plugin 'BLACKHOLE'
+2020-05-29 09:33:53 3532 [Note] Shutting down plugin 'ARCHIVE'
+2020-05-29 09:33:53 3532 [Note] Shutting down plugin 'MRG_MYISAM'
+2020-05-29 09:33:53 3532 [Note] Shutting down plugin 'MyISAM'
+2020-05-29 09:33:53 3532 [Note] Shutting down plugin 'MEMORY'
+2020-05-29 09:33:53 3532 [Note] Shutting down plugin 'CSV'
+2020-05-29 09:33:53 3532 [Note] Shutting down plugin 'sha256_password'
+2020-05-29 09:33:53 3532 [Note] Shutting down plugin 'mysql_old_password'
+2020-05-29 09:33:53 3532 [Note] Shutting down plugin 'mysql_native_password'
+2020-05-29 09:33:53 3532 [Note] Shutting down plugin 'binlog'
+2020-05-29 09:33:53 3532 [Note] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Shutdown complete
+
+2020-05-29 09:34:05 12316 [Note] Plugin 'FEDERATED' is disabled.
+2020-05-29 09:34:05 12316 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2020-05-29 09:34:05 12316 [Note] InnoDB: The InnoDB memory heap is disabled
+2020-05-29 09:34:05 12316 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-05-29 09:34:05 12316 [Note] InnoDB: Memory barrier is not used
+2020-05-29 09:34:05 12316 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2020-05-29 09:34:05 12316 [Note] InnoDB: Not using CPU crc32 instructions
+2020-05-29 09:34:05 12316 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2020-05-29 09:34:05 12316 [Note] InnoDB: Completed initialization of buffer pool
+2020-05-29 09:34:05 12316 [ERROR] InnoDB: C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver\mysql\data\ib_logfile0 can't be opened in read-write mode
+2020-05-29 09:34:05 12316 [ERROR] Plugin 'InnoDB' init function returned error.
+2020-05-29 09:34:05 12316 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+2020-05-29 09:34:05 12316 [ERROR] Unknown/unsupported storage engine: InnoDB
+2020-05-29 09:34:05 12316 [ERROR] Aborting
+
+2020-05-29 09:34:05 12316 [Note] Binlog end
+2020-05-29 09:34:05 12316 [Note] Shutting down plugin 'partition'
+2020-05-29 09:34:05 12316 [Note] Shutting down plugin 'PERFORMANCE_SCHEMA'
+2020-05-29 09:34:05 12316 [Note] Shutting down plugin 'INNODB_SYS_DATAFILES'
+2020-05-29 09:34:05 12316 [Note] Shutting down plugin 'INNODB_SYS_TABLESPACES'
+2020-05-29 09:34:05 12316 [Note] Shutting down plugin 'INNODB_SYS_FOREIGN_COLS'
+2020-05-29 09:34:05 12316 [Note] Shutting down plugin 'INNODB_SYS_FOREIGN'
+2020-05-29 09:34:05 12316 [Note] Shutting down plugin 'INNODB_SYS_FIELDS'
+2020-05-29 09:34:05 12316 [Note] Shutting down plugin 'INNODB_SYS_COLUMNS'
+2020-05-29 09:34:05 12316 [Note] Shutting down plugin 'INNODB_SYS_INDEXES'
+2020-05-29 09:34:05 12316 [Note] Shutting down plugin 'INNODB_SYS_TABLESTATS'
+2020-05-29 09:34:05 12316 [Note] Shutting down plugin 'INNODB_SYS_TABLES'
+2020-05-29 09:34:05 12316 [Note] Shutting down plugin 'INNODB_FT_INDEX_TABLE'
+2020-05-29 09:34:05 12316 [Note] Shutting down plugin 'INNODB_FT_INDEX_CACHE'
+2020-05-29 09:34:05 12316 [Note] Shutting down plugin 'INNODB_FT_CONFIG'
+2020-05-29 09:34:05 12316 [Note] Shutting down plugin 'INNODB_FT_BEING_DELETED'
+2020-05-29 09:34:05 12316 [Note] Shutting down plugin 'INNODB_FT_DELETED'
+2020-05-29 09:34:05 12316 [Note] Shutting down plugin 'INNODB_FT_DEFAULT_STOPWORD'
+2020-05-29 09:34:05 12316 [Note] Shutting down plugin 'INNODB_METRICS'
+2020-05-29 09:34:05 12316 [Note] Shutting down plugin 'INNODB_BUFFER_POOL_STATS'
+2020-05-29 09:34:05 12316 [Note] Shutting down plugin 'INNODB_BUFFER_PAGE_LRU'
+2020-05-29 09:34:05 12316 [Note] Shutting down plugin 'INNODB_BUFFER_PAGE'
+2020-05-29 09:34:05 12316 [Note] Shutting down plugin 'INNODB_CMP_PER_INDEX_RESET'
+2020-05-29 09:34:05 12316 [Note] Shutting down plugin 'INNODB_CMP_PER_INDEX'
+2020-05-29 09:34:05 12316 [Note] Shutting down plugin 'INNODB_CMPMEM_RESET'
+2020-05-29 09:34:05 12316 [Note] Shutting down plugin 'INNODB_CMPMEM'
+2020-05-29 09:34:05 12316 [Note] Shutting down plugin 'INNODB_CMP_RESET'
+2020-05-29 09:34:05 12316 [Note] Shutting down plugin 'INNODB_CMP'
+2020-05-29 09:34:05 12316 [Note] Shutting down plugin 'INNODB_LOCK_WAITS'
+2020-05-29 09:34:05 12316 [Note] Shutting down plugin 'INNODB_LOCKS'
+2020-05-29 09:34:05 12316 [Note] Shutting down plugin 'INNODB_TRX'
+2020-05-29 09:34:05 12316 [Note] Shutting down plugin 'BLACKHOLE'
+2020-05-29 09:34:05 12316 [Note] Shutting down plugin 'ARCHIVE'
+2020-05-29 09:34:05 12316 [Note] Shutting down plugin 'MRG_MYISAM'
+2020-05-29 09:34:05 12316 [Note] Shutting down plugin 'MyISAM'
+2020-05-29 09:34:05 12316 [Note] Shutting down plugin 'MEMORY'
+2020-05-29 09:34:05 12316 [Note] Shutting down plugin 'CSV'
+2020-05-29 09:34:05 12316 [Note] Shutting down plugin 'sha256_password'
+2020-05-29 09:34:05 12316 [Note] Shutting down plugin 'mysql_old_password'
+2020-05-29 09:34:05 12316 [Note] Shutting down plugin 'mysql_native_password'
+2020-05-29 09:34:05 12316 [Note] Shutting down plugin 'binlog'
+2020-05-29 09:34:05 12316 [Note] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Shutdown complete
+
+2020-05-29 09:34:09 3016 [Note] Plugin 'FEDERATED' is disabled.
+2020-05-29 09:34:09 3016 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2020-05-29 09:34:09 3016 [Note] InnoDB: The InnoDB memory heap is disabled
+2020-05-29 09:34:09 3016 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-05-29 09:34:09 3016 [Note] InnoDB: Memory barrier is not used
+2020-05-29 09:34:09 3016 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2020-05-29 09:34:09 3016 [Note] InnoDB: Not using CPU crc32 instructions
+2020-05-29 09:34:09 3016 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2020-05-29 09:34:09 3016 [Note] InnoDB: Completed initialization of buffer pool
+2020-05-29 09:34:09 3016 [ERROR] InnoDB: C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver\mysql\data\ib_logfile0 can't be opened in read-write mode
+2020-05-29 09:34:09 3016 [ERROR] Plugin 'InnoDB' init function returned error.
+2020-05-29 09:34:09 3016 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+2020-05-29 09:34:09 3016 [ERROR] Unknown/unsupported storage engine: InnoDB
+2020-05-29 09:34:09 3016 [ERROR] Aborting
+
+2020-05-29 09:34:09 3016 [Note] Binlog end
+2020-05-29 09:34:09 3016 [Note] Shutting down plugin 'partition'
+2020-05-29 09:34:09 3016 [Note] Shutting down plugin 'PERFORMANCE_SCHEMA'
+2020-05-29 09:34:09 3016 [Note] Shutting down plugin 'INNODB_SYS_DATAFILES'
+2020-05-29 09:34:09 3016 [Note] Shutting down plugin 'INNODB_SYS_TABLESPACES'
+2020-05-29 09:34:09 3016 [Note] Shutting down plugin 'INNODB_SYS_FOREIGN_COLS'
+2020-05-29 09:34:09 3016 [Note] Shutting down plugin 'INNODB_SYS_FOREIGN'
+2020-05-29 09:34:09 3016 [Note] Shutting down plugin 'INNODB_SYS_FIELDS'
+2020-05-29 09:34:09 3016 [Note] Shutting down plugin 'INNODB_SYS_COLUMNS'
+2020-05-29 09:34:09 3016 [Note] Shutting down plugin 'INNODB_SYS_INDEXES'
+2020-05-29 09:34:09 3016 [Note] Shutting down plugin 'INNODB_SYS_TABLESTATS'
+2020-05-29 09:34:09 3016 [Note] Shutting down plugin 'INNODB_SYS_TABLES'
+2020-05-29 09:34:09 3016 [Note] Shutting down plugin 'INNODB_FT_INDEX_TABLE'
+2020-05-29 09:34:10 3016 [Note] Shutting down plugin 'INNODB_FT_INDEX_CACHE'
+2020-05-29 09:34:10 3016 [Note] Shutting down plugin 'INNODB_FT_CONFIG'
+2020-05-29 09:34:10 3016 [Note] Shutting down plugin 'INNODB_FT_BEING_DELETED'
+2020-05-29 09:34:10 3016 [Note] Shutting down plugin 'INNODB_FT_DELETED'
+2020-05-29 09:34:10 3016 [Note] Shutting down plugin 'INNODB_FT_DEFAULT_STOPWORD'
+2020-05-29 09:34:10 3016 [Note] Shutting down plugin 'INNODB_METRICS'
+2020-05-29 09:34:10 3016 [Note] Shutting down plugin 'INNODB_BUFFER_POOL_STATS'
+2020-05-29 09:34:10 3016 [Note] Shutting down plugin 'INNODB_BUFFER_PAGE_LRU'
+2020-05-29 09:34:10 3016 [Note] Shutting down plugin 'INNODB_BUFFER_PAGE'
+2020-05-29 09:34:10 3016 [Note] Shutting down plugin 'INNODB_CMP_PER_INDEX_RESET'
+2020-05-29 09:34:10 3016 [Note] Shutting down plugin 'INNODB_CMP_PER_INDEX'
+2020-05-29 09:34:10 3016 [Note] Shutting down plugin 'INNODB_CMPMEM_RESET'
+2020-05-29 09:34:10 3016 [Note] Shutting down plugin 'INNODB_CMPMEM'
+2020-05-29 09:34:10 3016 [Note] Shutting down plugin 'INNODB_CMP_RESET'
+2020-05-29 09:34:10 3016 [Note] Shutting down plugin 'INNODB_CMP'
+2020-05-29 09:34:10 3016 [Note] Shutting down plugin 'INNODB_LOCK_WAITS'
+2020-05-29 09:34:10 3016 [Note] Shutting down plugin 'INNODB_LOCKS'
+2020-05-29 09:34:10 3016 [Note] Shutting down plugin 'INNODB_TRX'
+2020-05-29 09:34:10 3016 [Note] Shutting down plugin 'BLACKHOLE'
+2020-05-29 09:34:10 3016 [Note] Shutting down plugin 'ARCHIVE'
+2020-05-29 09:34:10 3016 [Note] Shutting down plugin 'MRG_MYISAM'
+2020-05-29 09:34:10 3016 [Note] Shutting down plugin 'MyISAM'
+2020-05-29 09:34:10 3016 [Note] Shutting down plugin 'MEMORY'
+2020-05-29 09:34:10 3016 [Note] Shutting down plugin 'CSV'
+2020-05-29 09:34:10 3016 [Note] Shutting down plugin 'sha256_password'
+2020-05-29 09:34:10 3016 [Note] Shutting down plugin 'mysql_old_password'
+2020-05-29 09:34:10 3016 [Note] Shutting down plugin 'mysql_native_password'
+2020-05-29 09:34:10 3016 [Note] Shutting down plugin 'binlog'
+2020-05-29 09:34:10 3016 [Note] C:\Users\annah\Documents\GitHub\Project_Fashion-Website\webserver/mysql/bin/mysqld_usbwv8.exe: Shutdown complete
+
