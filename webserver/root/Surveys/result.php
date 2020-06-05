@@ -1,10 +1,8 @@
 <?php
-//$beach = $_GET["beach"];
-//echo $beach;
-$p1 = 0;
-$p2 = 0;
-$p3 = 0;
-$p4 = 0;
+$p1 = 0;  //cool
+$p2 = 0;  //Girly
+$p3 = 0;  //Sophiscticated
+$p4 = 0;  //Extra
 
 $arr = array(
   0 => $_GET["beach"],
@@ -29,8 +27,6 @@ for($i = 0; $i < 6;$i++){
     $p4 += 10;
   }
 }
-
-//echo "1: ".$p1." 2: ".$p2. " 3: ".$p3."  4: ".$p4;
 
  ?>
  <!DOCTYPE html>
@@ -88,13 +84,43 @@ for($i = 0; $i < 6;$i++){
                <div class="card-body p-5">
                  <div class="container">
 
-                 <h1 class="h1-big">Your Result</h1>
-                 <p class="lead">by Anna Hartl</p>
-
                  <?php
-                    echo "";
+                 if($p1 >= 40){
+                   echo "<h2>Your Result:<br><br></h2><h1>The cool girl</h1>
+                   <b>Personality traits:</b> fun to be arround, ebraces youth, sometimes immature <br>
+                   <b>Your style:</b> Streetwear, comfortable, practical<br>
+                   <b>Favorite clothing item:</b> Jeans <br>";
+                   echo "<br><h3>Fashion Idols</h3>
+                   <img src=\"../Pictures/Survey/Dua_Lipa.jpg\">
+                   <img src=\"../Pictures/Survey/Hailey_Baldwin.jpg\" ><br>
+                   Dua Lipa and Hailey Baldwin";
+                   echo "<br><br><br>";
+                 }
+                if($p2 >= 40){
+                   echo "<h2>Your Result:<br><br></h2><h1>The girly Typ</h1>
+                   <b>Personality traits:</b> very feminine, love pastel color, happy, childish <br>
+                   <b>Your style:</b> Colorful, flower patterns, simple shapes<br>
+                   <b>Favorite clothing item:</b> Dress <br>";
+                   echo "<br><h3>Fashion Idols</h3>
+                   <img src=\"../Pictures/Survey/Taylor_Swift.jpg\">
+                   <img src=\"../Pictures/Survey/Keira_Knightley.jpg\" ><br>
+                   Taylor Swift and Keira Knightley";
+                   echo "<br><br><br>";
+                 }
+                 if($p1 >= 40){
+                   echo "<h2>Your Result:<br><br></h2><h1>The sophiscticated One</h1>
+                   <b>Personality traits:</b>mature, thinks about your actions, mindful, centered <br>
+                   <b>Your style:</b> classic, simple colors, feminine, modern <br>
+                   <b>Favorite clothing item:</b> Jeans <br>";    //to do
+                   echo "<br><h3>Fashion Idols</h3>
+                   <img src=\"../Pictures/Survey/Dua_Lipa.jpg\">
+                   <img src=\"../Pictures/Survey/Hailey_Baldwin.jpg\" ><br>
+                   Dua Lipa and Hailey Baldwin";
+                   echo "<br><br><br>";
+                 }
                   ?>
-
+                  <h1>Graph</h1>
+                  <p>On this Graph is the distrebution of your different answers shown.</p>
                  <figure>
                  	<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1250 800" preserveAspectRatio="xMinYMin meet" >
                  	<image width="1250" height="800" xlink:href="../Pictures/Survey/grid2.jpg">
@@ -102,11 +128,15 @@ for($i = 0; $i < 6;$i++){
                   <?php
                   $xpos = ($p1-$p3)*6 +625;
                   $ypos = ($p4 -$p2)*5.5 +400;
-                      echo "<circle id=\"india\"  cx=\"".$xpos."\" cy=\"".$ypos."\" r=\"20\" fill=\"#202fb1\" opacity=\"0.7\"></circle>";
+
+                  for($i = 0; $i < 6;$i++){
+
+                  }
+
+                      echo "<circle cx=\"".$xpos."\" cy=\"".$ypos."\" r=\"20\" fill=\"#202fb1\" opacity=\"0.7\"></circle>";
                    ?>
                    </svg>
                  </figure>
-
                  <div id="cont">
                    <hr>
                  </div>
