@@ -55,7 +55,9 @@
                <a href="jeans.php">
                  <img class="img-thumbnail" src="..\Pictures\Outfits\jeans.jpg">
                </a>
-
+               <a href="work.php">
+                 <img class="img-thumbnail" src="..\Pictures\Outfits\work.jpg">
+               </a>
                <!-- <a href="sophisticated.php">
                  <img class="img-thumbnail" src="https://www.thedarlingdetail.com/wp-content/uploads/2016/01/TDD-Monday-5707.jpg">
                </a> -->

@@ -82,3 +82,13 @@
 ::1 - - [09/Jun/2020:07:47:32 +0200] "GET /Pictures/Outfits/Jeans/whiteT2.jpg HTTP/1.1" 200 16405
 ::1 - - [09/Jun/2020:07:47:32 +0200] "GET /Pictures/Outfits/Jeans/necklace.png HTTP/1.1" 200 368947
 ::1 - - [09/Jun/2020:07:47:32 +0200] "GET /Pictures/Outfits/Jeans/bracelet.png HTTP/1.1" 200 500081
+::1 - - [09/Jun/2020:07:58:46 +0200] "GET /outfits/main.php HTTP/1.1" 200 3015
+::1 - - [09/Jun/2020:07:58:46 +0200] "GET /Pictures/Outfits/work.jpg HTTP/1.1" 200 48346
+::1 - - [09/Jun/2020:08:05:54 +0200] "GET /outfits/main.php HTTP/1.1" 200 3015
+::1 - - [09/Jun/2020:08:05:54 +0200] "GET /Pictures/Outfits/work.jpg HTTP/1.1" 200 97019
+::1 - - [09/Jun/2020:08:06:54 +0200] "-" 408 -
+::1 - - [09/Jun/2020:08:14:10 +0200] "GET /outfits/work.php HTTP/1.1" 200 5986
+::1 - - [09/Jun/2020:08:14:11 +0200] "GET /Pictures/Outfits/work.jpg HTTP/1.1" 304 -
+::1 - - [09/Jun/2020:08:15:10 +0200] "-" 408 -
+::1 - - [09/Jun/2020:08:15:34 +0200] "GET /outfits/work.php HTTP/1.1" 200 6020
+::1 - - [09/Jun/2020:08:15:34 +0200] "GET /Pictures/Outfits/work.jpg HTTP/1.1" 304 -
