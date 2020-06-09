@@ -107,15 +107,26 @@ for($i = 0; $i < 6;$i++){
                    Taylor Swift and Keira Knightley";
                    echo "<br><br><br>";
                  }
-                 if($p1 >= 40){
-                   echo "<h2>Your Result:<br><br></h2><h1>The sophiscticated One</h1>
+                 if($p3 >= 40){
+                   echo "<h2>Your Result:<br><br></h2><h1>The sophiscticated Typ</h1>
                    <b>Personality traits:</b>mature, thinks about your actions, mindful, centered <br>
                    <b>Your style:</b> classic, simple colors, feminine, modern <br>
-                   <b>Favorite clothing item:</b> Jeans <br>";    //to do
+                   <b>Favorite item:</b> nude high heels <br>";
                    echo "<br><h3>Fashion Idols</h3>
-                   <img src=\"../Pictures/Survey/Dua_Lipa.jpg\">
-                   <img src=\"../Pictures/Survey/Hailey_Baldwin.jpg\" ><br>
-                   Dua Lipa and Hailey Baldwin";
+                   <img src=\"../Pictures/Survey/magan_markle.jpg\">
+                   <img src=\"../Pictures/Survey/kate_middleton.jpg\" ><br>
+                   Magan Markle and Kate Middleton";
+                   echo "<br><br><br>";
+                 }
+                 if($p4 >= 40){
+                   echo "<h2>Your Result:<br><br></h2><h1>The paradise bird</h1>
+                   <b>Personality traits:</b> extroverted, funny, radiate energy <br>
+                   <b>Your style:</b> colorful, extra, attention seeking<br>
+                   <b>Favorite item:</b> Accessories <br>";
+                   echo "<br><h3>Fashion Idols</h3>
+                   <img src=\"../Pictures/Survey/beyonce.png\">
+                   <img src=\"../Pictures/Survey/katy_perry.jpg\" ><br>
+                   Beyoncé and Katy Perry";
                    echo "<br><br><br>";
                  }
                   ?>
