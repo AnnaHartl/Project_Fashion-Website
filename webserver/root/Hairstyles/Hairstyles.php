@@ -79,9 +79,9 @@ include "../likes.php";
                                 <div class="card-body">
                                   The hairstyle fashion has been existing for over 5169 years now.
                                   The oldest culture to be known to style their hair were the ancient Egyptians.
-                                  They did their hair with knifes, hairpins and combs.
-                                  But it was not only the ancient Egyptians who did their hair pretty early, also the ancient Greek loved to do their hair.
-                                  The ones who did not do their hair well had to pay fines. The complicated hairstyles were often made with wigs.
+                                  They styled their hair with knifes, hairpins and combs.
+                                  But it was not only the ancient Egyptians who styled their hair pretty early, also the ancient Greek loved to style their hair.
+                                  The ones who did not style their hair well had to pay fines. The complicated hairstyles were often made with wigs.
                                   In contrast to ancient Greece, the ancient Romans liked to wear easy hairstyles.
 
                                 </div>
@@ -108,7 +108,6 @@ include "../likes.php";
                                   During the renaissance the women started to like to wear open hair again.
                                   The hairstyles also got more imaginative.
                                   Most of the time they made a node on the head and decorated it with pearls, chains and precious stones.<br /><br />
-
                                 </div>
                             </div>
                         </div>
@@ -133,7 +132,8 @@ include "../likes.php";
 
                             <div id="collapse2" class="collapse" aria-labelledby="heading2" data-parent="#accordion">
                                 <div class="card-body">
-                                  In the beginning of 20th century the short hair came back. The old Egyptian hairstyle named Pageboy was the most famous one.
+                                  In the beginning of 20th century the short hair came back.
+                                  The old Egyptian hairstyle named Pageboy was the most famous one.
                                   Over time women started to wear headscarves.<br />
 
                                   In the whole 20. century the women liked to have curly hair.<br /><br />
@@ -143,7 +143,7 @@ include "../likes.php";
                     </div>
 
 
-                    All in all humanity nearly always loved to do their hair in thousands different ways and in thousands of  years always different.
+                    All in all humanity nearly always loved to style their hair in thousands different ways and in thousands of  years always different.
 
                     <h3 class="h3-big"><br />Hairstyles around the world</h3>
                     In our world there are so many different cultures with different styles,so it is nearly impossible to determine which one of them is the most popular one.
