@@ -68,6 +68,8 @@ include "../likes.php";
                     <circle id="india" onclick="indiaText()" cx="830" cy="300" r="20" fill="#202fb1" opacity="0.7"><title>India</title></circle>
                     <circle id="Kenya" onclick="kenyaText()" cx="680" cy="370" r="20" fill="#202fb1" opacity="0.7"><title>Kenya</title></circle>
                     <circle id="America" onclick="americaText()" cx="220" cy="250" r="30" fill="#202fb1" opacity="0.7"><title>America</title></circle>
+                    <circle id="Scotland" onclick="scotlandText()" cx="230" cy="250" r="30" fill="#202fb1" opacity="0.7"><title>Scotland</title></circle>
+          					<circle id="Russia" onclick="rusiaText()" cx="690" cy="370" r="20" fill="#202fb1" opacity="0.7"><title>Rusia</title></circle>
                   </svg>
                 </figure>
 
@@ -175,6 +177,30 @@ include "../likes.php";
           document.getElementById("cont").appendChild(img2);
           document.getElementById("cont").appendChild(img3);
       }
+      function scotlandText() {
+          clear();
+            var head = document.createElement("h1");
+            head.innerHTML = "Scotland";
+            var img1 = document.createElement("img");
+            img1.classList.add("world-img");
+            img1.style.width = '100%';
+            img1.src = "../Pictures/World/scotland.jpg";
+
+            var img2 = document.createElement("img");
+            img2.classList.add("world-img");
+            img2.style.width = '45%';
+            img2.src = "../Pictures/World/scotland1.jpg";
+
+            var img3 = document.createElement("img");
+            img3.classList.add("world-img");
+            img3.style.width = '45%';
+            img3.src = "../Pictures/World/scotland2.jpg";
+
+            document.getElementById("cont").appendChild(head);
+            document.getElementById("cont").appendChild(img1);
+            document.getElementById("cont").appendChild(img2);
+            document.getElementById("cont").appendChild(img3);
+        }
     </script>
 </body>
 
