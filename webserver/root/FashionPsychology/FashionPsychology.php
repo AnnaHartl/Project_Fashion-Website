@@ -68,8 +68,8 @@ include "../likes.php";
                     But it is much more than that, it looks well beyond cloth at how it affect us and the perspective of our self.
 
                     <h3 class="h3-big">Color</h3>
-                    One of the first things we notice about someone are the colors of the clothing, it is a difference between wearing a bright color such as light green or hot pink or wearing a neutral color.
-                    It affect the way others see you and how YOU behave.
+                    One of the first things we notice about someone are the colors of the clothing, there is a difference between wearing a bright color such as light green or hot pink or wearing a neutral color.
+                    It affects the way others see you and how YOU behave.
 
                     <h3 class="h3-big" style="color: #e60808;"><br />Red</h3>
                     <img class="img-thumbnail" src="..\Pictures\Psychology\red1.jpg" alt="Red outfit">
@@ -90,8 +90,8 @@ include "../likes.php";
                             <div id="collapseOneRed" class="collapse" aria-labelledby="headingOneRed" data-parent="#accordion">
                                 <div class="card-body">
                                   The color captures attention, it is associated with excitement, passion, danger, energy and action.
-                                  It is the most intense color it triggers our fight or flight response. When you wear red you will stand out.
-                                  Choose this color wisely for some pieces in your wardrobe, wearing too much red will make you looking like a firefighter (we certainly don’t want that).
+                                  It is the most intense color, it triggers our fight or flight response. When you wear red you will stand out.
+                                  Choose this color wisely for some pieces in your wardrobe, wearing too much red will make you look like a firefighter (we certainly don’t want that).
                                   The color is often paired with white or black.<br /> With red less is more.
                                 </div>
                             </div>
@@ -117,7 +117,7 @@ include "../likes.php";
                                 <div class="card-body">
                                   In color psychology orange represents creativity, adventure, enthusiasm, success and balance.<br />
                                   It attracts attention but not as forceful as red does.<br />
-                                  In my opinion orange is underrated you hardly see orange in outfits maybe because it can be hard to find the right colors that match.
+                                  In my opinion orange is underrated, you hardly see orange in outfits maybe because it can be hard to find the right colors that match.
                                 <br />  White is the nearly the only color that matches.
 
                                 </div>
@@ -140,10 +140,10 @@ include "../likes.php";
                             </div>
                             <div id="collapse3" class="collapse" aria-labelledby="heading3" data-parent="#accordion">
                                 <div class="card-body">
-                                  The first thing that comes to my mind when I see yellow is sunshine, sunflowers and summer.
+                                  The first things that come to my mind when I see yellow is sunshine, sunflowers and summer.
                                   It represents happiness and positivity. Adding a piece of yellow in your wardrobe can make a dramatic change.
                                   <br />Like orange yellow is in my opinion underrated.
-                                  <br />It goes well with white blue and black.
+                                  <br />It goes well with white, blue and black.
                                   </div>
                             </div>
                         </div>
@@ -164,9 +164,10 @@ include "../likes.php";
                             </div>
                             <div id="collapse4" class="collapse" aria-labelledby="heading4" data-parent="#accordion">
                                 <div class="card-body">
-                                  Green is highly connected to nature and money, it means groth, fertility, health and generosity.
-                                  Green is calm and doesn’t attracts much attention that's why soldiers wear it.
-                                  When you go for a more down to earth look. It is a strong colors and goes well with blue and white.
+                                  Green is highly connected to nature and money, it means growth, fertility, health and generosity.
+                                  Green is calm and doesn’t attract much attention that's why soldiers wear it.
+                                  Green is an excellent color if you want to go for a more down to earth look.
+                                  It is a strong color and goes well with blue and white.
                                         </div>
                             </div>
                         </div>
@@ -187,15 +188,16 @@ include "../likes.php";
                             <div id="collapse5" class="collapse" aria-labelledby="heading5" data-parent="#accordion">
                                 <div class="card-body">
                                   When you ask me what the most popular color in fashion is then I would say blue.
-                                  The favourite clothing piece of the western culture is the jeans and it is light blue.
+                                  The favourite clothing piece of the western culture is jeans and they are light blue.
                                   Blue represents stability, harmony, peace and calmness.
                                       </div>
                             </div>
                         </div>
                     </div>
-                    <h3 class="h3-big"><br />Last Words</h3>
-                    People do not care what they wear but I want to educate you that it does matter what you wear more important what colors you wear.
-                    This article is all about what colors represent what feeling but fashion psychology is much more when you are interested in that topic I will leave a few links below.
+                    <h3 class="h3-big"><br />Conclusion</h3>
+                    People do not care what they wear but I want to educate you that it matters more what colors you wear then what shapes you wear.
+                    This article is all about what feelings each color represents but fashion psychology is a much more in depth topic.
+                     If you are interested I will leave a few links below.
                 </p>
 
                 <h3 class="h3-big"><br />Comments</h3>

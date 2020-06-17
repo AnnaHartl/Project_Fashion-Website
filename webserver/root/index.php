@@ -68,7 +68,7 @@
           <h2>Information</h2>
           <p>
             To navigate properly through our website: <br>
-            There are headers that have a blue-green-ish color <span style= "color: #10a26c; font-weight: 650;">(like so)</span> you can click on them to open further Information.</p>
+            There are headers that have a blue-greenish color <span style= "color: #10a26c; font-weight: 650;">(like so)</span> you can click on them to open further Information.</p>
           </p>
           <!-- <p>
             Searching online for style inspiration, it's easy to  fall down the black hole of Instagram.

@@ -77,12 +77,12 @@ include "../likes.php";
 
                             <div id="collapse1" class="collapse" aria-labelledby="heading1" data-parent="#accordion">
                                 <div class="card-body">
-                                  The fashion of hairstyle has been existing for over 5169 years now.
-                                  The youngest culture to be known to do their hair was the ancient Egypt.
+                                  The hairstyle fashion has been existing for over 5169 years now.
+                                  The oldest culture to be known to style their hair were the ancient Egyptians.
                                   They did their hair with knifes, hairpins and combs.
-                                  But it was not only the ancient Egypt who did their hair pretty early, also the ancient Greece loved to do their hair.
-                                  The ones who did not do their hair well had to pay fines. The complicate hairstyles were often made with wigs.
-                                  In contrast to ancient Greece, the ancient Rome liked to wear easy hairstyles. It was also a tradition to do
+                                  But it was not only the ancient Egyptians who did their hair pretty early, also the ancient Greek loved to do their hair.
+                                  The ones who did not do their hair well had to pay fines. The complicated hairstyles were often made with wigs.
+                                  In contrast to ancient Greece, the ancient Romans liked to wear easy hairstyles.
 
                                 </div>
                             </div>
@@ -105,8 +105,8 @@ include "../likes.php";
 
                             <div id="collapse0" class="collapse" aria-labelledby="heading0" data-parent="#accordion">
                                 <div class="card-body">
-                                  In the renaissance the women started to like to wear open hair again.
-                                  The hairstyles also got more imaginative. The colors gold and blonde.
+                                  During the renaissance the women started to like to wear open hair again.
+                                  The hairstyles also got more imaginative.
                                   Most of the time they made a node on the head and decorated it with pearls, chains and precious stones.<br /><br />
 
                                 </div>
@@ -133,8 +133,8 @@ include "../likes.php";
 
                             <div id="collapse2" class="collapse" aria-labelledby="heading2" data-parent="#accordion">
                                 <div class="card-body">
-                                  In the beginning of 20. century the short hair came back. The old Egyptian hairstyle named Pageboy was the most famous one.
-                                  With the time the women started to wear headscarves.<br />
+                                  In the beginning of 20th century the short hair came back. The old Egyptian hairstyle named Pageboy was the most famous one.
+                                  Over time women started to wear headscarves.<br />
 
                                   In the whole 20. century the women liked to have curly hair.<br /><br />
                                 </div>
@@ -145,8 +145,8 @@ include "../likes.php";
 
                     All in all humanity nearly always loved to do their hair in thousands different ways and in thousands of  years always different.
 
-                    <h3 class="h3-big"><br />Hairstyles of all around the world</h3>
-                    In our world there are so many different cultures with different styles, so it is nearly impossible which one of them is the most popular style.
+                    <h3 class="h3-big"><br />Hairstyles around the world</h3>
+                    In our world there are so many different cultures with different styles,so it is nearly impossible to determine which one of them is the most popular one.
                     Most of the people only focus on the clothes someone wears, so they forget that it is not only the clothes that differ our different cultures.
                     It is also the way how each culture styles their hair.<br /><br />
                     For example, the traditional Japanese hairstyle: <br />
