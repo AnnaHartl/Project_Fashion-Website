@@ -34,12 +34,12 @@
                              <a class="nav-link" href="../Surveys/style.php">Surveys</a>
                          </li>
                          <li class="nav-item active">
-                           <a class="nav-link" >Outfits</a>
-                         </li>
-                         <li class="nav-item">
-                             <a class="nav-link" href="../contact.php">Contact
+                             <a class="nav-link" href="#">Outfits
                                  <span class="sr-only">(current)</span>
                              </a>
+                         </li>
+                         <li class="nav-item">
+                             <a class="nav-link" href="../contact.php">Contact</a>
                          </li>
                      </ul>
                  </div>
@@ -57,6 +57,9 @@
                </a>
                <a href="work.php">
                  <img class="img-thumbnail" src="..\Pictures\Outfits\work.jpg">
+               </a>
+               <a href="90s.php">
+                 <img class="img-thumbnail" src="..\Pictures\Outfits\90s.jpg">
                </a>
                <!-- <a href="sophisticated.php">
                  <img class="img-thumbnail" src="https://www.thedarlingdetail.com/wp-content/uploads/2016/01/TDD-Monday-5707.jpg">
