@@ -11,7 +11,7 @@
   <title>SecondHandFashion</title>
   <link href="../../front-end/bootstrap.css" rel="stylesheet">
   <link href="../../front-end/specialAddings.css" rel="stylesheet">
-  <link href="../../css/Chart.css" rel="stylesheet">
+  <link href="../../front-end/Chart.css" rel="stylesheet">
 </head>
 
 <body>
@@ -65,11 +65,14 @@
 
                   <h3 class="h3-big"><br />Survey</h3>
                   <h4><br />Have you ever bought second hand fashion?<br /></h4>
-                  <img class="vote1" style="width:300px;height:40px;" src="Pictures/blue.png">
-                  <img class="vote2" style="width:300px;height:40px;" src="Pictures/lilac.png">
-                  <img class="vote3" style="width:300px;height:40px;" src="Pictures/turquoise.png"><br />
-                  <div class="text-left">
+                  <img id="vote1" style="width:30%;height:40px;" src="Pictures/blue.png">
+                  <img id="vote2" style="width:30%;height:40px;" src="Pictures/lilac.png">
+                  <img id="vote3" style="width:30%;height:40px;" src="Pictures/turquoise.png"><br />
 
+                  <div class="text-left">
+                  <span id="votes1">te</span>
+                  <span id="votes2"></span>
+                  <span id="votes3"></span>
                   <!-- <?php
                   $sql = mysqli_query($mysqli, "SELECT * FROM vote_table");
                   $row = $sql->fetch_assoc();
@@ -81,8 +84,8 @@
                   <span style=\"margin-right:140px;margin-left:100px;\">Votes: <b><span id=\"2\" class=\"vote22\">".$row["vote2"]."</span></b></span>
                   <span style=\"margin-right:150px;margin-left:110px;\">Votes: <b><span id=\"3\" class=\"vote33\">".$row["vote3"]."</span></b></span>";
                   ?> -->
-
                   </div>
+
                   <h4><br />Result Chart<br /></h4>
                   <span id="total"></span>
                   <canvas id="myChart" height="1" width="10"></canvas>
@@ -145,109 +148,28 @@
   <script src="../../front-end/jquery.min.js"></script>
   <script src="../../front-end/bootstrap.bundle.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+  <script src="../../back-end/vote.js"></script>
   <script type="text/javascript">
     var article = 5;
     setTimeout(() => {  show_comments(article); }, 500);
   </script>
-  <!-- <script>
-  $('.vote1').on('click', function(){
-    $post = $(this);
 
-    $.ajax({
-      url: 'SecondHandFashion.php',
-      type: 'post',
-      data: {
-        'voted1': 1,
-      },
-      success: function(response){
-        $post.parent().find('span.vote11').text(response);
-        drawChart();
-        updateCount();
-      }
-    });
+  <script>
+  show_votes();
+  setTimeout(() => {  drawChart(); }, 350);
+  $('#vote1').on('click', function(){
+    change_votes(0);
+    setTimeout(() => {  window.refresh(); }, 100);
   });
-
-  $('.vote2').on('click', function(){
-        $post = $(this);
-
-    $.ajax({
-      url: 'SecondHandFashion.php',
-      type: 'post',
-      data: {
-        'voted2': 1,
-      },
-      success: function(response){
-          $post.parent().find('span.vote22').text(response);
-          drawChart();
-          updateCount();
-      }
-    });
+  $('#vote2').on('click', function(){
+    change_votes(1);
+    setTimeout(() => {  window.refresh(); }, 100);
   });
-  $('.vote3').on('click', function(){
-        $post = $(this);
-
-    $.ajax({
-      url: 'SecondHandFashion.php',
-      type: 'post',
-      data: {
-        'voted3': 1,
-      },
-      success: function(response){
-        $post.parent().find('span.vote33').text(response);
-        drawChart();
-        updateCount();
-      }
-    });
+  $('#vote3').on('click', function(){
+    change_votes(2);
+    setTimeout(() => {  window.refresh(); }, 100);
   });
   </script>
-  <script>
-  updateCount();
-  function updateCount() {
-    var vote1 = document.getElementById("1").innerHTML;
-    var vote2 = document.getElementById("2").innerHTML;
-    var vote3 = document.getElementById("3").innerHTML;
-    var res = parseInt(vote1,10)+parseInt(vote2,10)+parseInt(vote3,10);
-    document.getElementById("total").innerHTML= "<br />Total Votes: "+res;
-  }
-  </script>
-  <script>
-  drawChart();
-  function drawChart() {
-
-    var ctx = document.getElementById('myChart').getContext('2d');
-    var vote1 = document.getElementById("1").innerHTML;
-    var vote2 = document.getElementById("2").innerHTML;
-    var vote3 = document.getElementById("3").innerHTML;
-
-  if(vote1 === "0" && vote2 === "0" && vote3 === "0") {
-    var vote3 = document.getElementById("error_text").innerHTML = "<br /><br />More people have to participate in this statistic<br />Please come back later";
-  }else {
-    var element = document.getElementById("myChart");
-    element.width = "800";
-    element.height = "500";
-      var chart = new Chart(ctx, {
-          // The type of chart we want to create
-      type: 'pie',
-      data: {
-        //labels: ["No", "Once or twice", "Only"],
-        datasets: [{
-          label: "Survey_Chart",
-          backgroundColor: ["#3e95cd", "#8e5ea2","#3cba9f"],
-          data: [vote1,vote2,vote3]
-        }]
-      },
-      options: {
-        title: {
-          display: false,
-          text: 'Chart'
-        },
-        events: [],
-        animation: false,
-      }
-      });
-    }
-}
-  </script> -->
 </body>
 
 </html>

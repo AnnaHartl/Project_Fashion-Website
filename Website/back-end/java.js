@@ -53,12 +53,12 @@ function clear(){
 function add_comment(article_id) {
   comment(article_id);
   setTimeout(() => {  window.refresh(); }, 500);
-  setTimeout(() => {  jump(); }, 500);
+  //setTimeout(() => {  jump_to("comment_section"); }, 500);
 }
 
-function jump(){
-    window.location.href = "#"+"comment_section";
-}
+// function jump_to(to){
+//     window.location.href = "#"+to;
+// }
 
 window.refresh = function() {
     location.reload();
