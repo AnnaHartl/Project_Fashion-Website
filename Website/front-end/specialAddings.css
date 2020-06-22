@@ -5,6 +5,17 @@
   <link href="css/specialAddings.css" rel="stylesheet">
 
  */
+.form-center{
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 10% !important;
+}
+
+.input-center{
+  margin-left:15%;
+  margin-right:15%;
+}
+
  .checkmark {
    /* position: absolute;
    top: 0;

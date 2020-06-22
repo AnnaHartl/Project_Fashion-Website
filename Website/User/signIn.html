@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>Sign in</title>
+
+  <link href="../front-end/bootstrap.css" rel="stylesheet">
+  <link href="../front-end/specialAddings.css" rel="stylesheet">
+</head>
+
+<body>
+  <nav class="navbar navbar-expand-lg navbar-light bg-light static-top mb-5 shadow">
+<div class="container">
+  <section class="navbar-brand">Fashionistas</section>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+  <div class="collapse navbar-collapse" id="navbarResponsive">
+    <ul class="navbar-nav ml-auto">
+      <li class="nav-item">
+        <a class="nav-link" href="../../index.html">Home
+            </a>
+      </li>
+      <li class="nav-item ">
+        <a class="nav-link" href="../../articles.html">Articles
+        </a>
+      </li>
+      <li class="nav-item active">
+        <a class="nav-link" href="#">Surveys</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="../../outfits/main.html">Outfits</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="../../contact.html">Contact</a>
+      </li>
+    </ul>
+  </div>
+</div>
+</nav>
+
+    <!-- Article -->
+    <section>
+          <div class="container text-center">
+            <div class="card border-0 shadow form-center">
+              <div class="card-body p-5">
+                <div class="container">
+
+                  <form class="form-horizontal" action="#" onsubmit="validate();" name="signIn_form">
+                  <fieldset>
+                  <!-- Form Name -->
+                  <legend>Sign In</legend>
+
+                  <div class="form-group">
+                    <label class="col-md-4 control-label" for="textinput">Username</label>
+                    <div class="input-center">
+                    <input id="textinput" name="name" type="text" placeholder="Do not use personal information" class="form-control input-md" required="">
+
+                    </div>
+                  </div>
+                  <!-- Text input-->
+                  <div class="form-group">
+                    <label class="col-md-4 control-label" for="textinput">Email</label>
+                    <div class="input-center">
+                    <input id="textinput" name="mail" type="text" placeholder="" class="form-control input-md" required="">
+
+                    </div>
+                  </div>
+
+                  <!-- Password input-->
+                  <div class="form-group">
+                    <label class="col-md-4 control-label" for="passwordinput">Password</label>
+                    <div class="input-center">
+                      <input id="passwordinput" name="password" type="password" placeholder="" class="form-control input-md" required="">
+
+                    </div>
+                  </div>
+                  <div class="form-group">
+                    <div class="col">
+                      <button id="submit" name="submit" class="btn btn-primary" style="padding-left: 12px;">Sign In</button>
+                    </div>
+                  </div>
+
+
+                  </fieldset>
+                  </form>
+                  <span id="error" style="color:red;"></span>
+                  <span id="success" style="color:green;"></span>
+              </div>
+              </div>
+              </div>
+              </div>
+    </section>
+    <script src="../back-end/java.js"></script>
+    <script src="../back-end/user.js"></script>
+    <script src="../front-end/jquery.min.js"></script>
+    <script src="../front-end/bootstrap.bundle.js"></script>
+</body>
+
+</html>
