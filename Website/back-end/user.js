@@ -99,4 +99,6 @@ function log_out() {
   xhr.open("PUT",'http://localhost:3000/loggedin/1', true);
   xhr.setRequestHeader('Content-type','application/json; charset=utf-8');
   xhr.send(json);
+  setTimeout(() => {  window.refresh(); }, 500);
+  alert("Successfully logged out");
 }

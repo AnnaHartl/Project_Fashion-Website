@@ -12,11 +12,12 @@ function show_comments(article_id) {
 
     // Begin accessing JSON data here
     var data = JSON.parse(this.response);
-
       data.forEach(comment => {
         if(comment.article_id == article_id){
+
+          //var user = find_user(comment.user_id);
           const h3 = document.createElement('h3');
-          h3.textContent = `User: ${comment.name}`;
+          //h3.textContent = `User: ${user.name}`;
 
           const p = document.createElement('p');
           comment.text = comment.text.substring(0, 300);
@@ -58,3 +59,21 @@ function add_comment(article_id) {
 window.refresh = function() {
     location.reload();
 };
+
+function find_user(id) {
+  var request= new XMLHttpRequest();
+  request.open('GET', 'http://localhost:3000/users', true);
+  request.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+      var data = JSON.parse(this.response);
+      data.forEach(user => {
+          if(user.id == id){
+            return user;
+            console.log("OK");
+          }
+      });
+    }
+  };
+  request.send();
+  return null;
+}
