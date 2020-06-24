@@ -51,14 +51,14 @@
              <div class="card border-0 shadow form-center">
                <div class="card-body p-5">
                  <div class="container">
-                   <form class="form-horizontal">
+                   <form class="form-horizontal" action="javascript:void(0);" onsubmit="get_data();" name="login_form">
                    <fieldset>
                      <h1>Login</h1>
                    <!-- Text input-->
                    <div class="form-group">
                      <label class="col-md-4 control-label" for="textinput">Email</label>
                      <div class="input-center">
-                     <input id="textinput" name="textinput" type="text" placeholder="" class="form-control input-md" required="">
+                     <input id="textinput" name="email" type="text" placeholder="" class="form-control input-md" required="">
 
                      </div>
                    </div>
@@ -67,7 +67,7 @@
                    <div class="form-group">
                      <label class="col-md-4 control-label" for="passwordinput">Password</label>
                      <div class="input-center">
-                       <input id="passwordinput" name="passwordinput" type="password" placeholder="" class="form-control input-md" required="">
+                       <input id="passwordinput" name="password" type="password" placeholder="" class="form-control input-md" required="">
 
                      </div>
                    </div>
@@ -79,13 +79,17 @@
 
                    </fieldset>
                    </form>
-
+                   <span id="error" style="color:red;"></span>
+                   <span id="success" style="color:green;"></span>
                </div>
                </div>
                </div>
                </div>
      </section>
-
+     <script src="../back-end/java.js"></script>
+     <script src="../back-end/user.js"></script>
+     <script src="../front-end/jquery.min.js"></script>
+     <script src="../front-end/bootstrap.bundle.js"></script>
  </body>
 
  </html>

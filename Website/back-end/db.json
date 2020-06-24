@@ -77,27 +77,21 @@
       "id": 1
     },
     {
-      "name": "Anna",
-      "mail": "hartl@gmail.com",
-      "pw": "123",
+      "name": "Michelle",
+      "mail": "michelle@gmail.com",
+      "pw": "234",
       "id": 2
     },
     {
-      "name": "Michelle",
-      "mail": "michelle@gmail.com",
+      "name": "Anna2",
+      "mail": "hartl@gmail.com",
       "pw": "123",
       "id": 3
-    },
-    {
-      "name": "Michelle2",
-      "mail": "michelle2@gmail.com",
-      "pw": "123",
-      "id": 4
     }
   ],
   "loggedin": [
     {
-      "user_id": -1,
+      "user_id": 1,
       "id": 1
     }
   ]
