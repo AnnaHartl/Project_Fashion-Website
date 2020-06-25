@@ -64,7 +64,7 @@
       <div class="card h-100">
         <img class="card-img" src="MainPictures/Homepage/head_hp.jpg" alt="">
           <div class="card-body">
-          <h1 class="h1 article-homepage">Welcome to our webpage!</h1>
+          <h1 class="h1 article-homepage" id="personalization">Welcome to our webpage!</h1>
           <p class="lead">by Anna Hartl & Tamara Melcher</p>
           <hr>
           <h2>Information</h2>
@@ -231,6 +231,37 @@ Interactive global map
     <script src="back-end/button.js"></script>
     <script type="text/javascript">
       var url = '';
+    </script>
+    <script type="text/javascript">
+    var request= new XMLHttpRequest();
+    request.open('GET', 'http://localhost:3000/loggedin/1', true);
+
+    request.onreadystatechange = function() {
+      if (this.readyState == 4 && this.status == 200) {
+          var data = JSON.parse(this.response);
+          if(data.user_id != -1){
+            get_user(data.user_id);
+          }
+      }
+    };
+    request.send();
+
+    function get_user(id) {
+      var request= new XMLHttpRequest();
+      request.open('GET', 'http://localhost:3000/users', true);
+
+      request.onreadystatechange = function() {
+        if (this.readyState == 4 && this.status == 200) {
+            var data = JSON.parse(this.response);
+            data.forEach(users => {
+              if(users.id == id){
+                document.getElementById("personalization").innerHTML = "Welcome " +users.name+" !";
+              }
+            });
+        }
+      };
+      request.send();
+    }
     </script>
 </body>
 
