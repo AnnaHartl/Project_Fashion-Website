@@ -5,6 +5,27 @@
   <link href="css/specialAddings.css" rel="stylesheet">
 
  */
+ #test:hover {
+   color: white;
+ }
+
+#choices{
+  margin: auto auto;
+  height: 400px;
+  width: 500px;
+}
+
+#test{
+  margin: auto auto;
+}
+
+.opt{
+  background: url("../Survey/Pictures/women_silhouette.jpg");
+}
+.opt2{
+  background: url("../Survey/Pictures/men_silhouette.jpg");
+}
+
 .button-nav{
   margin-right: 5px;
   margin-left: 5px;

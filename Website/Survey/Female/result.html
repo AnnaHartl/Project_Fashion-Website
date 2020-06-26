@@ -1,7 +1,3 @@
-<!-- $p1 = 0;  //cool
-$p2 = 0;  //Girly
-$p3 = 0;  //Sophiscticated
-$p4 = 0;  //Extra -->
  <!DOCTYPE html>
  <html lang="en">
 
@@ -56,74 +52,19 @@ $p4 = 0;  //Extra -->
                <div class="card-body p-5">
                  <div class="container">
 
-                 <!-- <?php
-                 if($p1 >= 40){
-                   echo "<h2>Your Result:<br><br></h2><h1>The cool girl</h1>
-                   <b>Personality traits:</b> fun to be arround, ebraces youth, sometimes immature <br>
-                   <b>Your style:</b> Streetwear, comfortable, practical<br>
-                   <b>Favorite clothing item:</b> Jeans <br>";
-                   echo "<br><h3>Fashion Idols</h3>
-                   <img src=\"../Pictures/Survey/Dua_Lipa.jpg\">
-                   <img src=\"../Pictures/Survey/Hailey_Baldwin.jpg\" ><br>
-                   Dua Lipa and Hailey Baldwin";
-                   echo "<br><br><br>";
-                 }
-                if($p2 >= 40){
-                   echo "<h2>Your Result:<br><br></h2><h1>The girly Typ</h1>
-                   <b>Personality traits:</b> very feminine, love pastel color, happy, childish <br>
-                   <b>Your style:</b> Colorful, flower patterns, simple shapes<br>
-                   <b>Favorite clothing item:</b> Dress <br>";
-                   echo "<br><h3>Fashion Idols</h3>
-                   <img src=\"../Pictures/Survey/Taylor_Swift.jpg\">
-                   <img src=\"../Pictures/Survey/Keira_Knightley.jpg\" ><br>
-                   Taylor Swift and Keira Knightley";
-                   echo "<br><br><br>";
-                 }
-                 if($p3 >= 40){
-                   echo "<h2>Your Result:<br><br></h2><h1>The sophiscticated Typ</h1>
-                   <b>Personality traits:</b>mature, thinks about your actions, mindful, centered <br>
-                   <b>Your style:</b> classic, simple colors, feminine, modern <br>
-                   <b>Favorite item:</b> nude high heels <br>";
-                   echo "<br><h3>Fashion Idols</h3>
-                   <img src=\"../Pictures/Survey/magan_markle.jpg\">
-                   <img src=\"../Pictures/Survey/kate_middleton.jpg\" ><br>
-                   Magan Markle and Kate Middleton";
-                   echo "<br><br><br>";
-                 }
-                 if($p4 >= 40){
-                   echo "<h2>Your Result:<br><br></h2><h1>The paradise bird</h1>
-                   <b>Personality traits:</b> extroverted, funny, radiate energy <br>
-                   <b>Your style:</b> colorful, extra, attention seeking<br>
-                   <b>Favorite item:</b> Accessories <br>";
-                   echo "<br><h3>Fashion Idols</h3>
-                   <img src=\"../Pictures/Survey/beyonce.png\">
-                   <img src=\"../Pictures/Survey/katy_perry.jpg\" ><br>
-                   Beyoncé and Katy Perry";
-                   echo "<br><br><br>";
-                 }
-                  ?> -->
-                  <h1>Graph</h1>
-                  <p>On this Graph is the distrebution of your different answers shown.</p>
-                 <figure>
-                 	<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1250 800" preserveAspectRatio="xMinYMin meet" >
-                 	<image width="1250" height="800" xlink:href="../Pictures/grid.jpg">
-                 	</image>
-                  <!-- <?php
-                  $xpos = ($p1-$p3)*6 +625;
-                  $ypos = ($p4 -$p2)*5.5 +400;
+                   <h1>Graph</h1>
+                   <p>On this Graph is the distrebution of your different answers shown.</p>
+                   <canvas id="myChart" height="1" width="10"></canvas>
 
-                  for($i = 0; $i < 6;$i++){
-
-                  }
-
-                      echo "<circle cx=\"".$xpos."\" cy=\"".$ypos."\" r=\"20\" fill=\"#202fb1\" opacity=\"0.7\"></circle>";
-                   ?> -->
-                   </svg>
-                 </figure>
-                 <div id="cont">
-                   <hr>
-                 </div>
-
+                   <h2><br>Your Result: </h2>
+                   <h1 id="header"></h1>
+                   <p id="traits"><b>Personality traits: </b></p>
+                   <p id="style"><b>Your style: </b></p>
+                   <p id="item"><b>Favorite clothing item: </b></p>
+                   <h3 id="idol">Fashion Idols</h3>
+                   <img src="" id="img1">
+                   <img src="" id="img2">
+                   <p id="caption"></p>
                </div>
                </div>
                </div>
@@ -131,12 +72,67 @@ $p4 = 0;  //Extra -->
      </section>
      <script src="../../front-end/jquery.min.js"></script>
      <script src="../../front-end/bootstrap.bundle.js"></script>
+     <script src="../../back-end/survey.js"></script>
+     <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
      <script type="text/javascript">
-       var name = document.forms["comment_form"]["new_name"].value;
-       var text = document.forms["comment_form"]["new_text"].value;
-       var values = {
-         
-       }
+       var GET = {};
+         var queryString = window.location.search.replace(/^\?/, '');
+         queryString.split(/\&/).forEach(function(keyValuePair) {
+             var paramName = keyValuePair.replace(/=.*$/, ""); // some decoding is probably necessary
+             var paramValue = keyValuePair.replace(/^[^=]*\=/, ""); // some decoding is probably necessary
+             GET[paramName] = paramValue;
+         });
+         //console.log(GET["form/val1"]);
+         draw_graph(GET["form/val1"],GET["form/val2"],GET["form/val3"],GET["form/val4"]);
+
+         if(GET["form/val1"] >= 40){
+           document.getElementById("header").innerHTML += "The cool girl";
+           document.getElementById("traits").innerHTML += "fun to be arround, ebraces youth, sometimes immature";
+           document.getElementById("style").innerHTML += "Streetwear, comfortable, practical";
+           document.getElementById("item").innerHTML += "Jeans";
+           document.getElementById("caption").innerHTML += "Dua Lipa and Hailey Baldwin";
+           document.getElementById("img1").src = "../Pictures/Celebrities/Dua_Lipa.jpg";
+           document.getElementById("img2").src = "../Pictures/Celebrities/Hailey_Baldwin.jpg";
+         }
+        else if(GET["form/val2"] >= 40){
+           document.getElementById("header").innerHTML += "The girly typ";
+           document.getElementById("traits").innerHTML += "very feminine, love pastel color, happy, childish";
+           document.getElementById("style").innerHTML += "Colorful, flower patterns, simple shapes";
+           document.getElementById("item").innerHTML += "Dress";
+           document.getElementById("caption").innerHTML += "Taylor Swift and Keira Knightley";
+           document.getElementById("img1").src = "../Pictures/Celebrities/Taylor_Swift.jpg";
+           document.getElementById("img2").src = "../Pictures/Celebrities/Keira_Knightley.jpg";
+         }
+
+         else if(GET["form/val3"] >= 40){
+           document.getElementById("header").innerHTML += "The sophiscticated women";
+           document.getElementById("traits").innerHTML += "mature, thinks about your actions, mindful, centered";
+           document.getElementById("style").innerHTML += "classic, simple colors, feminine, modern";
+           document.getElementById("item").innerHTML += "Nude high heels";
+           document.getElementById("caption").innerHTML += "Magan Markle and Kate Middleton";
+           document.getElementById("img1").src = "../Pictures/Celebrities/magan_markle.jpg";
+           document.getElementById("img2").src = "../Pictures/Celebrities/kate_middleton.jpg";
+         }
+
+         else if(GET["form/val4"] >= 40){
+           document.getElementById("header").innerHTML += "The paradise bird";
+           document.getElementById("traits").innerHTML += "extroverted, funny, radiate energy";
+           document.getElementById("style").innerHTML += "colorful, extra, attention seeking";
+           document.getElementById("item").innerHTML += "Accessories";
+           document.getElementById("caption").innerHTML += "Beyoncé and Katy Perry";
+           document.getElementById("img1").src = "../Pictures/Celebrities/beyonce.png";
+           document.getElementById("img2").src = "../Pictures/Celebrities/katy_perry.jpg";
+         }
+         else {
+           document.getElementById("header").innerHTML = "No clear result";
+           document.getElementById("traits").innerHTML = "";
+           document.getElementById("style").innerHTML = "";
+           document.getElementById("item").innerHTML = "";
+           document.getElementById("caption").innerHTML = "";
+           document.getElementById("img1").src = "";
+           document.getElementById("img2").src = "";
+           document.getElementById("idol").innerHTML = "";
+         }
      </script>
  </body>
 
