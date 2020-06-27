@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>YourResult.com</title>
+
+    <link href="../../front-end/bootstrap.css" rel="stylesheet">
+    <link href="../../front-end/specialAddings.css" rel="stylesheet">
+</head>
+
+<body>
+<nav class="navbar navbar-expand-lg navbar-light bg-light static-top mb-5 shadow">
+    <div class="container">
+        <section class="navbar-brand">Fashionistas</section>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav ml-auto" id="list">
+                <li class="nav-item">
+                    <a class="nav-link" href="../../index.html">Home
+                    </a>
+                </li>
+                <li class="nav-item ">
+                    <a class="nav-link" href="../../articles.html">Articles
+                    </a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="#">Surveys</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../../outfits/main.html">Outfits</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../../contact.html">Contact</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<!-- Article -->
+<section>
+    <div class="container text-center">
+        <div class="card border-0 shadow my-5">
+            <div class="card-body p-5">
+                <div class="container">
+
+                    <h1>Graph</h1>
+                    <p>This diagram shows the distribution of your different answers.</p>
+                    <canvas id="myChart" height="1" width="10"></canvas>
+
+                    <h2><br>Your Result: </h2>
+                    <h1 id="header"></h1>
+                    <p id="traits"><b>Personality traits: </b></p>
+                    <p id="style"><b>Your style: </b></p>
+                    <p id="item"><b>Favorite clothing item: </b></p>
+                    <h3 id="idol">Fashion Idols</h3>
+                    <img src="" id="img1">
+                    <img src="" id="img2">
+                    <p id="caption"></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<script src="../../front-end/jquery.min.js"></script>
+<script src="../../front-end/bootstrap.bundle.js"></script>
+<script src="../../back-end/survey.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+<script src="../../back-end/button.js"></script>
+<script type="text/javascript">
+    var GET = {};
+    var queryString = window.location.search.replace(/^\?/, '');
+    queryString.split(/\&/).forEach(function(keyValuePair) {
+        var paramName = keyValuePair.replace(/=.*$/, ""); // some decoding is probably necessary
+        var paramValue = keyValuePair.replace(/^[^=]*\=/, ""); // some decoding is probably necessary
+        GET[paramName] = paramValue;
+    });
+    //console.log(GET["form/val1"]);
+    draw_graph(GET["form/val1"],GET["form/val2"],GET["form/val3"],GET["form/val4"]);
+
+    if(GET["form/val1"] >= 40){
+        document.getElementById("header").innerHTML += "The cool girl";
+        document.getElementById("traits").innerHTML += "fun to be arround, ebraces youth, sometimes immature";
+        document.getElementById("style").innerHTML += "Streetwear, comfortable, practical";
+        document.getElementById("item").innerHTML += "Jeans";
+        document.getElementById("caption").innerHTML += "Dua Lipa and Hailey Baldwin";
+        document.getElementById("img1").src = "../Pictures/Celebrities/Dua_Lipa.jpg";
+        document.getElementById("img2").src = "../Pictures/Celebrities/Hailey_Baldwin.jpg";
+    }
+    else if(GET["form/val2"] >= 40){
+        document.getElementById("header").innerHTML += "The girly typ";
+        document.getElementById("traits").innerHTML += "very feminine, love pastel color, happy, childish";
+        document.getElementById("style").innerHTML += "Colorful, flower patterns, simple shapes";
+        document.getElementById("item").innerHTML += "Dress";
+        document.getElementById("caption").innerHTML += "Taylor Swift and Keira Knightley";
+        document.getElementById("img1").src = "../Pictures/Celebrities/Taylor_Swift.jpg";
+        document.getElementById("img2").src = "../Pictures/Celebrities/Keira_Knightley.jpg";
+    }
+
+    else if(GET["form/val3"] >= 40){
+        document.getElementById("header").innerHTML += "The sophiscticated women";
+        document.getElementById("traits").innerHTML += "mature, thinks about your actions, mindful, centered";
+        document.getElementById("style").innerHTML += "classic, simple colors, feminine, modern";
+        document.getElementById("item").innerHTML += "Nude high heels";
+        document.getElementById("caption").innerHTML += "Magan Markle and Kate Middleton";
+        document.getElementById("img1").src = "../Pictures/Celebrities/magan_markle.jpg";
+        document.getElementById("img2").src = "../Pictures/Celebrities/kate_middleton.jpg";
+    }
+
+    else if(GET["form/val4"] >= 40){
+        document.getElementById("header").innerHTML += "The paradise bird";
+        document.getElementById("traits").innerHTML += "extroverted, funny, radiate energy";
+        document.getElementById("style").innerHTML += "colorful, extra, attention seeking";
+        document.getElementById("item").innerHTML += "Accessories";
+        document.getElementById("caption").innerHTML += "Beyoncé and Katy Perry";
+        document.getElementById("img1").src = "../Pictures/Celebrities/beyonce.png";
+        document.getElementById("img2").src = "../Pictures/Celebrities/katy_perry.jpg";
+    }
+    else {
+        document.getElementById("header").innerHTML = "No clear result";
+        document.getElementById("traits").innerHTML = "";
+        document.getElementById("style").innerHTML = "";
+        document.getElementById("item").innerHTML = "";
+        document.getElementById("caption").innerHTML = "";
+        document.getElementById("img1").src = "";
+        document.getElementById("img2").src = "";
+        document.getElementById("idol").innerHTML = "";
+    }
+</script>
+</body>
+<script type="text/javascript">
+    var url = '../../';
+</script>
+</html>

@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>StyleTest.com</title>
+
+    <link href="../../front-end/bootstrap.css" rel="stylesheet">
+    <link href="../../front-end/specialAddings.css" rel="stylesheet">
+</head>
+
+<body>
+<nav class="navbar navbar-expand-lg navbar-light bg-light static-top mb-5 shadow">
+    <div class="container">
+        <section class="navbar-brand">Fashionistas</section>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav ml-auto" id="list">
+                <li class="nav-item">
+                    <a class="nav-link" href="../../index.html">Home
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../../articles.html">Articles
+                    </a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="#">Surveys</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../../outfits/main.html">Outfits</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../../contact.html">Contact</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<!-- Article -->
+<section>
+    <div class="container text-center">
+        <div class="card border-0 shadow my-5">
+            <div class="card-body p-5">
+                <div class="container">
+
+                    <h1 class="h1-big">What style matches your personality?</h1>
+                    <p class="lead">by Anna Hartl</p>
+
+                    <form action="javascript:void(0);" onsubmit="result();" class="horizontalLine" name="male_form">
+                        <br> <hr>
+                        <h3>It's summer time! <br>What swimwear would you wear so the beach?<br><br></h3>
+                        <img class="survey-img survey-img-left" src="../Pictures/Male/usually1.jpg">
+                        <img class="survey-img" src="../Pictures/Male/usually2.jpg"><br>
+                        <input class="radio-btn-survey checkmark" type="radio" id="usually" name="usually" value="1" checked="checked">
+                        <input class="radio-btn-survey checkmark" type="radio" id="usually" name="usually" value="2"><br>
+                        <img class="survey-img survey-img-left" src="../Pictures/Male/usually.jpeg">
+                        <img class="survey-img" src="../Pictures/Male/usually4.jpg">
+                        <input class="radio-btn-survey checkmark" type="radio" id="usually" name="usually" value="3">
+                        <input class="radio-btn-survey checkmark" type="radio" id="usually" name="usually" value="4">
+                        <br> <br> <hr> <br>
+                        <h3>How would your friend describe you?<br><br></h3>
+                        <input class="checkmark" type="radio" id="personality" name="personality" value="1" checked="checked">
+                        <label for="1">Cool, laidback, having an attitude</label><br>
+                        <input class="checkmark" type="radio" id="personality" name="personality" value="2">
+                        <label for="2">Playful, happy, likes attention</label><br>
+                        <input class="checkmark" type="radio" id="personality" name="personality" value="3">
+                        <label for="3">Mature, thinks about her actions, confident</label><br>
+                        <input class="checkmark" type="radio" id="personality" name="personality" value="4">
+                        <label for="4">Fun, energetic, extroverted</label><br>
+                        <br> <br> <hr> <br>
+                        <h3>Your bestfriend gets you a necklace for your birthday <br>How would it look? <br><br></h3>
+                        <img class="survey-img survey-img-left" src="../Pictures/Female/gift1.jpg">
+                        <img class="survey-img" src="../Pictures/Female/gift2.jpg"><br>
+                        <input class="radio-btn-survey checkmark" type="radio" id="gift" name="gift" value="1" checked="checked">
+                        <input class="radio-btn-survey checkmark" type="radio" id="gift" name="gift" value="2"><br>
+                        <img class="survey-img survey-img-left" src="../Pictures/Female/gift3.jpg">
+                        <img class="survey-img" src="../Pictures/Female/gift4.jpg">
+                        <input class="radio-btn-survey checkmark" type="radio" id="gift" name="gift" value="3">
+                        <input class="radio-btn-survey checkmark" type="radio" id="gift" name="gift" value="4">
+                        <br> <br> <hr> <br>
+                        <h3>Your favourite shoes?<br><br></h3>
+                        <img class="survey-img survey-img-left" src="../Pictures/Female/shoes1.jpg">
+                        <img class="survey-img" src="../Pictures/Female/shoes2.jpg"><br>
+                        <input class="radio-btn-survey checkmark" type="radio" id="shoes" name="shoes" value="1" checked="checked">
+                        <input class="radio-btn-survey checkmark" type="radio" id="shoes" name="shoes" value="2"><br>
+                        <img class="survey-img survey-img-left" src="../Pictures/Female/shoes3.jpg">
+                        <img class="survey-img" src="../Pictures/Female/shoes4.jpg">
+                        <input class="radio-btn-survey checkmark" type="radio" id="shoes" name="shoes" value="3">
+                        <input class="radio-btn-survey checkmark" type="radio" id="shoes" name="shoes" value="4">
+                        <br> <br> <hr> <br>
+                        <h3>You found your perfect match <br>What is your dream weddingdress?<br><br></h3>
+                        <img class="survey-img survey-img-left" src="../Pictures/Female/wedding1.jpg">
+                        <img class="survey-img" src="../Pictures/Female/wedding2.jpg"><br>
+                        <input class="radio-btn-survey checkmark" type="radio" id="wedding" name="wedding" value="1" checked="checked">
+                        <input class="radio-btn-survey checkmark" type="radio" id="wedding" name="wedding" value="2"><br>
+                        <img class="survey-img survey-img-left" src="../Pictures/Female/wedding3.jpg">
+                        <img class="survey-img" src="../Pictures/Female/wedding4.jpg">
+                        <input class="radio-btn-survey checkmark" type="radio" id="wedding" name="wedding" value="3">
+                        <input class="radio-btn-survey checkmark" type="radio" id="wedding" name="wedding" value="4">
+                        <br> <br> <hr> <br>
+                        <h3>Party time! <br> What should you wear?<br><br></h3>
+                        <img class="survey-img survey-img-left" src="../Pictures/Female/clubbing1.jpg">
+                        <img class="survey-img" src="../Pictures/Female/clubbing2.jpg"><br>
+                        <input class="radio-btn-survey checkmark" type="radio" id="club" name="club" value="1" checked="checked">
+                        <input class="radio-btn-survey checkmark" type="radio" id="club" name="club" value="2"><br>
+                        <img class="survey-img survey-img-left" src="../Pictures/Female/clubbing3.jpg">
+                        <img class="survey-img" src="../Pictures/Female/clubbing4.jpg">
+                        <input class="radio-btn-survey checkmark" type="radio" id="club" name="club" value="3">
+                        <input class="radio-btn-survey checkmark" type="radio" id="club" name="club" value="4">
+                        <br> <br> <hr> <br>
+
+                        <button id="submit" name="submit" class="btn btn-primary" style="padding-left: 12px;">Result</button>
+                    </form>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<script src="../../front-end/jquery.min.js"></script>
+<script src="../../front-end/bootstrap.bundle.js"></script>
+<script src="../../back-end/survey.js"></script>
+<script src="../../back-end/button.js"></script>
+<script type="text/javascript">
+    var url = '../../';
+</script>
+</body>
+
+</html>
