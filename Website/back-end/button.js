@@ -29,7 +29,7 @@ request.onreadystatechange = function() {
 
         btn_register.setAttribute('name','register_button');
         btn_register.setAttribute('class','btn btn-primary button-nav');
-        btn_register.setAttribute('onclick','location.href = \''+ url +'User/login.html\';');
+        btn_register.setAttribute('onclick','location.href = \''+ url +'User/register.html\';');
         btn_register.textContent = 'Register';
 
         btn_login.setAttribute('name','login_button');
