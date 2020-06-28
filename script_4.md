@@ -1,6 +1,6 @@
 # Presentation
 ## Navbar Items
-*	show articles 
+*	show articles (votes SecondHandFashion)
 *	can comment
 *	Information tags
 ## World map
