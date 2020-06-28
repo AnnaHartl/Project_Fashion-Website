@@ -1,7 +1,7 @@
 function validate() {
   var user_name = document.forms["signIn_form"]["name"].value;
   var user_mail = document.forms["signIn_form"]["mail"].value;
-  var user_pw = document.forms["signIn_form"]["password"].value;
+  var user_pw = calcMD5(document.forms["signIn_form"]["password"].value).toUpperCase();
   var request= new XMLHttpRequest();
   request.open('GET', 'http://localhost:3000/users', true);
   request.onload = function () {
@@ -38,6 +38,7 @@ function add_user(name, mail, pw) {
   user ["name"] = name;
   user ["mail"] = mail;
   user ["pw"] = pw;
+  user ["vote"] = -1;
   var data = JSON.stringify(user);
   xhr.send(data);
 }
@@ -45,7 +46,7 @@ function add_user(name, mail, pw) {
 //login
 function get_data() {
   var user_mail = document.forms["login_form"]["email"].value;
-  var user_pw = document.forms["login_form"]["password"].value;
+  var user_pw = calcMD5(document.forms["login_form"]["password"].value).toUpperCase();
   login(user_mail,user_pw);
 }
 

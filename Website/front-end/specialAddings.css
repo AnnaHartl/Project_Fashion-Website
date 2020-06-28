@@ -5,6 +5,18 @@
   <link href="css/specialAddings.css" rel="stylesheet">
 
  */
+ .btn-user {
+   color: #fff;
+   background-color: #5390d9;
+   border-color: #5390d9;
+ }
+
+ .btn-user:hover {
+   color: #fff;
+   background-color: #4ea8de;
+   border-color: #4ea8de;
+ }
+
  #test:hover {
    color: white;
  }
@@ -145,11 +157,11 @@
  }
 
 .reference-link{
-	color: #0089ff;
+	color: #aa4465;
 }
 
 .reference-link:hover{
-		color: #a00bc5;
+		color: #462255;
 }
 
 .p{

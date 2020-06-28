@@ -60,3 +60,60 @@ function drawChart() {
     }
   });
 }
+
+function validation() {
+  var request= new XMLHttpRequest();
+  request.open('GET', 'http://localhost:3000/loggedin/1', true);
+  request.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+      var data = JSON.parse(this.response);
+      if(data.user_id != -1){
+        has_voted(data.user_id);
+      }
+      else {
+        document.getElementById("error1").innerHTML = "Please log in to vote";
+      }
+    }
+  };
+  request.send();
+}
+
+function has_voted(id) {
+  var request= new XMLHttpRequest();
+  request.open('GET', 'http://localhost:3000/users/'+id, true);
+  request.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+      var user = JSON.parse(this.response);
+        if(user.vote == -1){
+          update_user(id);
+        }
+        else {
+          document.getElementById("error1").innerHTML += "<br> You can only vote once";
+        }
+    }
+  };
+  request.send();
+}
+
+function update_user(id) {
+  var request= new XMLHttpRequest();
+  request.open('GET', 'http://localhost:3000/users/'+id, true);
+  request.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+      var user = JSON.parse(this.response);
+      var data = {};
+      data.name = user.name;
+      data.mail = user.mail;
+      data.pw = user.pw;
+      data.vote = 1;
+      data.id = user.id;
+      var json = JSON.stringify(data);
+      var xhr = new XMLHttpRequest();
+      xhr.open("PUT",'http://localhost:3000/users/'+id, true);
+      xhr.setRequestHeader('Content-type','application/json; charset=utf-8');
+      xhr.send(json);
+      document.getElementById("error1").innerHTML = " ";
+    }
+  };
+  request.send();
+}

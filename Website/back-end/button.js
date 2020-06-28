@@ -11,7 +11,7 @@ request.onreadystatechange = function() {
         item.setAttribute('class', 'nav-item');
         const btn_logout = document.createElement('button');
         btn_logout.setAttribute('name','logout_button');
-        btn_logout.setAttribute('class','btn btn-primary button-nav');
+        btn_logout.setAttribute('class','btn btn-user button-nav');
         btn_logout.setAttribute('onclick','log_out();');
         btn_logout.textContent = 'Log out';
         item.appendChild(btn_logout);
@@ -28,12 +28,12 @@ request.onreadystatechange = function() {
         const btn_login = document.createElement('button');
 
         btn_register.setAttribute('name','register_button');
-        btn_register.setAttribute('class','btn btn-primary button-nav');
+        btn_register.setAttribute('class','btn btn-user button-nav');
         btn_register.setAttribute('onclick','location.href = \''+ url +'User/register.html\';');
         btn_register.textContent = 'Register';
 
         btn_login.setAttribute('name','login_button');
-        btn_login.setAttribute('class','btn btn-primary button-nav');
+        btn_login.setAttribute('class','btn btn-user button-nav');
         btn_login.setAttribute('onclick','location.href = \''+ url +'User/login.html\';');
         btn_login.textContent = 'Login';
 

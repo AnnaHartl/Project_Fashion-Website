@@ -1868,9 +1868,9 @@ pre code {
 }
 
 .form-control {
-  display: block;
-  width: 100%;
-  height: calc(1.5em + 0.75rem + 2px);
+  width: 60%;
+  height: 45px;
+  /* height: calc(1.5em + 0.75rem + 2px); */
   padding: 0.375rem 0.75rem;
   font-size: 1rem;
   font-weight: 400;
@@ -2435,14 +2435,14 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #3e95cd;
-  border-color: #3e95cd;
+  background-color: #028090;
+  border-color: #028090;
 }
 
 .btn-primary:hover {
   color: #fff;
-  background-color: #0069d9;
-  border-color: #0062cc;
+  background-color: #00a896;
+  border-color: #00a896;
 }
 
 .btn-primary:focus, .btn-primary.focus {

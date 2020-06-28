@@ -11,19 +11,25 @@
       "text": "Good",
       "article_id": 1,
       "id": 2
+    },
+    {
+      "user_id": 4,
+      "text": "great",
+      "article_id": 8,
+      "id": 3
     }
   ],
   "votes": [
     {
-      "vote": 13,
+      "vote": 5,
       "id": 0
     },
     {
-      "vote": 13,
+      "vote": 3,
       "id": 1
     },
     {
-      "vote": 13,
+      "vote": 8,
       "id": 2
     }
   ],
@@ -32,24 +38,34 @@
       "name": "Anna Hartl",
       "mail": "anna@gmail.com",
       "pw": "1234",
+      "vote": -1,
       "id": 1
     },
     {
       "name": "Michelle",
       "mail": "michelle@gmail.com",
       "pw": "234",
+      "vote": -1,
       "id": 2
     },
     {
       "name": "Anna2",
       "mail": "hartl@gmail.com",
       "pw": "123",
+      "vote": -1,
       "id": 3
+    },
+    {
+      "name": "Anna",
+      "mail": "test@gmail.com",
+      "pw": "81DC9BDB52D04DC20036DBD8313ED055",
+      "vote": 1,
+      "id": 4
     }
   ],
   "loggedin": [
     {
-      "user_id": 1,
+      "user_id": -1,
       "id": 1
     }
   ]
