@@ -5,6 +5,10 @@
   <link href="css/specialAddings.css" rel="stylesheet">
 
  */
+html {
+    scroll-behavior: smooth;
+}
+
  .btn-user {
    color: #fff;
    background-color: #5390d9;

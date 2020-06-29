@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3fe1e8b9-5ad3-410c-918c-84effdee8c6a" name="Default Changelist" comment="" />
+    <list default="true" id="3fe1e8b9-5ad3-410c-918c-84effdee8c6a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Website/Map/FashionWorld.html" beforeDir="false" afterPath="$PROJECT_DIR$/Website/Map/FashionWorld.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Website/Outfits/90s.html" beforeDir="false" afterPath="$PROJECT_DIR$/Website/Outfits/90s.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Website/Outfits/casual.html" beforeDir="false" afterPath="$PROJECT_DIR$/Website/Outfits/casual.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Website/Outfits/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/Website/Outfits/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Website/Outfits/work.html" beforeDir="false" afterPath="$PROJECT_DIR$/Website/Outfits/work.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Website/Survey/Male/style.html" beforeDir="false" afterPath="$PROJECT_DIR$/Website/Survey/Male/style.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Website/front-end/specialAddings.css" beforeDir="false" afterPath="$PROJECT_DIR$/Website/front-end/specialAddings.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Website/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Website/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,10 +47,17 @@
       <workItem from="1593248932410" duration="1884000" />
       <workItem from="1593439322206" duration="2884000" />
       <workItem from="1593442881531" duration="176000" />
+      <workItem from="1593459645580" duration="3905000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="578" y="279" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593461232599">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="578" y="279" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1593461232599" />
   </component>
 </project>
