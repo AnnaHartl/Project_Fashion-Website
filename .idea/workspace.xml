@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3fe1e8b9-5ad3-410c-918c-84effdee8c6a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Website/Survey/Female/result.html" beforeDir="false" afterPath="$PROJECT_DIR$/Website/Survey/Female/result.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Website/Survey/Female/style.html" beforeDir="false" afterPath="$PROJECT_DIR$/Website/Survey/Female/style.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Website/Survey/Male/result.html" beforeDir="false" afterPath="$PROJECT_DIR$/Website/Survey/Male/result.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Website/Survey/Male/style.html" beforeDir="false" afterPath="$PROJECT_DIR$/Website/Survey/Male/style.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Website/Survey/Pictures/Male/usually.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Website/Survey/Pictures/Male/usually.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Website/Survey/Pictures/Male/usually1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Website/Survey/Pictures/Male/usually2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Website/Survey/Pictures/Male/usually4.jpg" beforeDir="false" />
-    </list>
+    <list default="true" id="3fe1e8b9-5ad3-410c-918c-84effdee8c6a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +36,7 @@
       <workItem from="1593175797055" duration="928000" />
       <workItem from="1593248932410" duration="1884000" />
       <workItem from="1593439322206" duration="2884000" />
+      <workItem from="1593442881531" duration="176000" />
     </task>
     <servers />
   </component>
