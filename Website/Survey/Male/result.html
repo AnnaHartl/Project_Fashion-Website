@@ -32,7 +32,7 @@
                     </a>
                 </li>
                 <li class="nav-item active">
-                    <a class="nav-link" href="#">Surveys</a>
+                    <a class="nav-link" href="../main.html">Surveys</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="../../outfits/main.html">Outfits</a>
@@ -61,10 +61,9 @@
                     <p id="traits"><b>Personality traits: </b></p>
                     <p id="style"><b>Your style: </b></p>
                     <p id="item"><b>Favorite clothing item: </b></p>
-                    <h3 id="idol">Fashion Idols</h3>
+                    <h3 id="idol">Inspiration</h3>
                     <img src="" id="img1">
                     <img src="" id="img2">
-                    <p id="caption"></p>
                 </div>
             </div>
         </div>
@@ -72,7 +71,7 @@
 </section>
 <script src="../../front-end/jquery.min.js"></script>
 <script src="../../front-end/bootstrap.bundle.js"></script>
-<script src="../../back-end/survey.js"></script>
+<script src="../../back-end/survey_female.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
 <script src="../../back-end/button.js"></script>
 <script type="text/javascript">
@@ -91,7 +90,6 @@
         document.getElementById("traits").innerHTML += "fun to be arround, ebraces youth, sometimes immature";
         document.getElementById("style").innerHTML += "Streetwear, comfortable, practical";
         document.getElementById("item").innerHTML += "Jeans";
-        document.getElementById("caption").innerHTML += "Some outfits for inspiration";
         document.getElementById("img1").src = "../Pictures/Celebrities/cool1.jpg";
         document.getElementById("img2").src = "../Pictures/Celebrities/cool2.jpg";
     }
@@ -100,17 +98,15 @@
         document.getElementById("traits").innerHTML += "serious, happy, childish";
         document.getElementById("style").innerHTML += "classic, simple shapes";
         document.getElementById("item").innerHTML += "Jacket";
-        document.getElementById("caption").innerHTML += "Some outfits for inspiration";
         document.getElementById("img1").src = "../Pictures/Celebrities/classic1.jpg";
         document.getElementById("img2").src = "../Pictures/Celebrities/classic2.jpg";
     }
 
     else if(GET["form/val3"] >= 40){
-        document.getElementById("header").innerHTML += "The sophiscticated";
+        document.getElementById("header").innerHTML += "The sophiscticated Man";
         document.getElementById("traits").innerHTML += "mature, mindful, centered";
         document.getElementById("style").innerHTML += "elegant, simple colors, modern";
         document.getElementById("item").innerHTML += "Suit";
-        document.getElementById("caption").innerHTML += "Some outfits for inspiration";
         document.getElementById("img1").src = "../Pictures/Celebrities/suit1.jpg";
         document.getElementById("img2").src = "../Pictures/Celebrities/suit2.jpg";
     }
@@ -120,8 +116,7 @@
         document.getElementById("traits").innerHTML += "extroverted, funny";
         document.getElementById("style").innerHTML += "colorful, extra";
         document.getElementById("item").innerHTML += "Accessories";
-        document.getElementById("caption").innerHTML += "Some outfits for inspiration";
-        document.getElementById("img1").src = "../Pictures/Celebrities/hipster1.png";
+        document.getElementById("img1").src = "../Pictures/Celebrities/hipster1.jpg";
         document.getElementById("img2").src = "../Pictures/Celebrities/hipster2.jpg";
     }
     else {
@@ -129,7 +124,6 @@
         document.getElementById("traits").innerHTML = "";
         document.getElementById("style").innerHTML = "";
         document.getElementById("item").innerHTML = "";
-        document.getElementById("caption").innerHTML = "";
         document.getElementById("img1").src = "";
         document.getElementById("img2").src = "";
         document.getElementById("idol").innerHTML = "";

@@ -50,7 +50,7 @@ function draw_graph(v1,v2,v3,v4) {
     data: {
       datasets: [{
         label: "Survey_Chart",
-        backgroundColor: ["#3e95cd", "#8e5ea2","#3cba9f"],
+        backgroundColor: ["#086375", "#1dd3b0","#affc41", "#b2ff9e"],
         data: [
           v1,v2,v3,v4
         ]
