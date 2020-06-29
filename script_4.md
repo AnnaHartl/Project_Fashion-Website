@@ -3,11 +3,7 @@
 *	show articles (votes SecondHandFashion)
 *	can comment
 *	Information tags
-## World map
-*	click on get information
-*	resize screen
-
-*	Overview articles
+## Overview articles
 ## Survey
 *	decide between two
 *	graph
@@ -18,6 +14,9 @@
 ## Contact 
 *	Instagram button
 *	mail with subject
+## World map
+*	click on get information
+*	resize screen
 ## Login
 *	wrong mail & wrong password
 *	(anna@gmail.com) & wrong password
