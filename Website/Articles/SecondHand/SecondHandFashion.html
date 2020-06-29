@@ -70,6 +70,7 @@
                     <img id="vote2" style="width:30%;height:40px;margin-left:20%" src="Pictures/lilac.png"><span> Yes, once or twice (<span id="votes2"></span>)</span> <br>
                     <img id="vote3" style="width:30%;height:40px;margin-left:20%" src="Pictures/turquoise.png"><span> Yes, I only buy second hand fashion (<span id="votes3"></span>)</span><br>
                   </div>
+                  <span id="error1" style="color:red;"></span>
 
                   <h4><br />Result Chart<br /></h4>
                   <span id="total"></span>
@@ -97,13 +98,6 @@
                   <form name="comment_form" action="javascript:;" onsubmit="add_comment(article)" method="post">
                   <fieldset>
                   <legend>Add a comment</legend>
-
-                  <div class="form-group">
-                    <div class="col">
-                    <input id="new_name" name="new_name" type="text" placeholder="username" class="form-control" required="">
-
-                    </div>
-                  </div>
 
                   <div class="form-group">
                     <div class="col">
@@ -143,18 +137,33 @@
 
   <script>
   show_votes();
-  setTimeout(() => {  drawChart(); }, 350);
+  setTimeout(() => {  drawChart(); }, 500);
   $('#vote1').on('click', function(){
-    change_votes(0);
-    setTimeout(() => {  window.refresh(); }, 100);
+    validation();
+    setTimeout(() => {
+      if(document.getElementById("error1").innerHTML === " "){
+        change_votes(0);
+        setTimeout(() => {  window.refresh(); }, 500);
+      }
+    }, 500);
   });
   $('#vote2').on('click', function(){
-    change_votes(1);
-    setTimeout(() => {  window.refresh(); }, 100);
+    validation();
+    setTimeout(() => {
+      if(document.getElementById("error1").innerHTML === " "){
+        change_votes(1);
+        setTimeout(() => {  window.refresh(); }, 500);
+      }
+    }, 500);
   });
   $('#vote3').on('click', function(){
-    change_votes(2);
-    setTimeout(() => {  window.refresh(); }, 100);
+    validation();
+    setTimeout(() => {
+      if(document.getElementById("error1").innerHTML === " "){
+        change_votes(2);
+        setTimeout(() => {  window.refresh(); }, 500);
+      }
+    }, 500);
   });
   </script>
 </body>

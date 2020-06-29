@@ -65,6 +65,10 @@
                    <img src="" id="img1">
                    <img src="" id="img2">
                    <p id="caption"></p>
+                   <h3 id="outfit">Outfit for your</h3>
+                   <a id="link">
+                     <img id="img3">
+                   </a>
                </div>
                </div>
                </div>
@@ -94,6 +98,9 @@
            document.getElementById("caption").innerHTML += "Dua Lipa and Hailey Baldwin";
            document.getElementById("img1").src = "../Pictures/Celebrities/Dua_Lipa.jpg";
            document.getElementById("img2").src = "../Pictures/Celebrities/Hailey_Baldwin.jpg";
+           document.getElementById("link").href = "../../Outfits/casual.html";
+           document.getElementById("img3").src = "../../Outfits/Pictures/jeans.jpg";
+           document.getElementById("img3").setAttribute('class', 'img-thumbnail');
          }
         else if(GET["form/val2"] >= 40){
            document.getElementById("header").innerHTML += "The girly type";
@@ -103,6 +110,9 @@
            document.getElementById("caption").innerHTML += "Taylor Swift and Keira Knightley";
            document.getElementById("img1").src = "../Pictures/Celebrities/Taylor_Swift.jpg";
            document.getElementById("img2").src = "../Pictures/Celebrities/Keira_Knightley.jpg";
+           document.getElementById("link").href = "../../Outfits/summer.html";
+           document.getElementById("img3").src = "../../Outfits/Pictures/summer.jpg";
+           document.getElementById("img3").setAttribute('class', 'img-thumbnail');
          }
 
          else if(GET["form/val3"] >= 40){
@@ -113,6 +123,9 @@
            document.getElementById("caption").innerHTML += "Magan Markle and Kate Middleton";
            document.getElementById("img1").src = "../Pictures/Celebrities/magan_markle.jpg";
            document.getElementById("img2").src = "../Pictures/Celebrities/kate_middleton.jpg";
+           document.getElementById("link").href = "../../Outfits/work.html";
+           document.getElementById("img3").src = "../../Outfits/Pictures/work.jpg";
+           document.getElementById("img3").setAttribute('class', 'img-thumbnail');
          }
 
          else if(GET["form/val4"] >= 40){
@@ -123,6 +136,9 @@
            document.getElementById("caption").innerHTML += "Beyoncé and Katy Perry";
            document.getElementById("img1").src = "../Pictures/Celebrities/beyonce.png";
            document.getElementById("img2").src = "../Pictures/Celebrities/katy_perry.jpg";
+           document.getElementById("link").href = "../../Outfits/90s.html";
+           document.getElementById("img3").src = "../../Outfits/Pictures/90s.jpg";
+           document.getElementById("img3").setAttribute('class', 'img-thumbnail');
          }
          else {
            document.getElementById("header").innerHTML = "No clear result";
@@ -133,6 +149,9 @@
            document.getElementById("img1").src = "";
            document.getElementById("img2").src = "";
            document.getElementById("idol").innerHTML = "";
+           document.getElementById("link").href = "";
+           document.getElementById("img3").src = "";
+           document.getElementById("outfit").innerHTML = "";
          }
      </script>
  </body>
