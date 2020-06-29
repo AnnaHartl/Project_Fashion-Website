@@ -11,7 +11,7 @@
 ## Outfits
 *	little navigation bar
 *	online shops
-## Contact 
+## Contact
 *	Instagram button
 *	mail with subject
 ## World map
@@ -20,12 +20,10 @@
 ## Login
 *	wrong mail & wrong password
 *	(anna@gmail.com) & wrong password
-*	logged in 
+*	logged in
 ## Register
 *	same username (Anna)
 *	same mail (anna@gmail.com)
 *	success redirection
 ## Comments
 *	only comment with account
-*	limited amount of comments
-
