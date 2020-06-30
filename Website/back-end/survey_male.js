@@ -9,8 +9,8 @@ function result() {
   values.push(document.forms["male_form"]["personality"].value);
   values.push(document.forms["male_form"]["shoes"].value);
   values.push(document.forms["male_form"]["money"].value);
-  //values.push(document.forms["male_form"]["wedding"].value);
-  //values.push(document.forms["male_form"]["club"].value);
+  values.push(document.forms["male_form"]["beach"].value);
+  values.push(document.forms["male_form"]["statement"].value);
   for (var i = 0; i < values.length; i++) {
     switch (values[i]) {
       case "1":
